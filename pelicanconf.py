@@ -35,21 +35,26 @@ ARTICLE_SAVE_AS = "{slug}/index.html"
 PAGE_URL = "{slug}"
 PAGE_SAVE_AS = "{slug}/index.html"
 
-CATEGORY_URL = "category/{slug}"
-CATEGORY_SAVE_AS = "category/{slug}/index.html"
+CATEGORY_URL = "trilha/{slug}"
+CATEGORY_SAVE_AS = "trilha/{slug}/index.html"
 
 TAG_URL = "tag/{slug}"
 TAG_SAVE_AS = "tag/{slug}/index.html"
 
-SERIES_URL = "series/{slug}"
-SERIES_SAVE_AS = "series/{slug}/index.html"
+SERIES_URL = "serie/{slug}"
+SERIES_SAVE_AS = "serie/{slug}/index.html"
 
-AUTHOR_URL = 'author/{slug}'
-AUTHOR_SAVE_AS = 'author/{slug}/index.html'
+AUTHOR_URL = 'dev/{slug}'
+AUTHOR_SAVE_AS = 'dev/{slug}/index.html'
+AUTHORS_URL = 'devs'
+AUTHORS_SAVE_AS = 'devs/index.html'
+
+ARCHIVES_URL = 'changelog'
+ARCHIVES_SAVE_AS = 'changelog/index.html'
 
 PAGINATION_PATTERNS = (
-    (1, '{base_name}/', '{base_name}/index.html'),
-    (2, '{base_name}/page/{number}/', '{base_name}/page/{number}/index.html'),
+    (1, '{base_name}/releases/', '{base_name}/releases/index.html'),
+    (2, '{base_name}/releases/pagina/{number}/', '{base_name}/releases/pagina/{number}/index.html'),
 )
 RELATIVE_URLS = False
 
