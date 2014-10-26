@@ -6,7 +6,8 @@ v0.1 - Cultura Hacker
 :podcast: HNC.v0.1-Cultura-Hacker
 :length: 54211286
 :duration: 56:26
-:image: /images/v0.x/covers/v0.1-cover-sqr.jpg
+:image_sqr: /images/v0.x/covers/v0.1-cover-sqr.jpg
+:image_wide: /images/v0.x/covers/v0.1-cover-wide.jpg
 :podcastembed: https://archive.org/embed/HNC.v0.1-Cultura-Hacker/HNC.v0.1-Cultura-Hacker.mp3
 :description: Hackers não são criminosos cibernéticos que invadem seu computador ou roubam seus e-mails, o nome disso é cracker. Sabia que os hackers na verdade são praticamente os responsáveis pela internet, pelo sistema operacional Unix, OS X, Gnu/Linux e etc? Sabia que os hackers não se limitam apenas ao mundo da tecnologia?
 
