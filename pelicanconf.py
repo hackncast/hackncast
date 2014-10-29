@@ -18,6 +18,10 @@ DEFAULT_LANG = u'pt'
 # Theme
 THEME = os.path.join(BASE_DIR, '.theme')
 
+JINJA_EXTENSIONS = ['jinja2.ext.do']
+
+DEFAULT_DATE_FORMAT = "%A, %d de %B de %Y às %H:%M"
+
 # Plugins
 PLUGIN_PATHS = [os.path.join(BASE_DIR, '.plugins')]
 PLUGINS = [
@@ -106,9 +110,9 @@ OPEN_GRAPH_IMAGE = "/images/logos/HNC-beta.png"
 SITEDESCRIPTION = "Um podcast sobre tecnologia em geral, mas especialmente focado em Software Livre, Open Source e GNU/Linux"
 
 # Colaboradores
-ACTIVE_AUTHORS = ['Magnun Leno', 'Bruno Barbosa', 'Ricardo Medeiros', 'Gilson Filho']
+ACTIVE_AUTHORS = ['Magnun', 'Bruno', 'Ricardo', 'Gilson', 'Davi']
 SITEAUTHORS = {
-        'Magnun Leno':
+        'Magnun':
             {
                 'image': 'https://lh5.googleusercontent.com/-tdNroc0oPGc/AAAAAAAAAAI/AAAAAAAAAOw/q_jbij7hbVI/s120-c/photo.jpg',
                 'description': '<p>Criador, Desenvolvedor e Autor do blog <a href="http://mindbending.org/">Mind Bending</a></p>',
@@ -117,7 +121,7 @@ SITEAUTHORS = {
                     '<a href="https://github.com/magnunleno" class="label label-default"><i class="fa fa-github"></i> Github</a>',
                     ]
             },
-        'Bruno Barbosa':
+        'Bruno':
             {
                 'image': 'https://lh3.googleusercontent.com/-ubgzC730QYE/AAAAAAAAAAI/AAAAAAAAAMA/baBevnRUSGQ/s120-c/photo.jpg',
                 'description': '<p>Co-Fundador do <a href="http://algoritmizando.com">Algoritmizando</a>, usuário GNU/Linux. Utiliza as tecnologias Zope/Plone, Django e web2py.</p>',
@@ -126,7 +130,7 @@ SITEAUTHORS = {
                     '<a href="https://github.com/bruninbsb/" class="label label-default"><i class="fa fa-github"></i> Github</a>',
                     ]
             },
-        'Ricardo Medeiros':
+        'Ricardo':
             {
                 'image': 'https://lh3.googleusercontent.com/-AfUOQdW-5zU/AAAAAAAAAAI/AAAAAAAAIbM/XO-Cf-sTbA8/s120-c/photo.jpg',
                 'description':'<p>Cara a cara eu gaguejo, tenho dúvidas, sou pouco sociável. Mas, escrevendo, cuidado comigo.</p>',
@@ -134,7 +138,16 @@ SITEAUTHORS = {
                     '<a href="https://twitter.com/rictm" class="label label-default"><i class="fa fa-twitter"></i> Twitter</a>',
                 ]
             },
-        'Gilson Filho':
+        'Gilson':
+            {
+                'image': 'https://lh6.googleusercontent.com/-WqpgBkIaepM/AAAAAAAAAAI/AAAAAAAAAJI/W2sWTkMnv1I/s120-c/photo.jpg',
+                'description': '<p>Desenvolvedor Python e Django, cansado de Java, recém carioca. Entusiasta Vim e usuário assíduo do <a href="http://github.com/gilsondev">Github</a></p>',
+                'links': [
+                    '<a href="https://twitter.com/gilsondev" class="label label-default"><i class="fa fa-twitter"></i> Twitter</a>',
+                    '<a href="https://github.com/gilsondev" class="label label-default"><i class="fa fa-github"></i> Github</a>',
+                ]
+            },
+        'Davi':
             {
                 'image': 'https://lh6.googleusercontent.com/-WqpgBkIaepM/AAAAAAAAAAI/AAAAAAAAAJI/W2sWTkMnv1I/s120-c/photo.jpg',
                 'description': '<p>Desenvolvedor Python e Django, cansado de Java, recém carioca. Entusiasta Vim e usuário assíduo do <a href="http://github.com/gilsondev">Github</a></p>',

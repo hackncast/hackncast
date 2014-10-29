@@ -1,6 +1,7 @@
 v0.1 - Cultura Hacker
 #####################
 :date: 2014-05-13 11:22
+:authors: Magnun, Ricardo, Bruno
 :category: Filosofia
 :tags: hacker, podcast, cultura, hacker, mit, rush
 :podcast: HNC.v0.1-Cultura-Hacker
@@ -18,7 +19,6 @@ Sejam todos bem vindos ao primeiro episódio do **Hack 'n' Cast**! É isso aí p
         :align: center
         :alt: Hack 'n' Cast Beta
 
-
 .. role:: strike
 
 É isso aí, quem me conhece pessoalmente sabe que sou um grande fã da mídia *podcast* e que tenho influência de vários podcasts, o que é perceptível nessa edição. E como o logo aí em cima ressalta, ainda estou considerando esse projeto como estando na fase Beta (o Ricardo diz *Alpha*), ainda não definimos uma periodicidade :strike:`e ainda não temos um feed para assinatura` (vou ter que *hackear* o `Pelican`_ pra isso), mas estamos trabalhando para colocar tudo em ordem.
@@ -28,11 +28,6 @@ Sejam todos bem vindos ao primeiro episódio do **Hack 'n' Cast**! É isso aí p
         **Atenção** Já temos um feed RSS! Para inscrever-se no no feed do Hack 'n' Cast, pesquise no seu player de podcast favorito (caso não encontre nos avise) ou `assine pelo navegador aqui`_.
 
 .. more
-
-.. podcast:: HNC.v0.1-Cultura-Hacker
-        :rss: http://feeds.feedburner.com/hack-n-cast
-        :itunes: https://itunes.apple.com/br/podcast/hack-n-cast/id884916846
-
 
 Cultura Hacker
 --------------
