@@ -1,4 +1,7 @@
 __pycache__/
 .theme/
+cache/
+output/
 *.pyc
 *.pyo
+*.pid
