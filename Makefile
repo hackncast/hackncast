@@ -41,10 +41,12 @@ help:
 	@echo '   make devserver [PORT=8000]       start/restart develop_server.sh             '
 	@echo '   make stopserver                  stop local server                           '
 	@echo '                                                                                '
-	@echo 'Custom targets:                                                                 '
+	@echo 'Custom targets (Virtual Environment):                                           '
 	@echo '   make all [PRD=1]                 (re)generate the whole site                 '
 	@echo '   make update [PRD=1]              update the .theme folder                    '
 	@echo '   make build [PRD=1]               regenerate files from site                  '
+	@echo '   make envserve [PORT=8000]        serve site at http://localhost:8000         '
+	@echo '   make envdevserver [PORT=8000]    start/restart develop_server.sh             '
 	@echo '   make move                        move files from $(TMPDIR) to $(PRDOUTPUTDIR)'
 	@echo '   make ping                        ping search engines                         '
 	@echo '                                                                                '
@@ -104,6 +106,20 @@ endif
 
 build:
 	. $(VENV); pelican $(BASEDIR)/content -o $(TMPDIR) -s $(CONF) $(PELICANOPTS)
+
+envserve:
+ifdef PORT
+	cd $(TMPDIR) && $(PY) -m pelican.server $(PORT)
+else
+	cd $(TMPDIR) && $(PY) -m pelican.server
+endif
+
+envdevserver:
+ifdef PORT
+	$(BASEDIR)/env_develop_server.sh restart $(PORT)
+else
+	$(BASEDIR)/env_develop_server.sh restart
+endif
 
 move:
 	mv $(TMPDIR)/* $(PRDOUTPUTDIR)/
