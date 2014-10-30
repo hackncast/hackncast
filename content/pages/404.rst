@@ -1,0 +1,15 @@
+404!
+----
+:status: hidden
+:slug: 404
+:comments: closed
+:image: /images/logos/HNC-beta.png
+:summary: Página não encontrada
+
+.. image:: {filename}/images/mario404.png
+        :target: {filename}/images/mario404.png
+        :alt: Página não encontrada - 404
+        :align: center
+
+
+
