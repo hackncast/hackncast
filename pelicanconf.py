@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 import os
 
-DEFAULT_PAGINATION = 4
+DEFAULT_PAGINATION = 10
 
 BASE_DIR = os.path.dirname(__file__)
 
@@ -33,6 +33,8 @@ PLUGINS = [
         ]
 
 # Configurações para armazenar cada página dentro do seu próprio diretório
+INDEX_SAVE_AS = "/releases/index.html"
+
 ARTICLE_URL = "{slug}"
 ARTICLE_SAVE_AS = "{slug}/index.html"
 
@@ -48,17 +50,17 @@ TAG_SAVE_AS = "tag/{slug}/index.html"
 SERIES_URL = "serie/{slug}"
 SERIES_SAVE_AS = "serie/{slug}/index.html"
 
-AUTHOR_URL = 'dev/{slug}'
-AUTHOR_SAVE_AS = 'dev/{slug}/index.html'
-AUTHORS_URL = 'devs'
-AUTHORS_SAVE_AS = 'devs/index.html'
+AUTHOR_URL = 'dev/{author}'
+AUTHOR_SAVE_AS = 'dev/{author}/index.html'
+AUTHORS_URL = ''
+AUTHORS_SAVE_AS = ''
 
 ARCHIVES_URL = 'changelog'
 ARCHIVES_SAVE_AS = 'changelog/index.html'
 
 PAGINATION_PATTERNS = (
-    (1, '{base_name}/releases/', '{base_name}/releases/index.html'),
-    (2, '{base_name}/releases/pagina/{number}/', '{base_name}/releases/pagina/{number}/index.html'),
+    (1, '{base_name}/', '{base_name}/index.html'),
+    (2, '{base_name}/pagina/{number}/', '{base_name}/pagina/{number}/index.html'),
 )
 RELATIVE_URLS = False
 
