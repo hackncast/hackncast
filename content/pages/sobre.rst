@@ -76,6 +76,6 @@ O Hack 'n' Cast é distribuído sobre a licença `Creative Commons Attribution-S
 .. _assine pelo navegador aqui: http://feeds.feedburner.com/hack-n-cast
 .. _Daniel Cavalcante: https://www.facebook.com/entediado.agenciaxfour
 .. _Guilherme Gonzales: https://www.facebook.com/guilhermebrandaogonzalez
-.. _Kolaborativa: http://www.kolaborativa.com.br/blog
+.. _Kolaborativa: http://blog.kolaborativa.com
 .. _Design Livre: http://designlivre.org/
 .. _design colaborativo: http://pt.slideshare.net/entediadoagenciaxfour/palesta-26629922
