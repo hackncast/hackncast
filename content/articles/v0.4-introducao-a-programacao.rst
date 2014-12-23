@@ -9,7 +9,6 @@ v0.4 - Introdução à Programação
 :length: 86272963
 :duration: 89:00
 :podcast: HNC.v0.4-Introducao-a-programacao
-:podcastembed: http://archive.org/embed/HNC.v0.4-Introducao-a-programacao/HNC.v0.4-Introducao-a-programacao/mp3
 :description: Ah, A programação! A bela arte de gerar códigos! Linus Torvalds já dizia: programar é para poucos. Eu ainda acrescento: programar bem é para raríssimos. Você também não está neste seleto grupo? Então junte-se a nos e venha se divertir com esse tópico!
 
 E no episódio deste mês do `Hack 'n' Cast`_ abordamos o assunto de introdução à programação. O quê? Você não programa? Mas até o Schwarzenegger programa! E mais, em `sua língua nativa`_? Não acredita? Quem afirma é o Davi Sanches (nosso convidado de hoje) e também o nosso especialista, pois ele acompanhou de perto a criação da `La pascaline`_ e deu seu pitaco na `Máquina Diferencial`_ de `Babbage`_. Sim, temos conosco hoje um herói, saído da sessão da tarde e diretamente das *Highlands*, o nosso Guerreiro Imortal: Ricardo Medeiros! Ou seria ele o `Rei de Vida Eterna`_?
