@@ -8,7 +8,7 @@ DEFAULT_PAGINATION = 10
 
 BASE_DIR = os.path.dirname(__file__)
 
-AUTHOR = u'Magnun Leno'
+AUTHOR = u'Magnun'
 SITENAME = u"Hack 'n' Cast"
 RELATIVE_URLS = True
 TIMEZONE = 'America/Sao_Paulo'
@@ -50,8 +50,8 @@ TAG_SAVE_AS = "tag/{slug}/index.html"
 SERIES_URL = "serie/{slug}"
 SERIES_SAVE_AS = "serie/{slug}/index.html"
 
-AUTHOR_URL = 'dev/{author}'
-AUTHOR_SAVE_AS = 'dev/{author}/index.html'
+AUTHOR_URL = 'dev/{slug}'
+AUTHOR_SAVE_AS = 'dev/{slug}/index.html'
 AUTHORS_URL = ''
 AUTHORS_SAVE_AS = ''
 
