@@ -5,8 +5,8 @@ v0.6 - Python
 :authors: Magnun, Ricardo, Gilson
 :tags: hack 'n' cast, podcast, beta, python, linguagem, programação, história, orientação a objetos, System of a down, databasecast, piratas da internet, zen of python
 :podcast: HNC.v0.6-Python
-:image_sqr: /images/v0.x/v0.6-cover-sqr.jpg
-:image_wide: /images/v0.x/v0.6-cover-wide.jpg
+:image_sqr: /images/v0.x/covers/v0.6-cover-sqr.jpg
+:image_wide: /images/v0.x/covers/v0.6-cover-wide.jpg
 :length: 88737172
 :duration: 92:07
 :podcastembed: http://archive.org/embed/HNC.v0.6-Python/HNC.v0.6-Python.mp3
