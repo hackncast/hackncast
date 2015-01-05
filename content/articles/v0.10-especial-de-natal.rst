@@ -17,7 +17,7 @@ Para não perder nenhum episódio siga-nos nas redes sociais (`Twitter`_ e `Face
 .. more
 
 Links Citados
-------------- 
+-------------
 
 * Equipamentos/Programas para gravação:
 
@@ -98,14 +98,14 @@ Demais:
 .. _Opencast: http://tecnologiaaberta.com.br
 
 .. Links de equipamentos/programas para gravação
-.. _Microfone Yeti Blue: http://www.amazon.com/Blue-Microphones-Yeti-USB-Microphone/dp/B002VA464S/ref=sr_1_1?s=electronics&ie=UTF8&qid=1418434997&sr=1-1&keywords=yeti+blue+mic`_
+.. _Microfone Yeti Blue: http://www.amazon.com/Blue-Microphones-Yeti-USB-Microphone/dp/B002VA464S/ref=sr_1_1?s=electronics&ie=UTF8&qid=1418434997&sr=1-1&keywords=yeti+blue+mic
 .. _Microfone Microsoft LifeChat LX-3000: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=microsoft+lx+3000
 .. _Audio Hijack Pro: http://rogueamoeba.com/audiohijackpro/
 .. _Audacity: http://audacity.sourceforge.net/?lang=pt-BR
 .. _Normalização e Amplificação: http://manual.audacityteam.org/o/man/amplify_and_normalize.html
 
 .. Links de Programas e técnicas de edição:
-.. _Auphonic - edição de áudio no cloud: https://auphonic.com/`_
+.. _Auphonic - edição de áudio no cloud: https://auphonic.com/
 .. _Remoção de Ruídos Básico: http://manual.audacityteam.org/o/man/noise_removal.html
 .. _Remoção de Ruídos Avançado: http://wiki.audacityteam.org/wiki/Noise_Removal
 .. _Compressor de Áudio: http://manual.audacityteam.org/o/man/compressor.html
@@ -115,10 +115,10 @@ Demais:
 .. _The Levelator: http://web.archive.org/web/20130729204551id_/http://www.conversationsnetwork.org/levelator/
 
 .. Links de Hospedagem, monitoramento e estatísticas:
-.. _CloudFlare - CDN e DNS grátis: https://cloudflare.com`_
-.. _Uptime Robot - monitor de sites gratis: https://uptimerobot.com`_
-.. _Buzzsprout - hosting para podcasts (pago): http://www.buzzsprout.com/`_
-.. _GoAccess - estatísticas de acesso baseadas em logs: http://goaccess.io/`_
+.. _CloudFlare - CDN e DNS grátis: https://cloudflare.com
+.. _Uptime Robot - monitor de sites gratis: https://uptimerobot.com
+.. _Buzzsprout - hosting para podcasts (pago): http://www.buzzsprout.com/
+.. _GoAccess - estatísticas de acesso baseadas em logs: http://goaccess.io/
 .. _Archive.org: https://archive.org/
 .. _AWStats: http://www.awstats.org/
 .. _Gerador de Site Estático Pelican: http://blog.getpelican.com/
@@ -129,8 +129,8 @@ Demais:
 .. _Travis CI: https://travis-ci.org/
 
 .. Links de Outros Podcasts citados:
-.. _Labirinto - programa da Rádio USP sobre RPG: http://www.prisioneirosdaimaginacao.com.br/equipe.php`_
-.. _Mind the Cloud - Create your static blog in 1 hour: http://blog.mindthecloud.com/2014/08/31/create-your-static-blog-from-scratch-in-1-hour.html`_
+.. _Labirinto - programa da Rádio USP sobre RPG: http://www.prisioneirosdaimaginacao.com.br/equipe.php
+.. _Mind the Cloud - Create your static blog in 1 hour: http://blog.mindthecloud.com/2014/08/31/create-your-static-blog-from-scratch-in-1-hour.html
 .. _The Changelog: http://thechangelog.com
 .. _SciCast: http://scicast.com.br/
 .. _Going Linux: http://goinglinux.com/
