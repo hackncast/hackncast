@@ -3,6 +3,7 @@ Sobre o Hack 'n' Cast
 :slug: sobre
 :image: /images/logos/HNC-beta.png
 :summary: Págine sobre o Hack 'n' Cast Podcast
+:icon: fa-flag
 
 .. image:: {filename}/images/logos/HNC-beta.png
         :target: {filename}/images/logos/HNC-beta.png
