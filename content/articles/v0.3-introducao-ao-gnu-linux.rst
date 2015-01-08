@@ -4,7 +4,7 @@ v0.3 - Introdução ao GNU/Linux
 :category: GNU/Linux
 :tags: hack 'n' cast, podcast, beta, gnu, linux, linus torvalds, tanenbaum, dennis ritchie, ken thompson, minix, kansas
 :authors: Magnun, Ricardo, Gilson
-:image_sqr: /images/v0.x/covers/v0.3-cover-sqr.jpg
+:image: /images/v0.x/covers/v0.3-cover-sqr.jpg
 :image_wide: /images/v0.x/covers/v0.3-cover-wide.jpg
 :length: 49361899
 :duration: 101:03

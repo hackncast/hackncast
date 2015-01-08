@@ -4,7 +4,7 @@ v0.7 - O.P.A.
 :category: Cultura Pop
 :authors: Magnun, Ricardo, Davi
 :tags: hack 'n' cast, podcast, beta, podcast, vicio, dia do podcast, indicações
-:image_sqr: /images/v0.x/covers/v0.7-cover-sqr.jpg
+:image: /images/v0.x/covers/v0.7-cover-sqr.jpg
 :image_wide: /images/v0.x/covers/v0.7-cover-wide.jpg
 :podcast: HNC.v0.7-OPA
 :length: 62142488

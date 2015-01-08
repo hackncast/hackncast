@@ -7,7 +7,7 @@ v0.2 - HTML & CSS
 :podcast: HnC.v0.2-HTML-e-CSS
 :length: 60669449
 :duration: 63:07
-:image_sqr: /images/v0.x/covers/v0.2-cover-sqr.jpg
+:image: /images/v0.x/covers/v0.2-cover-sqr.jpg
 :image_wide: /images/v0.x/covers/v0.2-cover-wide.jpg
 :description: O HTML é co-responsável pela grande revolução que foi a internet. Junte-se a trupe do Hack 'n' Cast e descubra se isso é uma tecnologia, doença ou solução. E saiba porquê você deve usar um guarda-chuva ao escrever CSS.
 

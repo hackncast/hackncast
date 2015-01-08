@@ -4,7 +4,7 @@ v0.4 - Introdução à Programação
 :category: Programação
 :tags: hack 'n' cast, podcast, beta, programação, orientação a objetos, estruturada, funcional, babbage, ada lovelace, computadores, ábaco, calculadoras, sintaxe, semântica, AC/DC
 :authors: Magnun, Ricardo, Davi
-:image_sqr: /images/v0.x/covers/v0.4-cover-sqr.jpg
+:image: /images/v0.x/covers/v0.4-cover-sqr.jpg
 :image_wide: /images/v0.x/covers/v0.4-cover-wide.jpg
 :length: 86272963
 :duration: 89:00

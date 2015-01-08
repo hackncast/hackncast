@@ -4,7 +4,7 @@ v0.5 - Por Que Usar GNU/Linux
 :category: GNU/Linux
 :authors: Magnun, Ricardo
 :tags: hack 'n' cast, podcast, beta, linux, vantagens, desvantagens, virus, segurança, sorteio, novatec, Axel Rudi Pell, jogos, desenvolvimento
-:image_sqr: /images/v0.x/covers/v0.5-cover-sqr.jpg
+:image: /images/v0.x/covers/v0.5-cover-sqr.jpg
 :image_wide: /images/v0.x/covers/v0.5-cover-wide.jpg
 :length: 81693453
 :duration: 84:51
