@@ -1,6 +1,7 @@
 PY=python
 PELICAN=pelican
-PELICANOPTS=--cache-path /tmp/pelican-cache/hnc
+PELICAN_CACHE=/tmp/pelican-cache/hnc
+PELICANOPTS=--cache-path $(PELICAN_CACHE)
 
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
@@ -137,6 +138,8 @@ prd-clean-out:
 	rm -rf $(PRDOUTPUTDIR)/*
 prd-clean-tmp:
 	rm -rf $(TMPDIR)
+prd-clean-cache:
+	rm -rf $(PELICAN_CACHE)/*
 
 
 .PHONY: help html clean regenerate serve devserver stopserver publish all update build move ping
