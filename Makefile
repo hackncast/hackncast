@@ -63,7 +63,7 @@ html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 clean:
-	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
+	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)/*
 
 regenerate:
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
@@ -133,7 +133,7 @@ ifeq ($(PRD), 1)
 	curl -Is http://www.bing.com/webmaster/ping.aspx?siteMap=http://hackncast.org/sitemap.xml | grep "200 OK" || echo "Erro pinging Bing"
 endif
 
-prd-clean: prd-clean-tmp prd-clean-out
+prd-clean: prd-clean-tmp prd-clean-out prd-clean-cache
 prd-clean-out:
 	rm -rf $(PRDOUTPUTDIR)/*
 prd-clean-tmp:
