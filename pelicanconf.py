@@ -122,6 +122,18 @@ SITEDESCRIPTION = "Um podcast sobre tecnologia em geral, mas especialmente focad
 # Colaboradores
 MAIN_AUTHORS = ['Magnun', 'Bruno', 'Ricardo', 'Gilson', 'Davi']
 
+# Nav Bar
+INSCREVA_SE = [
+    ("iTunes", "https://itunes.apple.com/br/podcast/hack-n-cast/id884916846?l=pt"),
+    ("Pocket Casts", "http://pcasts.in/hackncast"),
+    ("Podflix", "http://podflix.com.br/hackncast/"),
+    ("You Tuner", "http://youtuner.co/channel/mindbending.org_pt_category_hack-n-cast"),
+    ("Stitcher", "http://www.stitcher.com/podcast/hack-n-cast"),
+    ("iMasters", "http://imasters.com.br/perfil/hackcast/"),
+    (None, None),
+    ("FeedBurner", "http://feeds.feedburner.com/hack-n-cast"),
+    ]
+
 PODCASTS_AMIGOS = [
         ("Piratas da Internet", "http://piratasdainternet.com.br/"),
         ("DatabaseCast", "http://imasters.com.br/perfil/databasecast"),
