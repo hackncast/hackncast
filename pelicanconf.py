@@ -161,6 +161,20 @@ LINKS_ACOMPANHE = (
     ("iTunes", "fa-apple", "https://itunes.apple.com/br/podcast/hack-n-cast/id884916846"),
     )
 
+LEVELS = {
+        1: 'Newby',
+        2: 'Wimp',
+        3: 'Script Kiddie',
+        4: 'Code Monkey',
+        5: 'Programmer',
+        6: 'Master Developer',
+        7: 'Code Ninja',
+        8: 'Rock Star Dev',
+        9: 'Binary Wizard',
+        10: 'Grand Master Dev',
+        11: 'Dennis Ritchie',
+        }
+
 from math import log as log
 
 def CALC_STATS(n):
