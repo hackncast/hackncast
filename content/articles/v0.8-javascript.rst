@@ -2,7 +2,7 @@ v0.8 - JavaScript
 #################
 :date: 2014-12-02 01:06
 :category: Programação
-:authors: Magnun, Ricardo
+:authors: Magnun, Ricardo, Diego "Boot", Átila Camurça
 :tags: hack 'n' cast, podcast, beta, javascript, linguagem, programação, história, programação funcional, Dr. Sin
 :image: /images/v0.x/covers/v0.8-cover-sqr.png
 :image_wide: /images/v0.x/covers/v0.8-cover-wide.png

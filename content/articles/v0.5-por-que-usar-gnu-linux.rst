@@ -2,7 +2,7 @@ v0.5 - Por Que Usar GNU/Linux
 ###############################
 :date: 2014-09-05 20:20
 :category: GNU/Linux
-:authors: Magnun, Ricardo
+:authors: Magnun, Ricardo, Darlildo Lima, Thiago Perrotta
 :tags: hack 'n' cast, podcast, beta, linux, vantagens, desvantagens, virus, segurança, sorteio, novatec, Axel Rudi Pell, jogos, desenvolvimento
 :image: /images/v0.x/covers/v0.5-cover-sqr.jpg
 :image_wide: /images/v0.x/covers/v0.5-cover-wide.jpg

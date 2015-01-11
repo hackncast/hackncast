@@ -1,6 +1,7 @@
 v0.10 - Especial de Natal
 #########################
 :date: 2014-12-31 01:39
+:authors: Magnun, Rafael Rosa Fú, Og Maciel
 :category: Softwares
 :tags: hack 'n' cast, podcast, beta, natal, ano novo, grok podcast, castalio podcast, og maciel, rafael rosa fú
 :image: /images/v0.x/covers/v0.10-cover-sqr.png
