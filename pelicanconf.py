@@ -44,6 +44,9 @@ ARTICLE_SAVE_AS = "{slug}/index.html"
 PAGE_URL = "{slug}"
 PAGE_SAVE_AS = "{slug}/index.html"
 
+CATEGORIES_URL = "trilhas"
+CATEGORIES_SAVE_AS = "trilhas/index.html"
+
 CATEGORY_URL = "trilha/{slug}"
 CATEGORY_SAVE_AS = "trilha/{slug}/index.html"
 
