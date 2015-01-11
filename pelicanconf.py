@@ -3,6 +3,9 @@
 from __future__ import unicode_literals
 
 import os
+import sys
+sys.path.append(os.curdir)
+from authors import SITEAUTHORS
 
 DEFAULT_PAGINATION = 10
 
@@ -112,54 +115,7 @@ OPEN_GRAPH_IMAGE = "/images/logos/HNC-beta.png"
 SITEDESCRIPTION = "Um podcast sobre tecnologia em geral, mas especialmente focado em Software Livre, Open Source e GNU/Linux"
 
 # Colaboradores
-ACTIVE_AUTHORS = ['Magnun', 'Bruno', 'Ricardo', 'Gilson', 'Davi']
-SITEAUTHORS = {
-        'Magnun':
-            {
-                'image': 'https://lh5.googleusercontent.com/-tdNroc0oPGc/AAAAAAAAAAI/AAAAAAAAAOw/q_jbij7hbVI/s120-c/photo.jpg',
-                'description': '<p>Criador, Desenvolvedor e Autor do blog <a href="http://mindbending.org/">Mind Bending</a></p>',
-                'links': [
-                    '<a href="https://twitter.com/mind_bend" class="label label-default"><i class="fa fa-twitter"></i> Twitter</a>',
-                    '<a href="https://github.com/magnunleno" class="label label-default"><i class="fa fa-github"></i> Github</a>',
-                    ]
-            },
-        'Bruno':
-            {
-                'image': 'https://lh3.googleusercontent.com/-ubgzC730QYE/AAAAAAAAAAI/AAAAAAAAAMA/baBevnRUSGQ/s120-c/photo.jpg',
-                'description': '<p>Co-Fundador do <a href="http://algoritmizando.com">Algoritmizando</a>, usuário GNU/Linux. Utiliza as tecnologias Zope/Plone, Django e web2py.</p>',
-                'links': [
-                    '<a href="https://twitter.com/brunobbbs" class="label label-default"><i class="fa fa-twitter"></i> Twitter</a>',
-                    '<a href="https://github.com/bruninbsb/" class="label label-default"><i class="fa fa-github"></i> Github</a>',
-                    ]
-            },
-        'Ricardo':
-            {
-                'image': 'https://lh3.googleusercontent.com/-AfUOQdW-5zU/AAAAAAAAAAI/AAAAAAAAIbM/XO-Cf-sTbA8/s120-c/photo.jpg',
-                'description':'<p>Cara a cara eu gaguejo, tenho dúvidas, sou pouco sociável. Mas, escrevendo, cuidado comigo.</p>',
-                'links': [
-                    '<a href="https://twitter.com/rictm" class="label label-default"><i class="fa fa-twitter"></i> Twitter</a>',
-                ]
-            },
-        'Gilson':
-            {
-                'image': 'https://lh6.googleusercontent.com/-WqpgBkIaepM/AAAAAAAAAAI/AAAAAAAAAJI/W2sWTkMnv1I/s120-c/photo.jpg',
-                'description': '<p>Desenvolvedor Python e Django, cansado de Java, recém carioca. Entusiasta Vim e usuário assíduo do <a href="http://github.com/gilsondev">Github</a></p>',
-                'links': [
-                    '<a href="https://twitter.com/gilsondev" class="label label-default"><i class="fa fa-twitter"></i> Twitter</a>',
-                    '<a href="https://github.com/gilsondev" class="label label-default"><i class="fa fa-github"></i> Github</a>',
-                ]
-            },
-        'Davi':
-            {
-                'image': 'https://lh6.googleusercontent.com/-WqpgBkIaepM/AAAAAAAAAAI/AAAAAAAAAJI/W2sWTkMnv1I/s120-c/photo.jpg',
-                'description': '<p>Desenvolvedor Python e Django, cansado de Java, recém carioca. Entusiasta Vim e usuário assíduo do <a href="http://github.com/gilsondev">Github</a></p>',
-                'links': [
-                    '<a href="https://twitter.com/gilsondev" class="label label-default"><i class="fa fa-twitter"></i> Twitter</a>',
-                    '<a href="https://github.com/gilsondev" class="label label-default"><i class="fa fa-github"></i> Github</a>',
-                ]
-            },
-        }
-
+MAIN_AUTHORS = ['Magnun', 'Bruno', 'Ricardo', 'Gilson', 'Davi']
 
 PODCASTS_AMIGOS = [
         ("Piratas da Internet", "http://piratasdainternet.com.br/"),
