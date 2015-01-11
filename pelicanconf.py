@@ -56,10 +56,12 @@ TAG_SAVE_AS = "tag/{slug}/index.html"
 SERIES_URL = "serie/{slug}"
 SERIES_SAVE_AS = "serie/{slug}/index.html"
 
-AUTHOR_URL = 'dev/{slug}'
-AUTHOR_SAVE_AS = 'dev/{slug}/index.html'
-AUTHORS_URL = ''
-AUTHORS_SAVE_AS = ''
+# AUTHOR_URL = 'dev/{slug}'
+# AUTHOR_SAVE_AS = 'dev/{slug}/index.html'
+AUTHOR_URL = ''
+AUTHOR_SAVE_AS = ''
+AUTHORS_URL = 'devs'
+AUTHORS_SAVE_AS = 'devs/index.html'
 
 ARCHIVES_URL = 'changelog'
 ARCHIVES_SAVE_AS = 'changelog/index.html'
