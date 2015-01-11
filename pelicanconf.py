@@ -134,6 +134,16 @@ INSCREVA_SE = [
     ("FeedBurner", "http://feeds.feedburner.com/hack-n-cast"),
     ]
 
+MAIS = [
+    ("Trilhas", "/trilhas"),
+    ("Tags", "/tags"),
+    ("Changelog", "/changelog"),
+    ("Devs", "/devs"),
+    (None, None),
+    ("Sobre", "/sobre"),
+    ]
+
+# Footer
 PODCASTS_AMIGOS = [
         ("Piratas da Internet", "http://piratasdainternet.com.br/"),
         ("DatabaseCast", "http://imasters.com.br/perfil/databasecast"),
