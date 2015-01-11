@@ -160,3 +160,12 @@ LINKS_ACOMPANHE = (
     ("Feed RSS", "fa-rss", "http://feeds.feedburner.com/hack-n-cast"),
     ("iTunes", "fa-apple", "https://itunes.apple.com/br/podcast/hack-n-cast/id884916846"),
     )
+
+from math import log as log
+
+def CALC_STATS(n):
+    points = log(n, 2) + 1
+    level = int(points)
+    next_xp = int((points + 1) * 1024)
+    xp = int((points) * 1024)
+    return level, xp, next_xp
