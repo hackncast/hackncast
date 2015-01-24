@@ -152,7 +152,7 @@ PODCASTS_AMIGOS = [
 
 LINKS_ACOMPANHE = (
     ("E-Mail", "fa-envelope", "mailto: hackncast@gmail.com"),
-    ("Titter", "fa-twitter", "http://twitter.com/hackncast"),
+    ("Twitter", "fa-twitter", "http://twitter.com/hackncast"),
     ("Facebook", "fa-facebook", "https://www.facebook.com/hackncast"),
     ("Google+", "fa-google-plus", "https://plus.google.com/u/0/b/118416649082623988287/118416649082623988287/about"),
     ("Grupo de Discussão", "fa-group", "https://groups.google.com/forum/?hl=pt-BR#!forum/hackncast"),
