@@ -1,6 +1,7 @@
 MAGNUN = {
     'image': 'https://lh5.googleusercontent.com/-tdNroc0oPGc/AAAAAAAAAAI/AAAAAAAAAOw/q_jbij7hbVI/s120-c/photo.jpg',
     'description': 'Criador, Desenvolvedor e Autor do blog <a href="http://mindbending.org/">Mind Bending</a>',
+    'bio': 'Engenheiro de Telecomunicações, atualmente trabalhando como Analista de Infra-estrutura GNU/Linux. É criador, desenvolvedor e autor do blog <a href="http://mindbending.org/">Mind Bending</a> e do Hack \'n\' Cast. Apaixonado por Rock \'n\' Roll, Mangás, GNU/Linux, programação (C e Python) e muito mais...',
     'class': 'Hacker',
     'links': [
         ("Twitter", "fa-twitter", "https://twitter.com/mind_bend"),
@@ -10,7 +11,8 @@ MAGNUN = {
 
 BRUNO = {
     'image': 'https://lh3.googleusercontent.com/-ubgzC730QYE/AAAAAAAAAAI/AAAAAAAAAMA/baBevnRUSGQ/s120-c/photo.jpg',
-    'description': 'Co-Fundador do <a href="http://algoritmizando.com">Algoritmizando</a>, usuário GNU/Linux. Utiliza as tecnologias Zope/Plone, Django e web2py.',
+    'bio': 'Co-Fundador do <a href="http://algoritmizando.com">Algoritmizando</a>, usuário GNU/Linux. Utiliza as tecnologias Zope/Plone, Django e web2py.',
+    'description': 'Desenvolvedor Python, Zope/Plone, entusiasta de Software Livre e apaixonado por tecnologia.',
     'race': 'Zumbi',
     'class': 'Fighter',
     'links': [
