@@ -33,6 +33,7 @@ PLUGINS = [
         'touch',
         'archive_org_podcast_directive',
         'better_figures_and_images',
+        'static_api',
         ]
 
 # Configurações para armazenar cada página dentro do seu próprio diretório
