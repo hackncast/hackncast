@@ -58,8 +58,14 @@ DIEGO_BOOT = {
     'class': 'JavaScripter',
         }
 ATILA_CAMURCA = {
+    'image': 'http://www.gravatar.com/avatar/6886b7faab75ca8eaeef97cb32303e6c?s=172',
+    'description': 'Desenvolvedor Java, Ruby, PHP, Python, Javascript. Ajudou a fundar a Fidias Software junto com Alberto e Shara.',
     'class': 'JavaScripter',
-        }
+    'links': [
+        ("Twitter", "fa-twitter", "https://twitter.com/atilacamurca"),
+        ("GitHub", "fa-github", "https://github.com/atilacamurca"),
+        ]
+    }
 REINALDO_BISPO = {
     'class': 'Archer',
         }
@@ -80,7 +86,7 @@ SITEAUTHORS = {
     'Thiago Perrotta': THIAGO_PERROTTA,
     'Eric Hideki': ERIC_HIDEKI,
     'Diego "Boot"': DIEGO_BOOT,
-    'Átula Camurça': ATILA_CAMURCA,
+    'Átila Camurça': ATILA_CAMURCA,
     'Reinaldo Bispo': REINALDO_BISPO,
     'Og Maciel': OG,
     'Rafael Rosa Fú': RAFAEL_ROSA,
