@@ -160,6 +160,15 @@ LINKS_ACOMPANHE = (
     ("iTunes", "fa-apple", "https://itunes.apple.com/br/podcast/hack-n-cast/id884916846"),
     )
 
+CATEGORY_IMAGES = {
+    'Cultura Pop': 'images/trilhas/cultura-pop.jpg',
+    'Filosofia': 'images/trilhas/filosofia.jpg',
+    'GNU/Linux': 'images/trilhas/gnu-linux.jpg',
+    'Programação': 'images/trilhas/programacao.jpg',
+    'Tecnologias Web': 'images/trilhas/tecnologias-web.jpg',
+    'Softwares': 'images/trilhas/softwares.jpg',
+    }
+
 LEVELS = {
         1: 'Newby',
         2: 'Wimp',
