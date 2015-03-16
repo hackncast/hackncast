@@ -4,6 +4,7 @@ from __future__ import unicode_literals
 
 import os
 import sys
+from datetime import datetime
 sys.path.append(os.curdir)
 from authors import SITEAUTHORS
 
@@ -34,6 +35,7 @@ PLUGINS = [
         'archive_org_podcast_directive',
         'better_figures_and_images',
         'static_api',
+        'pelican-podcast-feed',
         ]
 
 # Configurações para armazenar cada página dentro do seu próprio diretório
@@ -81,6 +83,20 @@ STATIC_PATHS = ["images"]
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
+
+# Podcast Feed
+PODCAST_FEED_PATH = u'feeds/podcast.rss'
+PODCAST_FEED_TITLE = "Hack 'n' Cast"
+PODCAST_FEED_EXPLICIT = u'No'
+PODCAST_FEED_LANGUAGE = u'pt-br'
+PODCAST_FEED_AUTHOR = u'Magnun, Ricardo, Gilson e Davi'
+PODCAST_FEED_COPYRIGHT = u'&#x2117; &amp; &#xA9; 2011-{0} {1}'.format(datetime.now().year, PODCAST_FEED_AUTHOR)
+PODCAST_FEED_SUBTITLE = 'Um podcast para old school hackers'
+PODCAST_FEED_SUMMARY = 'Um podcast sobre tecnologias, software livre, open source e outros temas nerds.'
+PODCAST_FEED_IMAGE = 'http://hackncast.org/images/logos/hnc-itunes.png'
+PODCAST_FEED_OWNER_NAME = PODCAST_FEED_AUTHOR
+PODCAST_FEED_EMAIL_EMAIL = 'hackncast@gmail.com'
+PODCAST_FEED_CATEGORY = ['Technology', 'Software How-To']
 
 # Blogroll
 # LINKS = (
