@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# encoding: utf-8
+
 MAGNUN = {
     'image': 'https://lh5.googleusercontent.com/-tdNroc0oPGc/AAAAAAAAAAI/AAAAAAAAAOw/q_jbij7hbVI/s120-c/photo.jpg',
     'description': 'Criador, Desenvolvedor e Autor do blog <a href="http://mindbending.org/">Mind Bending</a>',
@@ -23,7 +26,7 @@ BRUNO = {
 
 RICARDO = {
     'image': 'https://lh3.googleusercontent.com/-AfUOQdW-5zU/AAAAAAAAAAI/AAAAAAAAIbM/XO-Cf-sTbA8/s120-c/photo.jpg',
-    'description':'Cara a cara eu gaguejo, tenho dúvidas, sou pouco sociável. Mas, escrevendo, cuidado comigo.',
+    'description': 'Cara a cara eu gaguejo, tenho dúvidas, sou pouco sociável. Mas, escrevendo, cuidado comigo.',
     'race': 'Humano Imortal',
     'class': 'Highlander',
     'links': [
@@ -76,6 +79,16 @@ RAFAEL_ROSA = {
     'class': 'Podcaster',
         }
 
+JORGE_FLAVIO = {
+    'image': 'https://pbs.twimg.com/profile_images/573291262658412544/duFNnC7g.jpeg',
+    'description': 'Formado em Eng. Elétrica (UFRN), com Esp. em Desenv. de Sistemas Web (FARN), e Mestrado em Eng. da Computação pela UFCG.',
+    'class': 'Dev Ops',
+    'race': 'Calango Stealth',
+    'links': [
+        ("Twitter", "fa-twitter", "http://twitter.com/JFCostta"),
+        ]
+    }
+
 SITEAUTHORS = {
     'Magnun': MAGNUN,
     'Bruno': BRUNO,
@@ -90,4 +103,5 @@ SITEAUTHORS = {
     'Reinaldo Bispo': REINALDO_BISPO,
     'Og Maciel': OG,
     'Rafael Rosa Fú': RAFAEL_ROSA,
+    'Jorge Flávio': JORGE_FLAVIO,
     }
