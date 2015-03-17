@@ -183,6 +183,7 @@ CATEGORY_IMAGES = {
     'Programação': 'images/trilhas/programacao.jpg',
     'Tecnologias Web': 'images/trilhas/tecnologias-web.jpg',
     'Softwares': 'images/trilhas/softwares.jpg',
+    'Segurança': 'images/trilhas/seguranca.jpg',
     }
 
 LEVELS = {
