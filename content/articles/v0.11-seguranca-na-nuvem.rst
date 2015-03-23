@@ -94,11 +94,10 @@ Demais links
 
 
 
-.. container:: panel-body bg-info
+.. class:: panel-body bg-info
 
         **Musicas**:
-
-        Todas as músicas deste episódio são do album `Straw Fields`_ do projeto `Rolemusic`_ e estão sob a licença `Creative Commons by 4.0`_.
+            Todas as músicas deste episódio são do album `Straw Fields`_ do projeto `Rolemusic`_ e estão sob a licença `Creative Commons by 4.0`_.
 
 
 .. .. Links Gerais
