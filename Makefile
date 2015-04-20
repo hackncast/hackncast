@@ -106,7 +106,7 @@ ifeq ($(PRD), 1)
 endif
 
 build:
-	. $(VENV); pelican $(BASEDIR)/content -o $(TMPDIR) -s $(CONF) $(PELICANOPTS)
+	. $(VENV); LANG="pt_BR" pelican $(BASEDIR)/content -o $(TMPDIR) -s $(CONF) $(PELICANOPTS)
 
 envserve:
 ifdef PORT
