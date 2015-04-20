@@ -84,6 +84,10 @@ FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
+# Tag Cloud
+TAG_CLOUD_STEPS = 10
+TAG_CLOUD_MAX_ITEMS = None
+
 # Podcast Feed
 PODCAST_FEED_PATH = u'feeds/podcast.rss'
 PODCAST_FEED_TITLE = "Hack 'n' Cast"
