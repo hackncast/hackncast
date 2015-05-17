@@ -4,8 +4,8 @@ v0.9 - Chaves & Chapolin
 :authors: Magnun, Ricardo, Diego "Boot", Reinaldo Bispo
 :category: Cultura Pop
 :tags: hack 'n' cast, podcast, beta, chaves, chapolin, roberto gómes bolaños
-:image: /images/v0.x/covers/v0.9-cover-sqr.png
-:image_wide: /images/v0.x/covers/v0.9-cover-wide.png
+:image: /images/v0.x/covers/v0.9-cover-sqr.jpg
+:image_wide: /images/v0.x/covers/v0.9-cover-wide.jpg
 :length: 69835570
 :podcast: HNC.v0.9-Chaves-e-Chapolin
 :duration: 71:59

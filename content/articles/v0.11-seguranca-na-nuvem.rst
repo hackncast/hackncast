@@ -4,8 +4,8 @@ v0.11 - Segurança na Nuvem
 :authors: Magnun, Ricardo, Jorge Flávio
 :category: Segurança
 :tags: segurança, nuvem, scicast, dropbox, computação na nuvem, fappening, vazamento de informações, SpiderOak, TrueCrypt, owncloud, criptografia, partição, gmail, peer-to-mail, google drive, apple, icloud, sony, hash, chiptune, filevault, bitlocker, volume virtual, btsync, senhas, lastpass, 1password, keepass, autenticação em dois fatores, e-mails descartáveis, openid, hashapass, openssl, nsa
-:image: /images/v0.x/covers/v0.11-cover-sqr.png
-:image_wide: /images/v0.x/covers/v0.11-cover-wide.png
+:image: /images/v0.x/covers/v0.11-cover-sqr.jpg
+:image_wide: /images/v0.x/covers/v0.11-cover-wide.jpg
 :length: 63560720
 :duration: 65:20
 :podcast: HNC.v0.11-Seguranca-na-Nuvem

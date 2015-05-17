@@ -4,8 +4,8 @@ v0.8 - JavaScript
 :category: Programação
 :authors: Magnun, Ricardo, Diego "Boot", Átila Camurça
 :tags: hack 'n' cast, podcast, beta, javascript, linguagem, programação, história, programação funcional, Dr. Sin
-:image: /images/v0.x/covers/v0.8-cover-sqr.png
-:image_wide: /images/v0.x/covers/v0.8-cover-wide.png
+:image: /images/v0.x/covers/v0.8-cover-sqr.jpg
+:image_wide: /images/v0.x/covers/v0.8-cover-wide.jpg
 :podcast: HNC.v0.8-JavaScript
 :length: 79033531
 :duration: 81:05
