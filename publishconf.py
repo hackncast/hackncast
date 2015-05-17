@@ -24,6 +24,6 @@ DELETE_OUTPUT_DIRECTORY = True
 # Following items are often useful when publishing
 
 # Disqus
-DISQUS_SITENAME = 'hackncast'
+DISQUS_SITENAME = 'hackncast-podcast'
 
 GOOGLE_ANALYTICS = "UA-62136730-1"
