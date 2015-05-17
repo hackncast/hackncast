@@ -9,6 +9,8 @@ v0.5 - Por Que Usar GNU/Linux
 :length: 81693453
 :duration: 84:51
 :podcast: HNC.v0.5-Por-que-usar-gnu-linux
+:disqus_url: http://mindbending.org/pt/hack-n-cast-v05-por-que-usar-gnulinux
+:disqus_site: mindbendingpt
 :description: Hoje, com a presença de dois convidados apresentamos um episódio muito mais sóbrio sobre alguns motivos (vantagens e algumas desvantagens) para se usar GNU/Linux.
 
 Sejam todos bem vindos a mais um episódio do `Hack 'n' Cast`_! Hoje contamos com a presença de dois convidados ilustres que (de última hora) aceitaram o convite para nos auxiliar nesse episódio: `Darlildo Lima`_ (`mad3linux`_) e `Thiago Perrotta`_ (`blog`_).

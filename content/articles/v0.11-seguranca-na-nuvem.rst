@@ -9,6 +9,8 @@ v0.11 - Segurança na Nuvem
 :length: 63560720
 :duration: 65:20
 :podcast: HNC.v0.11-Seguranca-na-Nuvem
+:disqus_url: http://mindbending.org/pt/hack-n-cast-v011-seguranca-na-nuvem
+:disqus_site: mindbendingpt
 :description: Neste mundo atual, onde tudo é conectado e armazenado remotamente, podemos agrupar os usuários em duas classes, os paranoicos, que acreditam que nunca estão seguros o suficiente, e os anestesiados, que acreditam piamente que estão seguros e que essas coisas nunca vão acontecer com eles.
 
 Neste mais novo episódio do `Hack 'n' Cast`_ recebemos um convidado de renome, o `Jorge`_ do `SciCast`_ para falarmos um pouco sobre a sua segurança na nuvem! É isso mesmo, você lembrou de pegar seu guarda-chuva antes de sair de casa?

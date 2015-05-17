@@ -9,6 +9,8 @@ v0.1 - Cultura Hacker
 :duration: 56:26
 :image: /images/v0.x/covers/v0.1-cover-sqr.jpg
 :image_wide: /images/v0.x/covers/v0.1-cover-wide.jpg
+:disqus_url: http://mindbending.org/pt/hack-n-cast-v01-cultura-hacker
+:disqus_site: mindbendingpt
 :description: Hackers não são criminosos cibernéticos que invadem seu computador ou roubam seus e-mails, o nome disso é cracker. Sabia que os hackers na verdade são praticamente os responsáveis pela internet, pelo sistema operacional Unix, OS X, Gnu/Linux e etc? Sabia que os hackers não se limitam apenas ao mundo da tecnologia?
 
 Sejam todos bem vindos ao primeiro episódio do **Hack 'n' Cast**! É isso aí pessoal, após muito tempo juntando ideias, convidado pessoas, perdendo participantes, levantando tópicos, esboçando logos, testando equipamentos e fazendo testes de edição, finalmente posso anunciar esse novo projeto do site Mind bending em conjunto com o Bruno Barbosa (do `Algoritmizando`_) e com o Ricardo Medeiros (nosso estagiário).

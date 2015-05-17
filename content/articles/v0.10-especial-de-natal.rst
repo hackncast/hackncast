@@ -9,6 +9,8 @@ v0.10 - Especial de Natal
 :length: 86317164
 :duration: 89:06
 :podcast: HNC.v0.10-Especial-de-Natal
+:disqus_url: http://mindbending.org/pt/hack-n-cast-v010-especial-de-natal
+:disqus_site: mindbendingpt
 :description: Então é Natal! E para comemorar essa época nos juntamos ao Grok Podcast e ao Castálio Podcast para gravarmos um episódio especial. O áudio dessa gravação foi compartilhado entre nos três para que cada um realize a sua edição e publicação da forma que lhe for conveniente.
 
 Para fechar bem o ano, nós do `Hack 'n' Cast`_ fomos convidados a participar de um episódio especial de natal! Neste episódio "comunitário" conversamos com o `Og Maciel`_ do `Castálio Podcast`_ e o `Rafael Rosa Fú`_ do `Grok Podcast`_ sobre essa vida de podcaster, onde citamos como gravamos (que hardware e técnicas utilizamos), como editamos (programas, ferramentas e técnicas) e algumas experiências obtidas.

@@ -9,6 +9,8 @@ v0.9 - Chaves & Chapolin
 :length: 69835570
 :podcast: HNC.v0.9-Chaves-e-Chapolin
 :duration: 71:59
+:disqus_url: http://mindbending.org/pt/hack-n-cast-v09-chaves-chapolin
+:disqus_site: mindbendingpt
 :description: Se você é jovem ainda, pegue seus mil cruzeiros e compre um pacotinho de churros, um refrescos de tamarindo que parece de laranja mas tem gosto de groselha e junte-se a nos no outro pátio para um festival da vila em homenagem ao Roberto Bolaños!
 
 Hoje no `Hack 'n' Cast`_, com a ajuda do Diego "Boot" (|Twitter Diego|_ e |Facebook Diego|_) e do Reinaldo Bispo (|Twitter Reinaldo|_ e |Site Reinaldo|_), fizemos uma singela homenagem a um dos maiores ídolos da nossa geração que veio a falecer aos 85 anos no dia 28 de Novembro de 2014. Roberto Gómes Bolaños era ator, escritor, compositor, dramaturgo, comediante e diretor. Recebeu o apelido carinhoso de Chespirito (o pequeno Shakespere) do diretor de cinema Agustín P. Delgado, que o considerava um pequeno William Shakespeare. Bolaños concebeu (e incorporou) diversos personagens, sendo os mais famosos o Chaves ("El Chavo del Ocho", ou "O garoto do oito", em uma tradução livre) e O Chapolin Colorado ("El Chapulín Colorado", ou "O Garfanhoto Colorado", em uma tradução livre).
