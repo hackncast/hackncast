@@ -134,6 +134,10 @@ SITEMAP = {
     },
 }
 
+# DISQUS
+#DISQUS_SITENAME = 'hackncast-podcast'
+DISQUS_NO_ID = True
+
 # SEO Settings
 TWITTER = "@hackncast"
 GLOBAL_KEYWORDS = ['podcast', "hack", "cast", "gnu", "linux", "programação", "python", "tecnologia", "nerd"]
