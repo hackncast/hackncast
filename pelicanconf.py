@@ -166,6 +166,7 @@ MAIS = [
 
 # Footer
 PODCASTS_AMIGOS = [
+        ("Castálio Podcast", "http://castalio.info/"),
         ("Piratas da Internet", "http://piratasdainternet.com.br/"),
         ("DatabaseCast", "http://imasters.com.br/perfil/databasecast"),
         ("SciCast", "http://www.scicast.com.br/scicast/"),
