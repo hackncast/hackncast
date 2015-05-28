@@ -36,6 +36,8 @@ PLUGINS = [
         'better_figures_and_images',
         'static_api',
         'pelican-podcast-feed',
+        'pelican-vimeo',
+        'pelican-youtube',
         ]
 
 # Configurações para armazenar cada página dentro do seu próprio diretório
