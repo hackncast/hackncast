@@ -19,6 +19,10 @@ Para não perder nenhum episódio siga-nos nas redes sociais (`Twitter`_ e `Face
 
 .. more
 
+.. class:: panel-body bg-info
+
+        Agradecemos ao ouvinte "Ricardo Berlim Fonseca" pela indicação do projeto MOD e por nos colocar em contato com os criadores!
+
 Tá Mas e Daí?
 =============
 
