@@ -1,0 +1,133 @@
+v0.16 - Sistemas Embarcados - Parte 2
+#####################################
+:date: 2015-10-16 01:42
+:authors: Magnun, Ricardo, Jorge Flávio, André Delai, Diego Sueiro, Pedro Henrique
+:category: Hardware
+:tags: hardware, embarcado, sistema, eletrônica, introdução hardware, livre, sofware, intel, edison, raspberrypi, galileo, arduino, severino, omega onion, beagleboard, protoboard
+:image: /images/v0.x/covers/v0.16-cover-sqr.jpg
+:image_wide: /images/v0.x/covers/v0.16-cover-wide.jpg
+:length: 61786112
+:duration: 63:56
+:podcast: HNC.v0.16-Sistemas-Embarcados-Parte-2
+:description: Após entender o que é um sistema embarcado, hoje veremos um pouco sobre os tipos de sistemas embarcados que podemos utilizar (para aprendizado ou não) e um pouco sobre o possível futuro dos sistemas embarcados, incluindo uma explicação de IoT.
+
+
+No episódio de hoje especulamos um pouco sobre o futuro dos sistemas embarcados, passando por hardware livre, sistemas embarcados livres, IoT (Internet of Things), IoB (Internet of Bullshit), hackerspaces e discutimos um pouco algumas ferramentas/hardwares para protótipos e projetos.
+
+Para não perder nenhum episódio siga-nos nas redes sociais (`Twitter`_ e `Facebook`_) ou inscreva-se (`Feed`_, `Podflix`_, `iTunes`_ e `Pocket Casts`_). Você quer colaborar com o Hack 'n' Cast? Sugira um tema, nos ajude a produzir uma pauta ou participe conosco! Basta entrar em contato por `E-mail`_, `Facebook`_ ou `Twitter`_. E agora temos a nossa lista de discussão no `Google Groups`_!
+
+.. more
+
+
+O Futuro Está no IoT?
+---------------------
+
+Há algum tempo especulavam-se que a miniaturização do hardware tinha como foco a criação de dispositivos nanotecnológicos. Mas de um tempo pra cá boa parte dos esforços tem se voltado para tornar real o conceito do IoT (Internet of Things). O IoT, ao contrário do que muitos dizem, ainda não existe de fato, pois muito ainda tem que ser trabalhado, padronizado, legislado e implementado para que o IoT realmente exista.
+
+Imagine que para o IoT funcionar de fato, é necessário a criação de padrões de comunicações e trocas de mensagens, além da criação de diversos "centralizadores de inteligência" para possibilitar a retirada de uma informação útil tendo como origem diversos dados brutos de uma gama variada de dispositivos. Avançando um pouco, temos que considerar também que para que todo esse dado trafegue é necessário uma "via", isto é, a expansão da nossa Internet (que muitos esquecem que é um recurso limitado), e também é necessário que esse dado seja armazenado (Big Data?).
+
+Uma vez que todos esses bits de informação estejam sendo trafegados, armazenados, processados e gerando informações úteis, eis que surgem as perguntas fundamentais: de quem é esses dados? quem deve ter acesso? Um dado gerado no Brasil, processado nos EUA e armazenado na Irlanda está sobre qual jurisdição? E quanto a espionagem?
+
+Como podemos ver ainda falta muito para o IoT se tornar uma realidade, por enquanto tudo o que temos é um vislumbre do Internet of Bullshit (IoB).
+
+
+Mão na Massa
+------------
+
+Deixando um pouco a "futorologia" de lado, no episódio falamos sobre os hardwares mais populares/mainstrem que temos hoje em dia para a criação de sistemas embarcados. Segue abaixo uma listagem com todos os devidos links:
+
+- Prototipagem:
+
+  - Placas do tipo “`Protoboard`_”;
+  - `Canetas com tinta condutora`_ (desenham circuitos);
+
+- Hardware:
+
+  - `Microcontroladores PIC`_;
+  - `Arduino`_;
+  - `Severino`_;
+  - `Intel Edison`_;
+  - `Intel Galileo`_;
+  - `Omega Onion`_;
+  - `Pinoccio`_;
+  - `Spark`_;
+  - `Tessel`_;
+
+- SingleBoard PCs:
+
+  - `Raspberry Pi`_;
+  - `BeagleBoard`_;
+  - `Lista ampla`_.
+
+E se você está começando e não tem amigos para te ajudar e/ou acompanhar na empreitada, procure um hackerclub/hackerspace `mais próximo`_. Alguns exemplos de hackerclubs com os quais temos contato:
+
+- `LHC`_;
+- `Garoa Hacker Club`_;
+- `Calango Hacker Club`_;
+- `Laboratório de Garagem`_.
+
+
+Demais Links Citados
+--------------------
+
+- `Fazedores`_;
+- `Projeto PINGO`_;
+- `Hardware Livre está abocanhando o mundo`_;
+- `Tecnologia - a coisa certa com o uso errado`_;
+- `Caneta condutora`_;
+- `Seminário Linux Embarcado 2015`_.
+
+Fontes de Aprendizagem
+----------------------
+
+- `EdX`_;
+- `Relatório 2014`_;
+- `Slides da Disciplina "Embedded Systems" da Devi Ahilya University na Índia`_;
+- `Introdução a SE (2013) pelo PhD Narasimha Murthy (inglês)`_.
+
+.. class:: panel-body bg-info
+
+        **Musicas**: Toda a trilha sonora deste episódio é composta por canções do album Master of Puppets da banda Metallica com exceção da música tocada durante a introdução que é da banda Matanza e se chama "Tudo Errado".
+
+
+.. Links Gerais
+.. _Hack 'n' Cast: /pt/category/hack-n-cast
+.. _E-mail: mailto: hackncast@gmail.com
+.. _Twitter: http://twitter.com/hackncast
+.. _Facebook: http://facebook.com/hackncast
+.. _Feed: http://feeds.feedburner.com/hack-n-cast
+.. _Podflix: http://podflix.com.br/hackncast/
+.. _iTunes: https://itunes.apple.com/br/podcast/hack-n-cast/id884916846?l=en
+.. _Pocket Casts: http://pcasts.in/hackncast
+.. _Google Groups: https://groups.google.com/forum/?hl=pt-BR#!forum/hackncast
+
+.. _Protoboard: https://pt.wikipedia.org/wiki/Placa_de_Ensaio
+.. _Canetas com tinta condutora: http://gizmodo.uol.com.br/video-circuit-scribe/
+.. _Microcontroladores PIC: https://pt.wikipedia.org/wiki/Microcontrolador_PIC
+.. _Arduino: https://www.arduino.cc/
+.. _Severino: http://arduinotutorial.blogspot.com.br/2008/03/arduino-s3v3rino-site-oficial.html
+.. _Intel Edison: http://www.intel.com.br/content/www/br/pt/do-it-yourself/edison.html
+.. _Intel Galileo: http://www.intel.com.br/content/www/br/pt/embedded/products/galileo/galileo-overview.html
+.. _Omega Onion: https://onion.io/omega/
+.. _Pinoccio: https://pinocc.io/
+.. _Spark: https://www.kickstarter.com/projects/sparkdevices/spark-core-wi-fi-for-everything-arduino-compatible
+.. _Tessel: https://tessel.io/
+.. _Raspberry Pi: https://www.raspberrypi.org/
+.. _BeagleBoard: http://beagleboard.org/
+.. _Lista ampla: https://en.wikipedia.org/wiki/Comparison_of_single-board_computers
+.. _mais próximo: https://garoa.net.br/wiki/Hackerspaces_Brasileiros
+.. _LHC: http://lhc.net.br/wiki/P%C3%A1gina_principal
+.. _Garoa Hacker Club: https://garoa.net.br/wiki/P%C3%A1gina_principal
+.. _Calango Hacker Club: http://calango.club/
+.. _Laboratório de Garagem: http://labdegaragem.com/
+.. _Fazedores: http://blog.fazedores.com/
+.. _Projeto PINGO: http://www.pingo.io/docs/
+.. _Hardware Livre está abocanhando o mundo: http://www.embarcados.com.br/hardware-livre-adam/
+.. _Tecnologia - a coisa certa com o uso errado: http://www.hardware.com.br/artigos/tecnologia-coisa-certa/
+.. _Caneta condutora: http://revistagalileu.globo.com/Revista/Galileu2/foto/0,,68073218,00.jpg
+
+.. _Seminário Linux Embarcado 2015: http://www.embarcados.com.br/seminario-linux-embarcado-2015/
+.. _EdX: https://www.edx.org/course/embedded-systems-shape-world-utaustinx-ut-6-02x
+.. _Relatório 2014: http://www.embarcados.com.br/relatorio-do-estudo-sobre-o-mercado-brasileiro-de-desenvolvimento-de-sistemas-embarcados-2014/
+.. _Slides da Disciplina "Embedded Systems" da Devi Ahilya University na Índia: http://www.dauniv.ac.in/downloads/EmbsysRevEd_PPTs/
+.. _Introdução a SE (2013) pelo PhD Narasimha Murthy (inglês): http://pt.slideshare.net/yayavaram/unit-1-embedded-systems-and-applications
