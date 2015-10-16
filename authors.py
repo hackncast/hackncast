@@ -73,6 +73,7 @@ REINALDO_BISPO = {
     'class': 'Archer',
         }
 OG = {
+    'image': 'http://avatars.io/twitter/ogmaciel?size=large',
     'class': 'Podcaster',
         }
 RAFAEL_ROSA = {
@@ -80,7 +81,7 @@ RAFAEL_ROSA = {
         }
 
 JORGE_FLAVIO = {
-    'image': 'https://pbs.twimg.com/profile_images/573291262658412544/duFNnC7g.jpeg',
+    'image': 'http://avatars.io/twitter/jfcostta?size=large',
     'description': 'Formado em Eng. Elétrica (UFRN), com Esp. em Desenv. de Sistemas Web (FARN), e Mestrado em Eng. da Computação pela UFCG.',
     'class': 'Dev Ops',
     'race': 'Calango Stealth',
@@ -88,6 +89,21 @@ JORGE_FLAVIO = {
         ("Twitter", "fa-twitter", "http://twitter.com/JFCostta"),
         ]
     }
+
+ANDRE_DELAI = {
+    'image': 'http://avatars.io/gravatar/a9b1b15e2d4bd53e48c616a9f76de27b?size=large',
+    'class': 'Hardware Hacker',
+        }
+
+DIEGO_SUEIRO = {
+    'image': 'http://avatars.io/gravatar/7c9c173d30e3d5d025bcb539f8413bcf?size=large',
+    'class': 'Embarcados Hacker',
+        }
+
+PEDRO_HENRIQUE = {
+    'image': 'http://avatars.io/gravatar/ce8694a83da7c39e9246e4cd9684b3b4?size=large',
+    'class': 'Hacker Mirin',
+        }
 
 SITEAUTHORS = {
     'Magnun': MAGNUN,
@@ -104,4 +120,7 @@ SITEAUTHORS = {
     'Og Maciel': OG,
     'Rafael Rosa Fú': RAFAEL_ROSA,
     'Jorge Flávio': JORGE_FLAVIO,
+    'Diego Sueiro': DIEGO_SUEIRO,
+    'André Delai': ANDRE_DELAI,
+    'Pedro Henrique': PEDRO_HENRIQUE,
     }
