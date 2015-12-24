@@ -105,6 +105,16 @@ PEDRO_HENRIQUE = {
     'class': 'Hacker Mirin',
         }
 
+EDUARDO_ELIAS = {
+    'image': '/images/participantes/eduardo-elias.jpg',
+    'class': 'Economy Hacker',
+    'race': 'Mineiro Warrior',
+    'description': 'Autor do podcast <a title="Papo Bitcoin" href="http://papobitcoin.com/">Papo Bitcoin</a>.',
+    'links' : [
+        ("Twitter", "fa-twitter", "https://twitter.com/papobitcoin"),
+        ]
+    }
+
 SITEAUTHORS = {
     'Magnun': MAGNUN,
     'Bruno': BRUNO,
@@ -123,4 +133,5 @@ SITEAUTHORS = {
     'Diego Sueiro': DIEGO_SUEIRO,
     'André Delai': ANDRE_DELAI,
     'Pedro Henrique': PEDRO_HENRIQUE,
+    'Eduardo Elias': EDUARDO_ELIAS,
     }

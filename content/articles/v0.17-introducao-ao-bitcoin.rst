@@ -1,0 +1,88 @@
+v0.17 - Introdução ao Bitcoin
+#############################
+:date: 2015-12-24 03:41
+:authors: Magnun, Ricardo, Eduardo Elias
+:category: Criptografia
+:tags: bitcoin, criptografia, criptomoedas, satoshi nakamoto, blockchain, papobitcoin
+:image: /images/v0.x/covers/v0.17-cover-sqr.jpg
+:image_wide: /images/v0.x/covers/v0.17-cover-wide.jpg
+:length: 38948864
+:duration: 40:18
+:podcast: HNC.v0.17-Introducao-ao-Bitcoin
+:description: Como confiar riquezas a algo intangível e da qual não temos certeza nem de quem é seu criador?
+
+
+No episódio de hoje do `Hack 'n' Cast`_ tentamos entender um pouco sobre esse mundo curiosos do Bitcoin e as criptomoedas junto com o Eduardo Elias do podcast `Papo Bitcoin`_.
+
+Para não perder nenhum episódio siga-nos nas redes sociais (`Twitter`_ e `Facebook`_) ou inscreva-se (`Feed`_, `Podflix`_, `iTunes`_ e `Pocket Casts`_). Você quer colaborar com o Hack 'n' Cast? Sugira um tema, nos ajude a produzir uma pauta ou participe conosco! Basta entrar em contato por `E-mail`_, `Facebook`_ ou `Twitter`_. E agora temos a nossa lista de discussão no `Google Groups`_!
+
+.. more
+
+
+Introdução
+----------
+
+Você apostaria sua casa, dinheiro, carro e demais bens em algo virtual? Algo que começou como um simples token que era distribuído de graça entre amigos e que cresceu ao ponto de valer mais de R$ 3.000,00 cada. 
+
+Algo intangível, que já passou por bolhas, ascendeu, declinou e, mesmo não existindo fisicamente, hoje possui um valor de mercado de $ 5.5 Bilhões de dolares. E se eu te dissesse que nem mesmo após 5 anos, não sabemos de fato quem é o seu criador e se ele realmente existe?
+
+Você confiaria nela para transferir 150 milhões de dólares a custo ZERO? Como tanto dinheiro circula ao redor de algo tão incerto? Simplesmente porque toda a sua fundação está sobre a ciência mais exata do nosso mundo: A matemática. Sim, estamos falando de Bitcoin!
+
+O Que É?
+--------
+
+Bitcoin é uma criptomoeda (a primeira delas, inclusive), ou seja, toda sua lógica se baseia em noções criptográficos, incluíndo sua emissão, transmissão, mineração e lastro de valor.
+
+Ela foi definida 2008 por Satoshi Nakamoto no white paper "`Bitcoin - A Peer-to-Peer Electronic Cash System`_" e inicialmente implementada em 2009 sob a licença MIT pelo próprio Nakamoto, e posteriormente mantida por um time de `desenvolvedores Open Source`_. Curiosamente, não se sabe se Satoshi Nakamoto realmente existe, se ele é uma pessoa, um grupo de pessoas e se este nome é real, e para complicar mais as coisas, este desapareceu repentinamente.
+
+Desde 2009 o Bitcoin passou de um simples token que era distribuido de graça entre amigos a algo que chegou a valer mais de R$ 3000 cada e tem como objetivo causar uma ruptura na maneira como as pessoas vêem, tratam e usam dinheiro. O bitcoin é descentralizada e pseudo-anonimo.
+
+O que o Bitcoin *não* é:
+
+- Esquema de pirâmide;
+- Esquema Ponzi;
+- `Efeito Tulipa`_;
+- Não é uma moeda para o "mercado negro";
+- Não é Dotz ou outro tipo de "moeda" virtual.
+
+Outros Links
+------------
+
+- `Liberty dollar`_;
+- `Blockchain.info`_;
+- `Bitcoin`_;
+- `História do Bitcoin`_;
+
+.. class:: panel-body bg-info
+
+        **Musicas**: Toda a trilha sonora deste episódio é composta por canções da banda `Still Pluto`_ e está sob a licença Creative Commons Attribution-NonCommercial-ShareAlike 3.0 International License: `She`_; `Open Up Your Eyes`_; `Rage (feat Vosmoy)`_; `Be What You Wanna Be`_; `My Own God`_; `Lullaby`_;
+
+
+.. Links Gerais
+.. _Hack 'n' Cast: /pt/category/hack-n-cast
+.. _E-mail: mailto: hackncast@gmail.com
+.. _Twitter: http://twitter.com/hackncast
+.. _Facebook: http://facebook.com/hackncast
+.. _Feed: http://feeds.feedburner.com/hack-n-cast
+.. _Podflix: http://podflix.com.br/hackncast/
+.. _iTunes: https://itunes.apple.com/br/podcast/hack-n-cast/id884916846?l=en
+.. _Pocket Casts: http://pcasts.in/hackncast
+.. _Google Groups: https://groups.google.com/forum/?hl=pt-BR#!forum/hackncast
+
+.. _Papo Bitcoin: http://papobitcoin.com
+.. _Bitcoin - A Peer-to-Peer Electronic Cash System: White Paper: https://bitcoin.org/bitcoin.pdf
+.. _desenvolvedores Open Source: https://github.com/bitcoin/bitcoin
+.. _Efeito Tulipa: http://papobitcoin.com/2013/12/11/papo-bitcoin-ep5-o-que-o-bitcoin-nao-e/
+
+.. _Liberty dollar: https://en.wikipedia.org/wiki/Liberty_dollar_%28private_currency%29
+.. _Blockchain.info: https://blockchain.info/
+.. _Bitcoin: https://bitcoin.org/pt_BR/
+.. _História do Bitcoin: http://historyofbitcoin.org/
+
+.. _Still Pluto: http://freemusicarchive.org/music/Still_Pluto/
+.. _She: http://freemusicarchive.org/music/Still_Pluto/Songs_To_Mend_The_Heart_Once_Been_Torn_Apart/01_-_She
+.. _Open Up Your Eyes: http://freemusicarchive.org/music/Still_Pluto/Welcome_to_the_World/01_-_Open_up_your_eyes
+.. _Rage (feat Vosmoy): http://freemusicarchive.org/music/Still_Pluto/Rage/01_Rage_feat_Vosmoy
+.. _Be What You Wanna Be: http://freemusicarchive.org/music/Still_Pluto/Welcome_to_the_World/02_-_Be_what_you_wanna_be
+.. _My Own God: http://freemusicarchive.org/music/Still_Pluto/Welcome_to_the_World/03_-_My_own_God
+.. _Lullaby: http://freemusicarchive.org/music/Still_Pluto/Songs_To_Mend_The_Heart_Once_Been_Torn_Apart/02_-_Lullaby
