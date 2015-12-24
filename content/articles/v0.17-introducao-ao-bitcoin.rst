@@ -22,9 +22,9 @@ Para não perder nenhum episódio siga-nos nas redes sociais (`Twitter`_ e `Face
 Introdução
 ----------
 
-Você apostaria sua casa, dinheiro, carro e demais bens em algo virtual? Algo que começou como um simples token que era distribuído de graça entre amigos e que cresceu ao ponto de valer mais de R$ 3.000,00 cada. 
+Você apostaria sua casa, dinheiro, carro e demais bens em algo virtual? Algo que começou como um simples token que era distribuído de graça entre amigos e que cresceu ao ponto de valer mais de R$ 3.000,00 cada.
 
-Algo intangível, que já passou por bolhas, ascendeu, declinou e, mesmo não existindo fisicamente, hoje possui um valor de mercado de $ 5.5 Bilhões de dolares. E se eu te dissesse que nem mesmo após 5 anos, não sabemos de fato quem é o seu criador e se ele realmente existe?
+Algo intangível, que já passou por bolhas, ascendeu, declinou e, mesmo não existindo fisicamente, hoje possui um valor de mercado de $ 5.5 Bilhões de dólares. E se eu te dissesse que nem mesmo após 5 anos, não sabemos de fato quem é o seu criador e se ele realmente existe?
 
 Você confiaria nela para transferir 150 milhões de dólares a custo ZERO? Como tanto dinheiro circula ao redor de algo tão incerto? Simplesmente porque toda a sua fundação está sobre a ciência mais exata do nosso mundo: A matemática. Sim, estamos falando de Bitcoin!
 
@@ -33,9 +33,9 @@ O Que É?
 
 Bitcoin é uma criptomoeda (a primeira delas, inclusive), ou seja, toda sua lógica se baseia em noções criptográficos, incluíndo sua emissão, transmissão, mineração e lastro de valor.
 
-Ela foi definida 2008 por Satoshi Nakamoto no white paper "`Bitcoin - A Peer-to-Peer Electronic Cash System`_" e inicialmente implementada em 2009 sob a licença MIT pelo próprio Nakamoto, e posteriormente mantida por um time de `desenvolvedores Open Source`_. Curiosamente, não se sabe se Satoshi Nakamoto realmente existe, se ele é uma pessoa, um grupo de pessoas e se este nome é real, e para complicar mais as coisas, este desapareceu repentinamente.
+Ela foi definida em 2008 por Satoshi Nakamoto no white paper "`Bitcoin - A Peer-to-Peer Electronic Cash System`_" e inicialmente implementada em 2009 sob a licença MIT pelo próprio Nakamoto, e posteriormente mantida por um time de `desenvolvedores Open Source`_. Curiosamente, não se sabe se Satoshi Nakamoto realmente existe, se ele é uma pessoa, um grupo de pessoas e se este nome é real, e para complicar mais as coisas, este desapareceu repentinamente.
 
-Desde 2009 o Bitcoin passou de um simples token que era distribuido de graça entre amigos a algo que chegou a valer mais de R$ 3000 cada e tem como objetivo causar uma ruptura na maneira como as pessoas vêem, tratam e usam dinheiro. O bitcoin é descentralizada e pseudo-anonimo.
+Desde 2009 o Bitcoin passou de um simples token que era distribuido de graça entre amigos a algo que chegou a valer mais de R$ 3.000,00 cada e tem como objetivo causar uma ruptura na maneira como as pessoas vêem, tratam e usam dinheiro. O bitcoin é descentralizada e pseudo-anonimo.
 
 O que o Bitcoin *não* é:
 
