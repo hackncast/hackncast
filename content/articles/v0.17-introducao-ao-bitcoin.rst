@@ -70,7 +70,7 @@ Outros Links
 .. _Google Groups: https://groups.google.com/forum/?hl=pt-BR#!forum/hackncast
 
 .. _Papo Bitcoin: http://papobitcoin.com
-.. _Bitcoin - A Peer-to-Peer Electronic Cash System: White Paper: https://bitcoin.org/bitcoin.pdf
+.. _Bitcoin - A Peer-to-Peer Electronic Cash System: https://bitcoin.org/bitcoin.pdf
 .. _desenvolvedores Open Source: https://github.com/bitcoin/bitcoin
 .. _Efeito Tulipa: http://papobitcoin.com/2013/12/11/papo-bitcoin-ep5-o-que-o-bitcoin-nao-e/
 
