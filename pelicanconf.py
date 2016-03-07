@@ -185,6 +185,7 @@ LINKS_ACOMPANHE = (
     ("Grupo de Discussão", "fa-group", "https://groups.google.com/forum/?hl=pt-BR#!forum/hackncast"),
     ("Feed RSS", "fa-rss", "http://feeds.feedburner.com/hack-n-cast"),
     ("iTunes", "fa-apple", "https://itunes.apple.com/br/podcast/hack-n-cast/id884916846"),
+    ("Telegram", "fa-paper-plane", "https://telegram.me/joinchat/BT9AGQOhIkAZgC80KTDnHQ"),
     )
 
 CATEGORY_IMAGES = {
