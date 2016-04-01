@@ -1,0 +1,157 @@
+v0.19 - Introdução á Eletrônica Digital
+#######################################
+:date: 2016-04-01 00:01
+:authors: Magnun, Ricardo, Jorge Flávio, Bryan Moreno
+:category: Notícias
+:tags: eletrônica, digital, analógica, transistores, válvulas, sistemas de numeração, funções lógicas, portas lógicas, álgebra booleana, boole, teorema de de morgan, mapas de karnaugh, flip-flops
+:image: /images/v0.x/covers/v0.19-cover-sqr.jpg
+:image_wide: /images/v0.x/covers/v0.19-cover-wide.jpg
+:length: 85278720
+:duration: 56:49
+:podcast: HNC.v0.19-Introducao-a-Eletronica-Digital
+:description: Uma breve introdução à eletrônica digital, passando pela sua antecessora até chegar aos flip-flops.
+
+Neste episódio, com uma introdução especial ambientada no universo de Game of Thrones, fizemos uma introdução à eletrônica digital, explicando como ela se diferencia da eletrônica analógica, e os principais conceitos do mundo ditial: portas lógicas, bases numéricas, álgebra booleana, teorema de De Morgan, os famigerados Mapas de Karnaugh e os importantíssimos Flip-Flops.
+
+Para não perder nenhum episódio siga-nos nas redes sociais (`Twitter`_ e `Facebook`_) ou inscreva-se (`Feed`_, `Podflix`_, `iTunes`_ e `Pocket Casts`_). Você quer colaborar com o Hack 'n' Cast? Sugira um tema, nos ajude a produzir uma pauta ou participe conosco! Basta entrar em contato por `E-mail`_, `Facebook`_ ou `Twitter`_. E agora temos a nossa lista de discussão no `Google Groups`_!
+
+.. more
+
+Introdução
+----------
+
+No início havia o ábaco… então Charles Babbage criou aquela que seria considerada a primeira máquina computacional da história e Ada criou o primeiro programa. Alguns anos depois, Alan Turing criava computadores analógicos que seriam usados para quebrar a criptografia das transmissões nazistas durante a segunda guerra mundial. Em 1945 Grace Hopper “cunha” o termo bug, devido a um besouro preso entre os contatos de um relê. Então tivemos o momento de ruptura, as válvulas foram trocadas por transistores e os computadores passaram a trabalhar com sinais discretos, havíamos criado a eletrônica digital. 
+
+Eletrônica Analógica
+--------------------
+
+A eletrônica analógica trabalha com valores contínuos que variam numa faixa determinada onde todas as medições são aproximadas, uma vez que nenhum aparelho consegue medir com precisão exata os valores do mundo real (perdas por aproximação de valores).
+
+O nome analógico vem do termo `analogue` (ou análogo em português) uma vez que estes circuitos/computadores trabalhavam com analogias de sinais/valores.
+
+Exemplos de elementos da eletrônica analógica:
+
+- Resistores;
+- Capacitores;
+- Indutores;
+- Válvulas e ;
+- Amplificadores Operacionais.
+
+
+Eletrônica Digital
+--------------------
+
+A eletrônica Digital trabalha com valores discretos que variam de maneira fixa (com um "passo/salto" de tamanho fixo) dentro de uma faixa de valores predeterminados. Esta eletrônica sempre trabalha com representações de valores absolutos.
+
+A palavra digital data do século 15, e era utilizada para designar valores numéricos discretos menores que 10, fazendo referencia aos dígitos (dedos) que o ser humano usava para contar
+
+Exemplos de elementos da eletrônica analógica:
+
+- Portas lógicas;
+- Flip-Flops e;
+- Acumuladores;
+
+Vantagens:
+
+- sistemas digitais são mais simples de serem projetados;
+- maior facilidade em manter precisão e exatidão;
+- operações podem ser programadas;
+- menos afetados por ruídos;
+- CI’s (Circuitos Integrados) podem ser fabricados com mais dispositivos.
+
+
+Desvantagens:
+
+- nosso mundo é quase todo analógico;
+- processar sinais digitais demanda tempo;
+- Necessidade de conversores Analógico/Digital e Digital/Analógico;
+- tempo de processamento é maior.
+
+
+Portas Lógicas
+--------------
+
+Portas lógicas operam com valores de suas entradas como 1 (verdadeiro) ou 0 (falso) e geram saídas, tendo como base o seu comportamento. Segue abaixo uma listagem da tabela verdade das principais portas lógicas:
+
+.. image:: {filename}/images/v0.x/taebla_verade_ed.jpg
+        :target: {filename}/images/v0.x/taebla_verade_ed.jpg
+        :align: center
+        :alt: Tabela verdade das portas lógicas
+
+
+Álgebra Booleana
+----------------
+
+Ramo de estudo baseado a partir de duas circunstâncias: ou uma afirmativa é verdadeira (1) ou é falsa (0). Por meio desse conceito, é possível criar circuitos que resultam em operações lógicas, inteligentes e coerentes. Escrever essas operações pode se tornar cansativo, por isso, existe a preferência por descrever as variáveis por letras (A, B, x, y,...) e aplicar técnicas de simplificação ao circuito (ou de equações). Qualquer circuito, independente da complexidade,
+
+
+Flip-Flops
+----------
+
+O primeiro flip-flop (também chamado de multivibrador biestável) eletrônico foi inventado em 1919 por William Eccles e F. W. Jordan. É um Agrupamento de portas lógicas que servem como memória de 1 bit.
+Este elemento é o “tijolo” da computação atual.
+
+.. figure:: {filename}/images/v0.x/flip-flop-circuit.png
+        :target: {filename}/images/v0.x/flip-flop-circuit.png
+        :align: center
+        :alt: Circuito de um Flip-Flop
+
+        Circuito de um Flip-Flop
+
+.. figure:: {filename}/images/v0.x/flip-flop-schematic.gif
+        :target: {filename}/images/v0.x/flip-flop-schematic.gif
+        :align: center
+        :alt: Representação de um Flip-Flop
+
+        Representação de um Flip-Flop
+
+Links Adicionais
+----------------
+
+- `Free electronic circuit simulators`_;
+- `Artigo sobre o QUCS (Quite Universal Circuit Simulator)`_;
+- `K-Map (Mapas de Karnaugh)`_;
+- `História dos flip-flops`_;
+
+
+Fontes de Aprendizagem
+----------------------
+
+- `Apostila completa de eletronica digital`_;
+- `Sistemas Digitais - Princípios e Aplicações`_;
+- `Sistemas Digitais - Fundamentos e Aplicações`_;
+- `Eletrônica Digital - PET-EE`_;
+- `PETeletrica UFBA`_;
+
+.. class:: panel-body bg-info
+
+        **Musicas**: Toda a trilha sonora deste episódio é composta por canções do album `Arcade`_ da Banda `Machinae Supremacy`_, que está disponível no site oficial da banda sem direitos autorais.
+
+.. Links Gerais
+.. _Hack 'n' Cast: /pt/category/hack-n-cast
+.. _E-mail: mailto: hackncast@gmail.com
+.. _Twitter: http://twitter.com/hackncast
+.. _Facebook: http://facebook.com/hackncast
+.. _Feed: http://feeds.feedburner.com/hack-n-cast
+.. _Podflix: http://podflix.com.br/hackncast/
+.. _iTunes: https://itunes.apple.com/br/podcast/hack-n-cast/id884916846?l=en
+.. _Pocket Casts: http://pcasts.in/hackncast
+.. _Google Groups: https://groups.google.com/forum/?hl=pt-BR#!forum/hackncast
+
+.. Links Adicionais
+.. _Free electronic circuit simulators: https://en.wikipedia.org/wiki/List_of_free_electronics_circuit_simulators
+.. _Artigo sobre o QUCS (Quite Universal Circuit Simulator): http://opensourceforu.efytimes.com/2013/12/getting-started-open-source-circuit-simulator/
+.. _K-Map (Mapas de Karnaugh): http://k-map.sourceforge.net/
+.. _História dos flip-flops: http://www.aol.com/article/2013/05/31/the-story-behind-flip-flops/20593691/
+
+.. Fontes de Aprendizagem
+.. _Apostila completa de eletronica digital: http://www.cear.ufpb.br/~asergio/Eletronica/Digital/Apostila%20completa%20de%20eletronica%20digital..pdf
+.. _Sistemas Digitais - Princípios e Aplicações: http://www.saraiva.com.br/sistemas-digitais-principios-e-aplicacoes-8883540.html
+.. _Sistemas Digitais - Fundamentos e Aplicações: http://www.saraiva.com.br/sistemas-digitais-fundamentos-e-aplicacoes-3670879.html
+.. _Eletrônica Digital - PET-EE: http://www.peteletrica.ufc.br/Apostilas/Eletr%C3%B4nica%20Digital%20-%20PET-EE.pdf
+.. _PETeletrica UFBA: https://www.youtube.com/user/PETeletricaUFBA/videos
+
+.. Musicas
+.. _`Creative Commons by 4.0`: http://creativecommons.org/licenses/by/4.0/
+.. _Arcade: http://machinaesupremacy.com/post/110453140530/arcade-webography
+.. _Machinae Supremacy: http://machinaesupremacy.com
