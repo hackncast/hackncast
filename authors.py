@@ -115,6 +115,15 @@ EDUARDO_ELIAS = {
         ]
     }
 
+BRYAN_MORENO = {
+    'image': 'https://pbs.twimg.com/profile_images/707378747809202176/-lhgtc-5_400x400.jpg',
+    'class': 'Star Hunter',
+    'race': 'Humano',
+    'links' : [
+        ("Twitter", "fa-twitter", "https://twitter.com/morenobryan"),
+        ]
+    }
+
 SITEAUTHORS = {
     'Magnun': MAGNUN,
     'Bruno': BRUNO,
@@ -134,4 +143,5 @@ SITEAUTHORS = {
     'André Delai': ANDRE_DELAI,
     'Pedro Henrique': PEDRO_HENRIQUE,
     'Eduardo Elias': EDUARDO_ELIAS,
+    'Bryan Moreno': BRYAN_MORENO,
     }
