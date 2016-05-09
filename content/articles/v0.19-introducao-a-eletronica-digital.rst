@@ -2,7 +2,7 @@ v0.19 - Introdução á Eletrônica Digital
 #######################################
 :date: 2016-04-01 00:01
 :authors: Magnun, Ricardo, Jorge Flávio, Bryan Moreno
-:category: Notícias
+:category: Hardware
 :tags: eletrônica, digital, analógica, transistores, válvulas, sistemas de numeração, funções lógicas, portas lógicas, álgebra booleana, boole, teorema de de morgan, mapas de karnaugh, flip-flops
 :image: /images/v0.x/covers/v0.19-cover-sqr.jpg
 :image_wide: /images/v0.x/covers/v0.19-cover-wide.jpg
