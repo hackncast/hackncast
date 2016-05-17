@@ -3,7 +3,7 @@ v0.20 - Bitcoin: Mineração e Carteiras
 :date: 2016-05-17 01:46
 :authors: Magnun, Ricardo, Eduardo Elias
 :category: Criptografia
-:tags: bitcoin, mineração, carteiras
+:tags: podcast, bitcoin, mineração, carteiras, lojas, físicas, virtuais, ferramentas, farm, asics, papo bitcoin
 :image: /images/v0.x/covers/v0.20-cover-sqr.jpg
 :image_wide: /images/v0.x/covers/v0.20-cover-wide.jpg
 :length: 81321984
