@@ -1,0 +1,168 @@
+v0.20 - Bitcoin: Mineração e Carteiras
+######################################
+:date: 2016-05-17 01:46
+:authors: Magnun, Ricardo, Eduardo Elias
+:category: Criptografia
+:tags: bitcoin, mineração, carteiras
+:image: /images/v0.x/covers/v0.20-cover-sqr.jpg
+:image_wide: /images/v0.x/covers/v0.20-cover-wide.jpg
+:length: 81321984
+:duration: 56:13
+:podcast: HNC.v0.20-Bitcoin-Mineracao-e-Carteiras
+:description: Bitcoins. O que são, como conseguir, onde gastar? E o que são as carteiras? Descubra hoje, no Hacker Reporter!
+
+Nesta sequeência retomamos o ponto da `versão 0.17`_ e agora expandimos o assunto para a mineração de bitcoins, carteiras e onde gastar seu rico dinheirinho!
+
+Para não perder nenhum episódio siga-nos nas redes sociais (`Twitter`_ e `Facebook`_) ou inscreva-se (`Feed`_, `Podflix`_, `iTunes`_ e `Pocket Casts`_). Você quer colaborar com o Hack 'n' Cast? Sugira um tema, nos ajude a produzir uma pauta ou participe conosco! Basta entrar em contato por `E-mail`_, `Facebook`_ ou `Twitter`_. E agora temos a nossa lista de discussão no `Google Groups`_!
+
+.. more
+
+O Que é Mineração
+-----------------
+
+A mineração não é simplesmente o processo de encontrar Bitcoins. Na verdade é um processe de busca por blocos (podemos abstrair como "espaços vazios") para a blockchain. Ao encontrar um novo bloco você ganha 25 Bitcoins, e é por isso que muitas pessoas mineram.
+
+Além do processo de busca de blocos, ao minerar seu computador está processando a blockchain e recebendo transações de terceiros para validação. Dessa forma, ao minerar você está agindo como um nó de uma rede descentralizada, e você é responsável por validar ou rejeitar transações. Para incentivar a mineração (mesmo após os blocos "vazios" se esgotarem), as transações também "rendem bitcoins". Quando você, da perspectiva de um cliente, realiza uma transação, você pode (ou não, fica a seu critério) definir uma "taxa" a ser recolhida sobre essa transação, que será entregue ao no que processar e validar essa transação. O valor dessa taxa é estipulada pelo cliente que inicia a transação, e pode ser qualquer valor, até milésimos de um bitcoin. Claro que, quanto mais alta a taxa, mais pessoas estarão interessadas em validar sua transação logo, seu "dinheiro" vai chegar mais rápido no destino.
+
+Frações de Bitcoins
+-------------------
+
+É muito importante ressaltar que um bitcoin não é a menor unidade desta criptomoeda. Na verdade o bitcoin pode ser dividido em muitas partes, e algumas delas possuem nome. Frações:
+
+- 1 = Bitcoin;
+- 0.001 = Milibitcoin (mBit);
+- 0.000 001 = Microbitcoin (uBit) ou Bit;
+- 0.000 000 01 = Satoshi;
+
+Vale a Pena Minerar?
+-----------------------
+
+Sendo curto e grosso: Não. Hoje em dia a "rede bitcoin" é uma das redes computacionais com maior poder de processamento no mundo. Por mais poderoso que seja o seu hardware, você provavelmente não se aproximará das ASIC Farms utilizadas ao redor do mundo.
+
+
+Onde é Usado?
+-------------
+
+- Diretamente (alguns exemplos):
+    - `gyft.com`_;
+    - `Overstock.com`_ (Loja online estilo submarino);
+    - `TigerDirect`_ (Loja online de artigos eletronicos);
+    - Dell;
+    - Lojas fisicas podem ser encontradas em `coinmap.org`_;
+    - `expedia.com`_;
+    - `btctrip.com`_;
+    - `cheapair.com`_;
+
+- Indiretamente (através de cartão presente):
+    - Amazon;
+    - Best buy;
+    - GamesStop;
+    - E diversos outros;
+
+
+Links Adicionais
+----------------
+
+Alguns links citados no episódio:
+
+- `Máquinas Minerando Bitcois #1`_;
+- `Máquinas Minerando Bitcois #2`_;
+- `Máquinas Minerando Bitcois #3`_;
+- `Máquinas Minerando Bitcois #4`_;
+- `ASIC Farms | Google`_;
+- `Blockchaing.info`_;
+
+- Ferramentas:
+
+  - Carteiras standalone:
+
+    - `Multibit`_;
+    - `Electrum`_;
+    - `Cliente 'oficial' Bitcoin-core`_;
+  
+  - Carteiras web
+
+    - `Blockchain.info Wallet`_;
+    - `Coinbase`_;
+  
+  - App para smartphone
+
+    - `Mycelium`_;
+    - Carteiras de papel;
+
+
+
+
+Fontes de Aprendizagem
+----------------------
+
+- Português:
+
+  - `Bitcoin | pt_BR`_;
+  - Livro: Bitcoin - A Moeda na Era Digital;
+
+- Inglês:
+
+  - `Wiki Bitcoin`_;
+  - Vídeos no Youtube;
+
+  - Podcast:
+
+    - `letstalkbitcoin.com`_;
+    - `Papo Bitcoin`_;
+
+  - Fórum "oficial": bitcointalk.org
+  - Documentário: Rise and Rise of Bitcoin
+
+
+
+.. class:: panel-body bg-info
+
+        **Musicas**: Toda a trilha sonora deste episódio é composta por canções do album `The Slip`_ da Banda `Nine Inch Nails`_, que está disponível no site oficial da banda sob a licensa Creative Commons (BY-NC-SA).
+
+.. Links Gerais
+.. _Hack 'n' Cast: /pt/category/hack-n-cast
+.. _E-mail: mailto: hackncast@gmail.com
+.. _Twitter: http://twitter.com/hackncast
+.. _Facebook: http://facebook.com/hackncast
+.. _Feed: http://feeds.feedburner.com/hack-n-cast
+.. _Podflix: http://podflix.com.br/hackncast/
+.. _iTunes: https://itunes.apple.com/br/podcast/hack-n-cast/id884916846?l=en
+.. _Pocket Casts: http://pcasts.in/hackncast
+.. _Google Groups: https://groups.google.com/forum/?hl=pt-BR#!forum/hackncast
+
+.. _versão 0.17: http://hackncast.org/v017-introducao-ao-bitcoin
+
+.. _TigerDirect: http://www.tigerdirect.com/bitcoin/
+.. _Overstock.com: http://overstock.com
+.. _coinmap.org: http://coinmap.org
+.. _expedia.com: http://expedia.com
+.. _btctrip.com: http://btctrip.com
+.. _cheapair.com: http://cheapair.com
+
+.. Links adicionais
+.. _Máquinas Minerando Bitcois #1: http://i.kinja-img.com/gawker-media/image/upload/s--CJ0LcRhY--/18kpft1xr968djpg.jpg
+.. _Máquinas Minerando Bitcois #2: http://i2.cdn.turner.com/money/dam/assets/131215234126-bitcoin-4-620xb.jpg
+.. _Máquinas Minerando Bitcois #3: http://spectrum.ieee.org/img/01NWLiquidCoolGreenRevolutionCoolingCarnotJetDataCenters-1389817986216.jpg
+.. _Máquinas Minerando Bitcois #4: http://www.zerohedge.com/sites/default/files/images/user5/imageroot/2013/12/BTC%20mine%204.jpg
+.. _ASIC Farms | Google: https://www.google.com.br/search?q=asic+farms&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi37rLCjeDMAhWEH5AKHZh8DW8Q_AUICCgC&biw=1366&bih=668
+.. _Blockchaing.info: https://blockchain.info/
+.. _Multibit: https://multibit.org/
+.. _Electrum: http://electrum.org
+.. _Cliente 'oficial' Bitcoin-core: https://bitcoin.org/en/download
+.. _Blockchain.info Wallet: https://blockchain.info/pt/wallet
+.. _Coinbase: https://www.coinbase.com/
+.. _Mycelium: http://bit.ly/1qp9aAZ
+.. _gyft.com: https://www.gyft.com/bitcoin/
+
+.. Fontes de Aprendizagem
+.. _Bitcoin | pt_BR: https://bitcoin.org/pt_BR/
+.. _Wiki Bitcoin: https://en.bitcoin.it/wiki/Main_Page
+.. _letstalkbitcoin.com: http://letstalkbitcoin.com
+.. _Papo Bitcoin: http://papobitcoin.com/
+.. _bitcointalk.org: http://bitcointalk.org
+
+.. Musicas
+.. _`Creative Commons by 4.0`: http://creativecommons.org/licenses/by/4.0/
+.. _The Slip: http://theslip.nin.com/
+.. _Nine Inch Nails: http://www.nin.com/
