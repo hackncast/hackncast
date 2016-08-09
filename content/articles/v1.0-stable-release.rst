@@ -1,0 +1,37 @@
+v1.0 - Stable Release
+#####################
+:date: 2016-08-09 00:42
+:authors: Magnun, Ricardo, Jorge Flávio
+:category: Programação
+:tags: podcast, programação, desafio, computação, ti, inicio
+:image: /images/v1.x/covers/v1.0-cover-sqr.jpg
+:image_wide: /images/v1.x/covers/v1.0-cover-wide.jpg
+:length: 88965120
+:duration: 63:12
+:podcast: HNC.v1.0-Stable-Release
+:description: Chegou o momento de virarmos a chave e incrementarmos o major version number desse podcast.
+
+Depois de 2 anos de estrada, muitos atrasos, vários convidados e muita piada ruim, o Hack 'n' Cast chega na sua primeira versão estável. E para comemorar comentamos sobre (e resolvemos) o desafio hacker que fizemos há muito tempo, além de trocarmos uma ideia sobre como cada um foi parar nessa ingrata área da TI.
+
+Para não perder nenhum episódio siga-nos nas redes sociais (`Twitter`_ e `Facebook`_) ou inscreva-se (`Feed`_, `Podflix`_, `iTunes`_ e `Pocket Casts`_). Você quer colaborar com o Hack 'n' Cast? Sugira um tema, nos ajude a produzir uma pauta ou participe conosco! Basta entrar em contato por `E-mail`_, `Facebook`_ ou `Twitter`_. E agora temos a nossa lista de discussão no `Google Groups`_!
+
+
+.. class:: panel-body bg-info
+
+        **Musicas**: Toda a trilha sonora deste episódio é composta por canções do album `Punk Rock Opera Vol.1`_ da Banda `Punk Rock Opera`_, que está disponível sob a licensa Creative Commons (BY-NC).
+
+.. Links Gerais
+.. _Hack 'n' Cast: /pt/category/hack-n-cast
+.. _E-mail: mailto: hackncast@gmail.com
+.. _Twitter: http://twitter.com/hackncast
+.. _Facebook: http://facebook.com/hackncast
+.. _Feed: http://feeds.feedburner.com/hack-n-cast
+.. _Podflix: http://podflix.com.br/hackncast/
+.. _iTunes: https://itunes.apple.com/br/podcast/hack-n-cast/id884916846?l=en
+.. _Pocket Casts: http://pcasts.in/hackncast
+.. _Google Groups: https://groups.google.com/forum/?hl=pt-BR#!forum/hackncast
+
+.. Musicas
+.. _`Creative Commons by 4.0`: http://creativecommons.org/licenses/by/4.0/
+.. _Punk Rock Opera Vol.1: http://freemusicarchive.org/music/Punk_Rock_Opera/Punk_Rock_Opera_Vol_I/
+.. _Punk Rock Opera: http://freemusicarchive.org/music/Punk_Rock_Opera/
