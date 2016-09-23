@@ -171,10 +171,10 @@ MAIS = [
 # Footer
 PODCASTS_AMIGOS = [
         ("Castálio Podcast", "http://castalio.info/"),
-        ("Piratas da Internet", "http://piratasdainternet.com.br/"),
-        ("DatabaseCast", "http://imasters.com.br/perfil/databasecast"),
-        ("SciCast", "http://www.scicast.com.br/scicast/"),
+        ("Blog do Edivaldo Brito", "http://www.edivaldobrito.com.br/"),
         ("NetoCast", "http://www.josecastanhasneto.blogspot.com.br/"),
+        ("DatabaseCast", "http://imasters.com.br/perfil/databasecast"),
+        ("Piratas da Internet", "http://piratasdainternet.com.br/"),
         ]
 
 LINKS_ACOMPANHE = (
