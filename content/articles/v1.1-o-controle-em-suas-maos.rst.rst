@@ -1,0 +1,424 @@
+v1.1 - O controle em suas mãos
+==============================
+:date: 2016-10-03 03:02
+:authors: Magnun, Ricardo, Jorge Flávio, Matheus Gonçalves, Flávia Gasi
+:category: Jogos
+:tags: podcast, jogos, controles, games, consoles
+:image: /images/v1.x/covers/v1.1-cover-sqr.jpg
+:image_wide: /images/v1.x/covers/v1.1-cover-wide.jpg
+:length: 93399040
+:duration: 129:21
+:podcast: HNC.v1.1-O-Controle-Em-Suas-Maos
+:description: Teclado, mouse, gamepads, joysticks, controles, manches, alavancas... Seja qual for o nome/modalidade que você use, ele está sempre lá, "o controle de videogame".
+
+Desde a criação dos primeiros jogos, há uma preocupação real com o modo de interação com o jogador. A tecnologia evolui, as pessoas mudam e, consequentemente, os games seguem na mesma linha. É preciso chegar a modos de interação que integrem todas as variáveis. Aí entra o controle de videogame.
+
+Evoluindo de componentes eletrônicos simples - ora com mudanças triviais, ora com reestruturação total - até o estágio atual, os controles de videogame têm uma história fascinante que deve ser conhecida para que se possa saber quais serão os próximos passos.
+
+Para não perder nenhum episódio siga-nos nas redes sociais (`Twitter`_ e `Facebook`_) ou inscreva-se (`Feed`_, `Podflix`_, `iTunes`_ e `Pocket Casts`_). Você quer colaborar com o Hack 'n' Cast? Sugira um tema, nos ajude a produzir uma pauta ou participe conosco! Basta entrar em contato por `E-mail`_, `Facebook`_ ou `Twitter`_. E agora temos a nossa lista de discussão no `Google Groups`_!
+
+O que é?
+--------
+
+É o meio pelo qual o jogador interage com o jogo, seja através da
+manipulação direta de um dispositivo, seja por meio de gestos.
+
+.. figure:: {filename}/images/v1.x/controles/IMG_2556.jpg
+    :target: {filename}/images/v1.x/controles/IMG_2556.jpg
+    :alt: Sala do Matheus "Toad" Geek
+    :align: center
+
+    Sala do Matheus "Toad" Geek
+
+    Só pra deixar todos com ~invejinha~
+
+História
+--------
+
+Tennis Programming/Tennis For Two e Spacewar!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: {filename}/images/v1.x/controles/spacewarcontroller.jpg
+        :target: {filename}/images/v1.x/controles/spacewarcontroller.jpg
+        :alt: Spacewar Controller
+        :align: center
+
+.. image:: {filename}/images/v1.x/controles/tennis.png
+        :target: {filename}/images/v1.x/controles/tennis.png
+        :alt: Tennis
+        :align: center
+
+Brown Box/Odissey 100
+~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: {filename}/images/v1.x/controles/brownbox.jpg
+        :target: {filename}/images/v1.x/controles/brownbox.jpg
+        :alt: Brown Box
+        :align: center
+
+.. image:: {filename}/images/v1.x/controles/odisseycontroller.jpg
+        :target: {filename}/images/v1.x/controles/odisseycontroller.jpg
+        :alt: Odissey 100
+        :align: center
+
+Atari 2600
+~~~~~~~~~~
+
+Um joystick e um fire button;
+
+.. image:: {filename}/images/v1.x/controles/2600controller.jpg
+        :target: {filename}/images/v1.x/controles/2600controller.jpg
+        :alt: Atari 2600
+        :align: center
+
+
+Atari 5200
+~~~~~~~~~~
+
+Controle mais resistente
+
+.. image:: {filename}/images/v1.x/controles/5200controller.jpg
+        :target: {filename}/images/v1.x/controles/5200controller.jpg
+        :alt: Atari 5200
+        :align: center
+
+Atari 7800
+~~~~~~~~~~
+
+Perdeu quase todos os botões
+
+.. image:: {filename}/images/v1.x/controles/7800controller.jpg
+        :target: {filename}/images/v1.x/controles/7800controller.jpg
+        :alt: Atari 7800
+        :align: center
+
+Nintendinho
+~~~~~~~~~~~
+
+Padrão gamepad
+
+.. image:: {filename}/images/v1.x/controles/nescontroller.jpg
+        :target: {filename}/images/v1.x/controles/nescontroller.jpg
+        :alt: NES
+        :align: center
+
+Nintendo
+~~~~~~~~
+
+Game and Watch
+
+.. image:: {filename}/images/v1.x/controles/gameandwatch.png
+        :target: {filename}/images/v1.x/controles/gameandwatch.png
+        :alt: Nintendo Game and Watch
+        :align: center
+
+Controle do Famicom
+~~~~~~~~~~~~~~~~~~~
+
+Não destacáveis e microfone no segundo controle
+
+.. image:: {filename}/images/v1.x/controles/famicomcontroller.jpg
+        :target: {filename}/images/v1.x/controles/famicomcontroller.jpg
+        :alt: Famicom
+        :align: center
+
+Master System
+~~~~~~~~~~~~~
+
+Sucesso no Brasil, mas com option buttons no console
+
+.. image:: {filename}/images/v1.x/controles/mastersystemcontroller.jpg
+        :target: {filename}/images/v1.x/controles/mastersystemcontroller.jpg
+        :alt: Master System
+        :align: center
+
+Mega Drive/Genesis
+~~~~~~~~~~~~~~~~~~
+
+Gamepad mais ergonômico
+
+.. image:: {filename}/images/v1.x/controles/megadrivecontroller.jpg
+        :target: {filename}/images/v1.x/controles/megadrivecontroller.jpg
+        :alt: Mega Drive
+        :align: center
+
+SNES
+~~~~
+
+Evolução direta do controle do NES
+
+.. image:: {filename}/images/v1.x/controles/snescontroller.jpg
+        :target: {filename}/images/v1.x/controles/snescontroller.jpg
+        :alt: SNES
+        :align: center
+
+Atari Jaguar
+~~~~~~~~~~~~
+
+Gamepad com três fire buttons, dois option buttons e volta do
+bizarro teclado estilo telefone
+
+.. image:: {filename}/images/v1.x/controles/jaguarcontroller.jpg
+        :target: {filename}/images/v1.x/controles/jaguarcontroller.jpg
+        :alt: Atari Jaguar
+        :align: center
+
+PSONE
+~~~~~
+
+Gamepad com D-pad “quebrado”, start em formato de play e fire buttons
+com símbolos e cores ao invés das tradicionais letras
+
+.. image:: {filename}/images/v1.x/controles/psonecontroller.jpg
+        :target: {filename}/images/v1.x/controles/psonecontroller.jpg
+        :alt: PSONE
+        :align: center
+
+Sega Saturn
+~~~~~~~~~~~
+
+Gamepad de seis botões do Mega Drive com sholder buttons
+
+.. image:: {filename}/images/v1.x/controles/saturncontrollers.jpg
+        :target: {filename}/images/v1.x/controles/saturncontrollers.jpg
+        :alt: Sega Saturn
+        :align: center
+
+Nintendo 64
+~~~~~~~~~~~
+
+Pra variar, mais inovações
+
+.. image:: {filename}/images/v1.x/controles/n64controller.jpg
+        :target: {filename}/images/v1.x/controles/n64controller.jpg
+        :alt: Nintendo 64
+        :align: center
+
+PlayStation DualShock
+~~~~~~~~~~~~~~~~~~~~~
+
+Dois analógicos com extremidades convexas, um botão para
+ativar os analógicos (por questões de compatibilidade) e um led
+
+.. image:: {filename}/images/v1.x/controles/dualshock.jpg
+        :target: {filename}/images/v1.x/controles/dualshock.jpg
+        :alt: Playstation DualShock
+        :align: center
+
+Dreamcast
+~~~~~~~~~
+
+Praticamente o mesmo gamepad do jogo “NiGHT”
+
+.. image:: {filename}/images/v1.x/controles/dreamcastcontroller.jpg
+        :target: {filename}/images/v1.x/controles/dreamcastcontroller.jpg
+        :alt: Dreamcast
+        :align: center
+
+PlayStation 2
+~~~~~~~~~~~~~
+
+DUALSHOCK 2 quase idêntico ao anterior
+
+.. image:: {filename}/images/v1.x/controles/dualshock2.jpg
+        :target: {filename}/images/v1.x/controles/dualshock2.jpg
+        :alt: Playstation 2 - DualShock 2
+        :align: center
+
+Game Cube
+~~~~~~~~~
+
+Falta da clássica inovação da Nintendo
+
+.. image:: {filename}/images/v1.x/controles/gamecubecontroller.jpg
+        :target: {filename}/images/v1.x/controles/gamecubecontroller.jpg
+        :alt: Game Cube
+        :align: center
+
+XBOX
+~~~~
+
+Continuando de onde a Sega parou
+
+.. image:: {filename}/images/v1.x/controles/xboxhugecontroller.jpg
+        :target: {filename}/images/v1.x/controles/xboxhugecontroller.jpg
+        :alt: XBOX
+        :align: center
+
+.. image:: {filename}/images/v1.x/controles/xboxsmallcontroller.jpg
+        :target: {filename}/images/v1.x/controles/xboxsmallcontroller.jpg
+        :alt: XBOX
+        :align: center
+
+XBOX 360
+~~~~~~~~
+
+Evolução do gamepad anterior
+
+.. image:: {filename}/images/v1.x/controles/xbox360controller.jpg
+        :target: {filename}/images/v1.x/controles/xbox360controller.jpg
+        :alt: XBOX 360
+        :align: center
+
+Wii
+~~~
+
+Retorno da inovação da Nintendo
+
+.. image:: {filename}/images/v1.x/controles/Wiimote.png
+        :target: {filename}/images/v1.x/controles/Wiimote.png
+        :alt: Wii
+        :align: center
+
+
+Wii  Classic Controller Pro
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Cópia do DUALSHOCK 2, com projeções e sholder
+   buttons ajustados
+
+.. image:: {filename}/images/v1.x/controles/wiiclassicandprocontroller.jpg
+        :target: {filename}/images/v1.x/controles/wiiclassicandprocontroller.jpg
+        :alt: Wii Classic and Pro Controller
+        :align: center
+
+PlayStation 3
+~~~~~~~~~~~~~
+
+Até sete controles wireless
+
+.. image:: {filename}/images/v1.x/controles/dualshock3.jpg
+        :target: {filename}/images/v1.x/controles/dualshock3.jpg
+        :alt: Playstation 3 - Dualshock3
+        :align: center
+
+Kinect
+~~~~~~
+
+O controle não está em suas mãos
+
+.. image:: {filename}/images/v1.x/controles/kinect.jpg
+        :target: {filename}/images/v1.x/controles/kinect.jpg
+        :alt: Knect
+        :align: center
+
+PlayStation Move
+~~~~~~~~~~~~~~~~
+
+Cópia do Wiimote
+
+.. image:: {filename}/images/v1.x/controles/psmoveandpseye.jpg
+        :target: {filename}/images/v1.x/controles/psmoveandpseye.jpg
+        :alt: PS Move and PS Eye
+        :align: center
+
+Wii U
+~~~~~
+
+“DS” dos consoles
+
+.. image:: {filename}/images/v1.x/controles/wiiugamepad.jpg
+        :target: {filename}/images/v1.x/controles/wiiugamepad.jpg
+        :alt: Wii U
+        :align: center
+
+Dualshock 4
+~~~~~~~~~~~
+
+Touchpad clicável
+
+.. image:: {filename}/images/v1.x/controles/dualshock4.jpg
+        :target: {filename}/images/v1.x/controles/dualshock4.jpg
+        :alt: Playstation 4 - Dualshock 4
+        :align: center
+
+Xbox One
+~~~~~~~~
+
+Essencialmente o mesmo
+
+.. image:: {filename}/images/v1.x/controles/xboxonecontroller.png
+        :target: {filename}/images/v1.x/controles/xboxonecontroller.png
+        :alt: XBOX One
+        :align: center
+
+Xbox One
+~~~~~~~~
+
+Versão Elite
+
+.. image:: {filename}/images/v1.x/controles/xboxoneelitecontroller.jpg
+        :target: {filename}/images/v1.x/controles/xboxoneelitecontroller.jpg
+        :alt: XBOX One Elite
+        :align: center
+
+SteamController
+~~~~~~~~~~~~~~~
+
+.. image:: {filename}/images/v1.x/controles/steamcontroller.jpg
+        :target: {filename}/images/v1.x/controles/steamcontroller.jpg
+        :alt: Steam Controller
+        :align: center
+
+Outros Links
+------------
+* `Steam Controller`_;
+
+* `Valve quer ajudar a comunidade a criar seus próprios Steam Controllers`_;
+
+* `Artigo do Toad - Sobre melhores amigos, a vida e videogames`_;
+
+Fontes de Aprendizado
+---------------------
+
+* `Podcast Newsinside #17`_;
+
+* História dos jogos:
+
+  * `História dos Jogos | UOL`_;
+  * `The History Of Video Arcade Games`_;
+  * `A história dos video games - do osciloscópio aos gráficos 3D`_;
+
+* `Artigo sobre controles de videogame`_;
+
+* `The Evolution of Game Controllers and Control Schemes and their Effect on their games`_;
+
+* `Wiimote vs.Controller - Electroencephalographic Measurement of Affective Gameplay Interaction`_;
+
+* `Magia e imaginário nos controles baseados em gestos`_;
+
+* `Videogame - história, gêneros e diálogo com o cinema`_;
+
+* `O controle em suas mãos - a evolução da interação entre jogador e videogame`_;
+
+Lição de Hoje
+-------------
+
+“Domine os controles, ou seja dominado por eles”. (by @jfcostta).
+
+.. Links Gerais
+.. _Hack 'n' Cast: /pt/category/hack-n-cast
+.. _E-mail: mailto: hackncast@gmail.com
+.. _Twitter: http://twitter.com/hackncast
+.. _Facebook: http://facebook.com/hackncast
+.. _Feed: http://feeds.feedburner.com/hack-n-cast
+.. _Podflix: http://podflix.com.br/hackncast/
+.. _iTunes: https://itunes.apple.com/br/podcast/hack-n-cast/id884916846?l=en
+.. _Pocket Casts: http://pcasts.in/hackncast
+.. _Google Groups: https://groups.google.com/forum/?hl=pt-BR#!forum/hackncast
+
+.. _Steam Controller: http://store.steampowered.com/app/353370/?l=portuguese
+
+.. _Valve quer ajudar a comunidade a criar seus próprios Steam Controllers: http://games.tecmundo.com.br/noticias/valve-quer-ajudar-comunidade-criar-proprios-steam-controllers\_814916.htm
+.. _Artigo do Toad - Sobre melhores amigos, a vida e videogames: http://toad.com.br/2014/08/27/sobre-melhores-amigos-a-vida-e-videogames/
+
+.. _Podcast Newsinside #17: http://www.newsinside.org/podcast/podcast-17-controles-de-videogame
+.. _História dos Jogos | UOL: http://jogos.uol.com.br/reportagens/historia/
+.. _The History Of Video Arcade Games: http://www.bmigaming.com/videogamehistory.htm
+.. _A história dos video games - do osciloscópio aos gráficos 3D: http://www.tecmundo.com.br/xbox-360/3236-a-historia-dos-video-games-do-osciloscopio-aos-graficos-3d.htm
+.. _Artigo sobre controles de videogame: http://ready-up.net/features/its-in-our-hands/
+.. _The Evolution of Game Controllers and Control Schemes and their Effect on their games: http://mms.ecs.soton.ac.uk/2007/papers/6.pdf
+.. _Wiimote vs.Controller - Electroencephalographic Measurement of Affective Gameplay Interaction: http://hci.usask.ca/uploads/182-Nacke-Wiimote-vs-Controller-EEG.pdf
+.. _Magia e imaginário nos controles baseados em gestos: http://www.sbgames.org/papers/sbgames09/culture/full/cult18\_09.pdf
+.. _Videogame - história, gêneros e diálogo com o cinema: http://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select\_action=&co\_obra=37366
+.. _O controle em suas mãos - a evolução da interação entre jogador e videogame:  http://monografias.cic.unb.br/dspace/handle/123456789/302
