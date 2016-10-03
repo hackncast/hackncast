@@ -36,7 +36,7 @@ Pela Comunidade:
 Contato
 =======
 
-Conforme citado anteriormente, incentivamos qualquer tipo de contato, *feedback*, crítica ou sugestão, que podem ser feitas através do `e-mail`_, `formulário de contato`_ ou `twitter`_. 
+Conforme citado anteriormente, incentivamos qualquer tipo de contato, *feedback*, crítica ou sugestão, que podem ser feitas através do `e-mail`_, `formulário de contato`_, `twitter`_ ou a comunidade telegram.
 
 Aceitamos também sugestões de tema e voluntários para participar do podcast como convidado especial. Tudo que pedimos é um nível aceitável na qualidade de áudio, pouco ruído de fundo e uma internet capaz de realizar a transmissão de áudio em tempo real.
 
