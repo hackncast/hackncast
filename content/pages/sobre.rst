@@ -36,7 +36,7 @@ Pela Comunidade:
 Contato
 =======
 
-Conforme citado anteriormente, incentivamos qualquer tipo de contato, *feedback*, crítica ou sugestão, que podem ser feitas através do `e-mail`_, `formulário de contato`_ ou `twitter`_. 
+Conforme citado anteriormente, incentivamos qualquer tipo de contato, *feedback*, crítica ou sugestão, que podem ser feitas através do `e-mail`_, `formulário de contato`_, `twitter`_ ou a comunidade no `telegram`_.
 
 Aceitamos também sugestões de tema e voluntários para participar do podcast como convidado especial. Tudo que pedimos é um nível aceitável na qualidade de áudio, pouco ruído de fundo e uma internet capaz de realizar a transmissão de áudio em tempo real.
 
@@ -73,6 +73,7 @@ O Hack 'n' Cast é distribuído sobre a licença `Creative Commons Attribution-S
 .. _formulário de contato: /contato
 .. _e-mail: mailto: hackncast@gmail.com
 .. _twitter: http://twitter.com/hackncast
+.. _telegram: https://telegram.me/hackncast
 .. _Creative Commons Attribution-ShareAlike 4.0 International: http://creativecommons.org/licenses/by-sa/4.0/
 .. _assine pelo navegador aqui: http://feeds.feedburner.com/hack-n-cast
 .. _Daniel Cavalcante: https://www.facebook.com/entediado.agenciaxfour
