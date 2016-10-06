@@ -9,11 +9,12 @@ v1.1 - O controle em suas mãos
 :length: 93399040
 :duration: 129:21
 :podcast: HNC.v1.1-O-Controle-Em-Suas-Maos
-:description: Teclado, mouse, gamepads, joysticks, controles, manches, alavancas... Seja qual for o nome/modalidade que você use, ele está sempre lá, "o controle de videogame".
+:description: Teclado. mouse. gamepads.- joysticks controles. manches. alavancas.. Seja qual for o nome--modalidade que você use... ele está sempre lá. "o controle de videogame"- [ˈʤɔɪstɪk],
 
-Desde a criação dos primeiros jogos, há uma preocupação real com o modo de interação com o jogador. A tecnologia evolui, as pessoas mudam e, consequentemente, os games seguem na mesma linha. É preciso chegar a modos de interação que integrem todas as variáveis. Aí entra o controle de videogame.
+Desde a criação dos primeiros jogos, há uma preocupação real com o modo de interação com o jogador. A tecnologia evolui, as pessoas mudam e consequentemente, os games seguem na mesma linha. É preciso chegar a modos de interação, que integrem todas as variáveis. Aí entra o controle de VideoGame.
 
-Evoluindo de componentes eletrônicos simples - ora com mudanças triviais, ora com reestruturação total - até o estágio atual, os controles de videogame têm uma história fascinante que deve ser conhecida para que se possa saber quais serão os próximos passos.
+Evoluindo de componentes eletrônicos simples - ora com mudanças triviais, ora com reestruturação total - até o estágio atual, os controles de videogame, têm uma história fascinante que deve ser conhecida! 
+Para que se possa saber quais serão os Próximos Loadings...
 
 Para não perder nenhum episódio siga-nos nas redes sociais (`Twitter`_ e `Facebook`_) ou inscreva-se (`Feed`_, `Podflix`_, `iTunes`_ e `Pocket Casts`_). Você quer colaborar com o Hack 'n' Cast? Sugira um tema, nos ajude a produzir uma pauta ou participe conosco! Basta entrar em contato por `E-mail`_, `Facebook`_ ou `Twitter`_. E agora temos a nossa lista de discussão no `Google Groups`_!
 
@@ -395,6 +396,7 @@ Lição de Hoje
 -------------
 
 “Domine os controles, ou seja dominado por eles”. (by @jfcostta).
+
 
 .. Links Gerais
 .. _Hack 'n' Cast: /pt/category/hack-n-cast
