@@ -368,6 +368,14 @@ Outros Links
 
 * `Artigo do Toad - Sobre melhores amigos, a vida e videogames`_;
 
+* `Manual da Power Glove`_;
+
+* `Abrindo o controle do Mega Drive`_;
+
+* `Abrindo o controle do Master System`_;
+
+* `Tennis For Two`_;
+
 Fontes de Aprendizado
 ---------------------
 
@@ -391,6 +399,44 @@ Fontes de Aprendizado
 
 * `O controle em suas mãos - a evolução da interação entre jogador e videogame`_;
 
+
+Músicas deste Episódio
+----------------------
+
+Todas as músicas deste episódio foram cuidadosamente selecionadas pelo Ricardo "Highlander":
+
+
+* `Computer, por State Shirt`_;
+* `Brambles in the Breeze, por Protricity`_;
+* `Exit Row, por Skrypnyk`_;
+* `Backwards Room, por zykO`_;
+* `Re-Skewed, por David Wise feat. Grant Kirkhope and Robin Beanland`_;
+* `Brambly Rivers, por Wintermute`_;
+* `Tricky Swamp Style, por Heath Morris`_;
+* `A New Place, por Nicole Adams feat. M.J. Ault and Starla`_;
+* `Sinfonía del Sabio, por Leandro Abreu`_;
+* `Party's Over Here, por OA`_;
+* `Bramble Reprise, por Joshua Morse`_;
+* `Forest Glade, por Neurophonic`_;
+* `The Delay, por Blue Magic`_;
+* `From Within, por Darangen`_;
+* `Clouds Away, por Bekah Jones, DiGi Valentine, Palpable`_;
+* `Monkeys Disarm Their Kremlings, por Nekofrog, Brandon Strader`_;
+* `Forest Birdcussion, por Protricity`_;
+* `Lanterns, por Radiowar`_;
+* `Assembly Line Apparitions, por Protricity`_;
+* `Castle Crescendo, por Sole Signal`_;
+* `Brambles Open Minds Like Bubbles, por Ross Kmet`_;
+* `Us Monkeys Together, por Flickerfall (Diotrans, Palpable)`_;
+* `Beneath the Canopy, por Fishy`_;
+* `The Apes of Wrath, por zykO`_;
+* `Mechanical Swamp, por Protricity`_;
+* `Trapped in the Minds, por Geoffrey Taucer, José the Bronx Rican, Hale-Bopp`_;
+
+.. class:: panel-body bg-info
+
+    Todas as músicas estão sob a lincensa especificada no site `OCREMIX`_.
+
 Lição de Hoje
 -------------
 
@@ -411,6 +457,10 @@ Lição de Hoje
 
 .. _Valve quer ajudar a comunidade a criar seus próprios Steam Controllers: http://games.tecmundo.com.br/noticias/valve-quer-ajudar-comunidade-criar-proprios-steam-controllers\_814916.htm
 .. _Artigo do Toad - Sobre melhores amigos, a vida e videogames: http://toad.com.br/2014/08/27/sobre-melhores-amigos-a-vida-e-videogames/
+.. _Manual da Power Glove: http://research.microsoft.com/en-us/um/people/bibuxton/buxtoncollection/a/pdf/Power%20Glove%20Instructions.pdf
+.. _Abrindo o controle do Mega Drive: https://youtu.be/XdJK6IBnfeU
+.. _Abrindo o controle do Master System: https://youtu.be/z15tmJo1Nm4
+.. _Tennis For Two: https://youtu.be/6PG2mdU_i8k
 
 .. _Podcast Newsinside #17: http://www.newsinside.org/podcast/podcast-17-controles-de-videogame
 .. _História dos Jogos | UOL: http://jogos.uol.com.br/reportagens/historia/
@@ -422,3 +472,32 @@ Lição de Hoje
 .. _Magia e imaginário nos controles baseados em gestos: http://www.sbgames.org/papers/sbgames09/culture/full/cult18\_09.pdf
 .. _Videogame - história, gêneros e diálogo com o cinema: http://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select\_action=&co\_obra=37366
 .. _O controle em suas mãos - a evolução da interação entre jogador e videogame:  http://monografias.cic.unb.br/dspace/handle/123456789/302
+
+.. _Computer, por State Shirt: http://freemusicarchive.org/music/State_Shirt/This_Is_Old/04_Computer
+.. _Brambles in the Breeze, por Protricity: http://ocremix.org/remix/OCR00494 
+.. _Exit Row, por Skrypnyk: http://dkc2.ocremix.org/music.html 
+.. _Backwards Room, por zykO: http://dkc2.ocremix.org/music.html 
+.. _Re-Skewed, por David Wise feat. Grant Kirkhope and Robin Beanland: http://dkc2.ocremix.org/music.html 
+.. _Brambly Rivers, por Wintermute: http://ocremix.org/remix/OCR00562 
+.. _Tricky Swamp Style, por Heath Morris: http://ocremix.org/remix/OCR01571 
+.. _A New Place, por Nicole Adams feat. M.J. Ault and Starla: http://dkc2.ocremix.org/music.html 
+.. _Sinfonía del Sabio, por Leandro Abreu: http://ocremix.org/remix/OCR02805 
+.. _Party's Over Here, por OA: http://dkc2.ocremix.org/music.html 
+.. _Bramble Reprise, por Joshua Morse: http://dkc2.ocremix.org/music.html 
+.. _Forest Glade, por Neurophonic: http://ocremix.org/remix/OCR03220 
+.. _The Delay, por Blue Magic: http://ocremix.org/remix/OCR01546 
+.. _From Within, por Darangen: http://ocremix.org/remix/OCR01249 
+.. _Clouds Away, por Bekah Jones, DiGi Valentine, Palpable: http://ocremix.org/remix/OCR02950 
+.. _Breathe Deep, por The Vagrance, Wild: http://ocremix.org/remix/OCR02140 
+.. _Forest Birdcussion, por Protricity: http://ocremix.org/remix/OCR01138 
+.. _Lanterns, por Radiowar: http://ocremix.org/remix/OCR01725 
+.. _Assembly Line Apparitions, por Protricity: http://ocremix.org/remix/OCR00980 
+.. _Castle Crescendo, por Sole Signal: http://dkc2.ocremix.org/music.html 
+.. _Brambles Open Minds Like Bubbles, por Ross Kmet: http://ocremix.org/remix/OCR02030 
+.. _Us Monkeys Together, por Flickerfall (Diotrans, Palpable): http://dkc2.ocremix.org/music.html 
+.. _Monkeys Disarm Their Kremlings, por Nekofrog, Brandon Strader: http://dkc2.ocremix.org/music.html 
+.. _Beneath the Canopy, por Fishy: http://dkc2.ocremix.org/music.html 
+.. _The Apes of Wrath, por zykO: http://dkc2.ocremix.org/music.html 
+.. _Mechanical Swamp, por Protricity: http://ocremix.org/remix/OCR00594 
+.. _Trapped in the Minds, por Geoffrey Taucer, José the Bronx Rican, Hale-Bopp: http://dkc2.ocremix.org/music.html 
+.. _OCREMIX: http://ocremix.org/info/Frequently_Asked_Questions#Can_I_use_OC_ReMixes_in_my_YouTube_video.2C_website.2C_livestream.2C_podcast.2C_radio_show.2C_etc..3F
