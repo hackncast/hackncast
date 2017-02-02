@@ -1,0 +1,60 @@
+v1.3 - E o Software Livre no Governo?
+#####################################
+:date: 2017-02-02 01:43
+:authors: Magnun, Everton Melo
+:category: Software Livre
+:tags: podcast, software livre, governo, petição, licitação, compra
+:image: /images/v1.x/covers/v1.3-cover-sqr.jpg
+:image_wide: /images/v1.x/covers/v1.3-cover-wide.jpg
+:length: 67115008
+:duration: 45:57
+:podcast: HNC.v1.3-E-o-Software-Livre-No-Governo
+:description: *Spoiler:* Morreu. Só que não...
+
+
+Macaco velho no Software Livre sabe que de tempos em tempos esse burburinho volta a tona e todos entram em pânico dizendo que o Governo Federal está abandonando o Software Livre e investindo e tecnologias fechadas. Pra acalmar os ânimos, convocamos Everton Melo (contato via `@Everton06` no Chat Secreto do Telegram e `email`_), nosso especialista em finanças públicas e licitações.
+
+Para não perder nenhum episódio siga-nos nas redes sociais (`Twitter`_ e `Facebook`_) ou inscreva-se (`Feed`_, `Podflix`_, `iTunes`_ e `Pocket Casts`_). Você quer colaborar com o Hack 'n' Cast? Sugira um tema, nos ajude a produzir uma pauta ou participe conosco! Basta entrar em contato por `E-mail`_, `Facebook`_ ou `Twitter`_. E agora temos a nossa lista de discussão no `Google Groups`_!
+
+.. more
+
+Links Citados no Episódio
+-------------------------
+
+* `Notícia Original`_;
+* `O que é um decreto`_;
+* `Portal de Compras do Governo Federal (PrintScreen)`_;
+* `Por que o software livre vai perder espaço no governo federal`_;
+* `Distribuição Linux do EB`_;
+* `Plano de Migração do EB`_;
+* `Uso de Software Proprietário na USP`_;
+* `Introdução ao Orçamento Público`_;
+* `Lei que Regulamenta a Iniciativa Popular`_;
+* `Criaçao do ICP - Instituto de Chaves Públicas`_;
+* `Lei de Acesso à Informação (LAI)`_;
+
+.. Links Gerais
+.. _Hack 'n' Cast: /pt/category/hack-n-cast
+.. _E-mail: mailto: hackncast@gmail.com
+.. _Twitter: http://twitter.com/hackncast
+.. _Facebook: http://facebook.com/hackncast
+.. _Feed: http://feeds.feedburner.com/hack-n-cast
+.. _Podflix: http://podflix.com.br/hackncast/
+.. _iTunes: https://itunes.apple.com/br/podcast/hack-n-cast/id884916846?l=en
+.. _Pocket Casts: http://pcasts.in/hackncast
+.. _Google Groups: https://groups.google.com/forum/?hl=pt-BR#!forum/hackncast
+
+.. _email: mailto: everton [dot] win32 [at] mail [dot] com
+
+
+.. _Notícia Original: http://convergenciadigital.uol.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=43869&sid=10
+.. _O que é um decreto: http://www.governoeletronico.gov.br/eixos-de-atuacao/governo/sistema-de-administracao-dos-recursos-de-tecnologia-da-informacao-sisp/ncti-nucleo-de-contratacoes-de-tecnologia-da-informacao/informes-ncti
+.. _Portal de Compras do Governo Federal (PrintScreen): {filename}/images/v1.x/sl-no-governo/painel-de-compras.png
+.. _Por que o software livre vai perder espaço no governo federal: https://www.nexojornal.com.br/expresso/2016/11/03/Por-que-o-software-livre-vai-perder-espa%C3%A7o-no-governo-federal
+.. _Distribuição Linux do EB: https://www.nexojornal.com.br/expresso/2016/11/03/Por-que-o-software-livre-vai-perder-espa%C3%A7o-no-governo-federal
+.. _Plano de Migração do EB: https://www.nexojornal.com.br/expresso/2016/11/03/Por-que-o-software-livre-vai-perder-espa%C3%A7o-no-governo-federal
+.. _Uso de Software Proprietário na USP: https://www.nexojornal.com.br/expresso/2016/11/03/Por-que-o-software-livre-vai-perder-espa%C3%A7o-no-governo-federal
+.. _Introdução ao Orçamento Público: https://www.nexojornal.com.br/expresso/2016/11/03/Por-que-o-software-livre-vai-perder-espa%C3%A7o-no-governo-federal
+.. _Lei que Regulamenta a Iniciativa Popular: http://www.planalto.gov.br/ccivil_03/leis/l9709.htm
+.. _Criaçao do ICP - Instituto de Chaves Públicas: http://www.planalto.gov.br/Ccivil_03/MPV/Antigas_2001/2200-2.htm
+.. _Lei de Acesso à Informação (LAI): http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm
