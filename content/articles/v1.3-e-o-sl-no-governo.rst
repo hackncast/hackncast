@@ -3,7 +3,7 @@ v1.3 - E o Software Livre no Governo?
 :date: 2017-02-02 01:43
 :authors: Magnun, Everton Melo
 :category: Software Livre
-:tags: podcast, software livre, governo, petição, licitação, compra
+:tags: podcast, software livre, governo, petição, licitação, compra, certificaço digital, cidadania
 :image: /images/v1.x/covers/v1.3-cover-sqr.jpg
 :image_wide: /images/v1.x/covers/v1.3-cover-wide.jpg
 :length: 67115008
@@ -21,9 +21,11 @@ Para não perder nenhum episódio siga-nos nas redes sociais (`Twitter`_ e `Face
 Links Citados no Episódio
 -------------------------
 
+
 * `Notícia Original`_;
 * `O que é um decreto`_;
-* `Portal de Compras do Governo Federal (PrintScreen)`_;
+* `Portal de Compras do Governo Federal (PrintScreen)`_; do documento: 
+* `Comprasnet`_;
 * `Por que o software livre vai perder espaço no governo federal`_;
 * `Distribuição Linux do EB`_;
 * `Plano de Migração do EB`_;
@@ -32,6 +34,7 @@ Links Citados no Episódio
 * `Lei que Regulamenta a Iniciativa Popular`_;
 * `Criaçao do ICP - Instituto de Chaves Públicas`_;
 * `Lei de Acesso à Informação (LAI)`_;
+* `Plataforma de voluntários on-line da ONU`_:
 
 .. Links Gerais
 .. _Hack 'n' Cast: /pt/category/hack-n-cast
@@ -47,6 +50,7 @@ Links Citados no Episódio
 .. _email: mailto: everton [dot] win32 [at] mail [dot] com
 
 
+
 .. _Notícia Original: http://convergenciadigital.uol.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=43869&sid=10
 .. _O que é um decreto: http://www.governoeletronico.gov.br/eixos-de-atuacao/governo/sistema-de-administracao-dos-recursos-de-tecnologia-da-informacao-sisp/ncti-nucleo-de-contratacoes-de-tecnologia-da-informacao/informes-ncti
 .. _Portal de Compras do Governo Federal (PrintScreen): {filename}/images/v1.x/sl-no-governo/painel-de-compras.png
@@ -58,3 +62,6 @@ Links Citados no Episódio
 .. _Lei que Regulamenta a Iniciativa Popular: http://www.planalto.gov.br/ccivil_03/leis/l9709.htm
 .. _Criaçao do ICP - Instituto de Chaves Públicas: http://www.planalto.gov.br/Ccivil_03/MPV/Antigas_2001/2200-2.htm
 .. _Lei de Acesso à Informação (LAI): http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm
+.. _Plataforma de voluntários on-line da ONU: https://www.onlinevolunteering.org/en
+.. _Comprasnet: http://www.comprasnet.gov.br/consultalicitacoes/ConsLicitacao_Filtro.asp
+.. _Comprasnet consulta geral:  http://www.comprasgovernamentais.gov.br/gestor-de-compras/consultas-1
