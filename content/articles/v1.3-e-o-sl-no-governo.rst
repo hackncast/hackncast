@@ -25,7 +25,7 @@ Links Citados no Episódio
 * `Notícia Original`_;
 * `O que é um decreto`_;
 * `Portal de Compras do Governo Federal (PrintScreen)`_; do documento: 
-* `Camprasnet`_;
+* `Comprasnet`_;
 * `Por que o software livre vai perder espaço no governo federal`_;
 * `Distribuição Linux do EB`_;
 * `Plano de Migração do EB`_;
@@ -34,7 +34,7 @@ Links Citados no Episódio
 * `Lei que Regulamenta a Iniciativa Popular`_;
 * `Criaçao do ICP - Instituto de Chaves Públicas`_;
 * `Lei de Acesso à Informação (LAI)`_;
-* `Plataforma de voluntários on-line da ONU:
+* `Plataforma de voluntários on-line da ONU`_:
 
 .. Links Gerais
 .. _Hack 'n' Cast: /pt/category/hack-n-cast
@@ -62,6 +62,6 @@ Links Citados no Episódio
 .. _Lei que Regulamenta a Iniciativa Popular: http://www.planalto.gov.br/ccivil_03/leis/l9709.htm
 .. _Criaçao do ICP - Instituto de Chaves Públicas: http://www.planalto.gov.br/Ccivil_03/MPV/Antigas_2001/2200-2.htm
 .. _Lei de Acesso à Informação (LAI): http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm
-.. _Plataforma de voluntários da ONU: https://www.onlinevolunteering.org/en
-.. _Comprasnet : http://www.comprasnet.gov.br/consultalicitacoes/ConsLicitacao_Filtro.asp
+.. _Plataforma de voluntários on-line da ONU: https://www.onlinevolunteering.org/en
+.. _Comprasnet: http://www.comprasnet.gov.br/consultalicitacoes/ConsLicitacao_Filtro.asp
 .. _Comprasnet consulta geral:  http://www.comprasgovernamentais.gov.br/gestor-de-compras/consultas-1
