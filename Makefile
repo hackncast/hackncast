@@ -10,7 +10,7 @@ CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
 VENV=$(HOME)/venv/pelican-3.4/bin/activate
-PRDOUTPUTDIR=/var/www/hackncast
+PRDOUTPUTDIR=/var/www/hackncast/site
 TMPDIR=/tmp/build/hackncast
 
 DEBUG ?= 0
