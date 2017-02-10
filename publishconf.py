@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://hackncast.org'
+SITEURL = '//hackncast.org'
 RELATIVE_URLS = False
 
 # Configuração do Feed
