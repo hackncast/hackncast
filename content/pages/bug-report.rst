@@ -7,5 +7,5 @@ Bug Report
 
 .. raw:: html
 
-        <iframe src="http://mindbending.org/bug-form" class="bg-form" width="100%" height="100%"></iframe>
+        <iframe src="https://hackncast.org/bug-form" class="bg-form" width="100%" height="100%"></iframe>
 
