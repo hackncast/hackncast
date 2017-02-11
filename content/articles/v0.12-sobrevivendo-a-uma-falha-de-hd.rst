@@ -127,7 +127,7 @@ Demais Links
 .. Convidados
 .. _Eduardo Klosowski: https://eduardoklosowski.wordpress.com/
 .. _Fabio Rodriguez: https://twitter.com/fabiolrodriguez
-.. _Piratas da Internet: http://piratasdainternet.com.br/
+.. _Piratas da Internet: https://piratasdainternet.github.io/
 
 .. Avisos
 .. _17º Encontro LocaWeb de profissionais de Internet: http://eventos.locaweb.com.br/

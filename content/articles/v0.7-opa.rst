@@ -135,7 +135,7 @@ Links Citados
 .. _Curto Circuito Podcast: http://curtocircuito.cc/
 .. _Castálio Podcast: http://www.castalio.info/
 .. _MdM: http://melhoresdomundo.net/
-.. _Piratas da Internet: http://piratasdainternet.com.br/
+.. _Piratas da Internet: https://piratasdainternet.github.io/
 .. _UltraGeek: http://www.redegeek.com.br/ultrageek/
 .. _Pauta Livre News: http://www.pautalivrenews.com/
 .. _VoidPodcast: http://voidpodcast.com/

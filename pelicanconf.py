@@ -174,7 +174,7 @@ PODCASTS_AMIGOS = [
         ("Blog do Edivaldo Brito", "http://www.edivaldobrito.com.br/"),
         ("NetoCast", "http://www.josecastanhasneto.blogspot.com.br/"),
         ("DatabaseCast", "http://imasters.com.br/perfil/databasecast"),
-        ("Piratas da Internet", "http://piratasdainternet.com.br/"),
+        ("Piratas da Internet", "https://piratasdainternet.github.io/"),
         ]
 
 LINKS_ACOMPANHE = (

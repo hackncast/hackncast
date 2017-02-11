@@ -427,4 +427,4 @@ Steal This Album (2002)
 .. _Neto Cast: http://www.josecastanhasneto.blogspot.com.br/
 .. _DatabaseCast: http://imasters.com.br/perfil/databasecast/
 .. _Nossa Participação no DatabaseCast: http://imasters.com.br/infra/seguranca/databasecast-databasenhacking/
-.. _Piratas da Internet: http://piratasdainternet.com.br/
+.. _Piratas da Internet: https://piratasdainternet.github.io/
