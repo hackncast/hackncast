@@ -1,0 +1,51 @@
+v1.4 - Espresso #001: Mulher Nota 1000 Na Produção De Cachaça 
+##############################################################
+:date: 2017-02-15 23:50
+:authors: Ricardo, Jorge Flávio, Everton Melo, Thales Arquimago, Samuel Heimdall
+:category: Cultura Pop
+:tags: podcast, espresso
+:image: /images/v1.x/covers/v1.4-cover-sqr.jpg
+:image_wide: /images/v1.x/covers/v1.4-cover-wide.jpg
+:length: 25974784 
+:duration: 35:43
+:podcast: HNC.v1.4-Espresso-001-Mulher-Nota-1000-na-Producao-de-Cachaca
+:description: Bzzzzzzrrr... tec, tec, tec... tchuuuuuuu... tummmmm...
+
+É um Espresso que já está meio frio, mas tá valendo... Nesse episódio especial do Hack 'n' Cast, Ricardo Highlander e Jorge Hitman recebem os convidados Everton Grão Malique, Thales Arquimago e Samuel Heimdall, participantes do grupo do `HnC no Telegram`_, para um papo rápido sobre as invasões de contas do SISU que fizeram com que vários alunos nota 1000 se inscrevessem em cursos nos quais não estavam tão interessados assim... E um anúncio bombástico!
+
+Para não perder nenhum episódio siga-nos nas redes sociais (`Twitter`_ e `Facebook`_) ou inscreva-se (`Feed`_, `Podflix`_, `iTunes`_ e `Pocket Casts`_). Você quer colaborar com o Hack 'n' Cast? Sugira um tema, nos ajude a produzir uma pauta ou participe conosco! Basta entrar em contato por `E-mail`_, `Facebook`_ ou `Twitter`_. E agora temos a nossa lista de discussão no `Google Groups`_!
+
+.. more
+
+Links Citados no Episódio
+-------------------------
+
+* Notícia citada no episódio: `Aluna nota 1.000 no Enem é hackeada e inscrita em produção de cachaça`_
+
+
+Músicas Utilizadas no Episódio
+------------------------------
+
+- "Way Before the Day Before Yesterday (65,000,000 B.C.)" by Wiesty, The OC Jazz Collective;
+- "Triggernometry" by Triplepoint Trio;
+- "Time's Seal (12,000 B.C.)" by Nostalvania, The OC Jazz Collective;
+- "Fight or Flight (1999 A.D.)" by Nostalvania, The OC Jazz Collective;
+- "Driftwood (∞)" by Fratto, Wiesty, The OC Jazz Collective;
+
+Músicas 1, 2, 3, 6 e 8 do álbum "`Chronology - A Jazz Tribute to Chrono Trigger`_" sob uma `licença de uso`_ própria.
+
+.. Links Gerais
+.. _Hack 'n' Cast: /pt/category/hack-n-cast
+.. _E-mail: mailto: hackncast@gmail.com
+.. _Twitter: http://twitter.com/hackncast
+.. _Facebook: http://facebook.com/hackncast
+.. _Feed: http://feeds.feedburner.com/hack-n-cast
+.. _Podflix: http://podflix.com.br/hackncast/
+.. _iTunes: https://itunes.apple.com/br/podcast/hack-n-cast/id884916846?l=en
+.. _Pocket Casts: http://pcasts.in/hackncast
+.. _Google Groups: https://groups.google.com/forum/?hl=pt-BR#!forum/hackncast
+
+.. _HnC no Telegram: http://t.me/hackncast
+.. _Aluna nota 1.000 no Enem é hackeada e inscrita em produção de cachaça: http://glo.bo/2ke30Zm
+.. _Chronology - A Jazz Tribute to Chrono Trigger: http://ocremix.org/album/76/chronology-a-jazz-tribute-to-chrono-trigger
+.. _licença de uso: http://ocremix.org/info/Content_Policy
