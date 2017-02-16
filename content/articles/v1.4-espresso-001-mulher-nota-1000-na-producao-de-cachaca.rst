@@ -3,7 +3,7 @@ v1.4 - Espresso #001: Mulher Nota 1000 Na Produção De Cachaça
 :date: 2017-02-15 23:50
 :authors: Ricardo, Jorge Flávio, Everton Melo, Thales Arquimago, Samuel Heimdall
 :category: Cultura Pop
-:tags: podcast, espresso
+:tags: podcast, espresso, segurança, invasão, hack 'n' cast, sisu, enen, mec
 :image: /images/v1.x/covers/v1.4-cover-sqr.jpg
 :image_wide: /images/v1.x/covers/v1.4-cover-wide.jpg
 :length: 25974784 
