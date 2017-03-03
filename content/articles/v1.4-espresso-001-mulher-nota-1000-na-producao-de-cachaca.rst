@@ -20,7 +20,8 @@ Para não perder nenhum episódio siga-nos nas redes sociais (`Twitter`_ e `Face
 Links Citados no Episódio
 -------------------------
 
-* Notícia citada no episódio: `Aluna nota 1.000 no Enem é hackeada e inscrita em produção de cachaça`_
+* Notícia citada no episódio: `Aluna nota 1.000 no Enem é hackeada e inscrita em produção de cachaça`_;
+* `Site para alterar senha`_;
 
 
 Músicas Utilizadas no Episódio
@@ -49,3 +50,4 @@ Músicas 1, 2, 3, 6 e 8 do álbum "`Chronology - A Jazz Tribute to Chrono Trigge
 .. _Aluna nota 1.000 no Enem é hackeada e inscrita em produção de cachaça: http://glo.bo/2ke30Zm
 .. _Chronology - A Jazz Tribute to Chrono Trigger: http://ocremix.org/album/76/chronology-a-jazz-tribute-to-chrono-trigger
 .. _licença de uso: http://ocremix.org/info/Content_Policy
+.. _Site para alterar senha: http://enem.inep.gov.br/participante/#/acompanhamento/alterarSenha
