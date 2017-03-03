@@ -1,7 +1,7 @@
 Bug Report
 ----------
 :comments: closed
-:image: /images/logos/HNC-beta.png
+:image: /images/logos/HNC.png
 :summary: Formulário para reportar um bug no Hack 'n' Cast
 :icon: fa-bug
 
