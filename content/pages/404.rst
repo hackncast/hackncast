@@ -3,7 +3,7 @@
 :status: hidden
 :slug: 404
 :comments: closed
-:image: /images/logos/HNC-beta.png
+:image: /images/logos/HNC.png
 :summary: Página não encontrada
 
 .. image:: {filename}/images/mario404.png

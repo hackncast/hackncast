@@ -99,7 +99,7 @@ PODCAST_FEED_AUTHOR = u'Magnun, Ricardo, Gilson e Davi'
 PODCAST_FEED_COPYRIGHT = u'&#x2117; &amp; &#xA9; 2011-{0} {1}'.format(datetime.now().year, PODCAST_FEED_AUTHOR)
 PODCAST_FEED_SUBTITLE = 'Um podcast para old school hackers'
 PODCAST_FEED_SUMMARY = 'Um podcast sobre tecnologias, software livre, open source e outros temas nerds.'
-PODCAST_FEED_IMAGE = 'http://84.hackncast.org/images/logos/HNC-beta.png'
+PODCAST_FEED_IMAGE = 'http://84.hackncast.org/images/logos/HNC.png'
 PODCAST_FEED_OWNER_NAME = PODCAST_FEED_AUTHOR
 PODCAST_FEED_EMAIL_EMAIL = 'hackncast@gmail.com'
 PODCAST_FEED_CATEGORY = ['Technology', 'Software How-To']
@@ -141,7 +141,7 @@ DISQUS_NO_ID = True
 # SEO Settings
 TWITTER = "@hackncast"
 GLOBAL_KEYWORDS = ['podcast', "hack", "cast", "gnu", "linux", "programação", "python", "tecnologia", "nerd"]
-OPEN_GRAPH_IMAGE = "/images/logos/HNC-beta.png"
+OPEN_GRAPH_IMAGE = "/images/logos/HNC.png"
 SITEDESCRIPTION = "Um podcast sobre tecnologia em geral, mas especialmente focado em Software Livre, Open Source e GNU/Linux"
 
 # Colaboradores

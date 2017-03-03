@@ -1,14 +1,14 @@
 Sobre o Hack 'n' Cast
 #####################
 :slug: sobre
-:image: /images/logos/HNC-beta.png
+:image: /images/logos/HNC.png
 :summary: Págine sobre o Hack 'n' Cast Podcast
 :icon: fa-flag
 
-.. image:: {filename}/images/logos/HNC-beta.png
-        :target: {filename}/images/logos/HNC-beta.png
+.. image:: {filename}/images/logos/HNC.png
+        :target: {filename}/images/logos/HNC.png
         :align: center
-        :alt: Hack 'n' Cast Beta
+        :alt: Hack 'n' Cast
 
 O `Hack 'n' Cast`_ é um podcast sobre tecnologia em geral mas sempre mais voltado para o Open Source, Software Livre, GNU/Linux e programação. Claro que não podemos deixar de escapar (esporadicamente) tópicos do mundo nerd como filmes, revistas em quadrinhos, jogos, livros, series e música. Para se *inscrever no feed* e receber atualizações automáticas utilize o `feed do Feedburner`_.
 
