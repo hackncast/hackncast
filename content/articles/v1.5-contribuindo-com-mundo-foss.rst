@@ -29,6 +29,7 @@ Para não perder nenhum episódio siga-nos nas redes sociais (`Twitter`_ e `Face
   * http://ariadnepinheiro.joomla.com
   * http://ariadnepinheiro.com
 
+* `Artigo do Ouvinte William Oliveira`_ sobre esse assunto;
 
 Músicas Utilizadas no Episódio
 ------------------------------
@@ -49,3 +50,5 @@ Músicas Utilizadas no Episódio
 .. _iTunes: https://itunes.apple.com/br/podcast/hack-n-cast/id884916846?l=en
 .. _Pocket Casts: http://pcasts.in/hackncast
 .. _Google Groups: https://groups.google.com/forum/?hl=pt-BR#!forum/hackncast
+
+.. _Artigo do Ouvinte William Oliveira: https://woliveiras.com.br/posts/contribuindo-para-projetos-open-source-no-github-mesmo-sendo-iniciante/
