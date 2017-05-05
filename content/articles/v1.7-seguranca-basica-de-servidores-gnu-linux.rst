@@ -1,0 +1,239 @@
+v1.7 - Segurança Básica de Servidores GNU/Linux
+###############################################
+:date: 2017-05-05 00:48
+:authors: Ricardo, Jorge Flávio, Samuel Heimdall, Magnun, Fabio Benedito, Everton Melo
+:category: Segurança
+:tags: podcast, segurança, hack 'n' cast, servidores, GNU, Linux, iptables, serviçoes, https, criptografia, certificados, senhas, ssh
+:image: /images/v1.x/covers/v1.7-cover-sqr.jpg
+:image_wide: /images/v1.x/covers/v1.7-cover-wide.jpg
+:length: 62324736
+:duration: 86:16
+:podcast: HNC.v1.7-Seguraca-Basica-de-Servidores-GNU-Linux
+:description: Com quantas mancadas se perde um servidor?
+
+Neste episódio a galera do Hack 'n' Cast conta com a presença ilustre do ouvinte Fabio Benedito e da figurinha carimbada Everton Melo para falar de um tema pouco comentado: Os vacilos que damos ao colocar um servidor GNU/Linux na internet. Mas calma, não será um episódio sobre historinhas de como demos mancadas, mas sim uma aula de o que não fazer e as boas práticas para se ter um servidor GNU/Linux mínimamente seguro nessa nossa internet sem porteira.
+
+Para não perder nenhum episódio siga-nos nas redes sociais (`Twitter`_ e `Facebook`_) ou inscreva-se (`Feed`_, `Podflix`_, `iTunes`_ e `Pocket Casts`_). Você quer colaborar com o Hack 'n' Cast? Sugira um tema, nos ajude a produzir uma pauta ou participe conosco! Basta entrar em contato por `E-mail`_, `Facebook`_ ou `Twitter`_. E agora temos a nossa lista de discussão no `Google Groups`_!
+
+.. more
+
+Senhas
+------
+
+Usar senhas fortes:
+
+.. code-block:: bash
+
+    $ openssl rand 32 -base64
+    sktC7CUIlhDQ13RX4W6GPRa9waxSM6mnBUXtUCNq7ak=
+
+Forçar troca de senhas:
+
+.. code-block:: bash
+
+    # -m Max days; -m min days; -W warning
+    $ chage -M 60 -m 7 -W 7 username
+
+
+SSH - Secure Shell
+------------------
+
+Criar um usuário;
+
+.. code-block:: bash
+
+    $ useradd username
+    $ passwd username
+
+Instalar e configurar o sudo (Super User Do);
+
+.. code-block:: bash
+
+    $ yum install sudo
+    $ aptitude install sudo
+    $ usermod -aG sudo username
+
+Desabilitar login com usuário root;
+
+.. code-block:: bash
+
+    $ vim /etc/ssh/sshd_config
+    "PermitRootLogin no"
+
+Criar e distribuir chaves SSH para usuários;
+
+.. code-block:: bash
+
+    $ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+    $ ssh-copy-id username@servername
+
+Desabilitar logon com senha;
+
+.. code-block:: bash
+
+    $ vim /etc/ssh/sshd_config
+    "PasswordAuthentication no"
+    "PubkeyAuthentication yes"
+
+Mudar porta do servidor SSH
+
+.. code-block:: bash
+
+    $ vim /etc/ssh/sshd_config
+    "Port 666"
+
+Forçar o uso do Protocolo 2
+
+.. code-block:: bash
+
+    $ vim /etc/ssh/sshd_config
+    "Protocol 2"
+
+Restringir usuário permitidos:
+
+.. code-block:: bash
+
+    $ vim /etc/ssh/sshd_config
+    "AllowUsers gooduser1 gooduser2"
+    "DenyUsers baduser1 baduser2"
+
+
+
+Iptables
+--------
+
+Saídas somente de conexões já estabelecidas
+
+.. code-block:: bash
+
+    $ iptables -A INPUT -i eth0 -p tcp -m state --state RELATED,ESTABLISHED -j ACCEPT
+
+Pacotes inválidos
+
+.. code-block:: bash
+
+    $ iptables -A INPUT -m conntrack --ctstate INVALID -j DROP
+
+Novos pacotes que não sejam SYN
+
+.. code-block:: bash
+
+    $ iptables -A INPUT -p tcp ! --syn -m conntrack --ctstate NEW -j DROP
+
+Bloqueia pacotes com flags TCP inválidas
+
+.. code-block:: bash
+
+    $ iptables -A INPUT -p tcp --tcp-flags FIN,SYN,RST,PSH,ACK,URG NONE -j DROP
+    $ iptables -A INPUT -p tcp --tcp-flags FIN,SYN FIN,SYN -j DROP
+    $ iptables -A INPUT -p tcp --tcp-flags SYN,RST SYN,RST -j DROP
+    $ iptables -A INPUT -p tcp --tcp-flags SYN,FIN SYN,FIN -j DROP
+    $ iptables -A INPUT -p tcp --tcp-flags FIN,RST FIN,RST -j DROP
+    $ iptables -A INPUT -p tcp --tcp-flags FIN,ACK FIN -j DROP
+    $ iptables -A INPUT -p tcp --tcp-flags ACK,URG URG -j DROP
+    $ iptables -A INPUT -p tcp --tcp-flags ACK,FIN FIN -j DROP
+    $ iptables -A INPUT -p tcp --tcp-flags ACK,PSH PSH -j DROP
+    $ iptables -A INPUT -p tcp --tcp-flags ALL ALL -j DROP
+    $ iptables -A INPUT -p tcp --tcp-flags ALL NONE -j DROP
+    $ iptables -A INPUT -p tcp --tcp-flags ALL FIN,PSH,URG -j DROP
+    $ iptables -A INPUT -p tcp --tcp-flags ALL SYN,FIN,PSH,URG -j DROP
+    $ iptables -A INPUT -p tcp --tcp-flags ALL SYN,RST,ACK,FIN,URG -j DROP
+
+Bloqueia redes privadas (spoofing)
+
+.. code-block:: bash
+
+    $ iptables -A INPUT -s 224.0.0.0/3 -j DROP
+    $ iptables -A INPUT -s 169.254.0.0/16 -j DROP
+    $ iptables -A INPUT -s 172.16.0.0/12 -j DROP
+    $ iptables -A INPUT -s 192.0.2.0/24 -j DROP
+    $ iptables -A INPUT -s 192.168.0.0/16 -j DROP
+    $ iptables -A INPUT -s 10.0.0.0/8 -j DROP
+    $ iptables -A INPUT -s 0.0.0.0/8 -j DROP
+    $ iptables -A INPUT -s 240.0.0.0/5 -j DROP
+    $ iptables -A INPUT -s 127.0.0.0/8 ! -i lo -j DROP
+
+Bloqueia ping
+
+.. code-block:: bash
+
+    $ iptables -A INPUT -p icmp -j DROP
+
+Limita novas conexões da mesma origem a 20/minuto
+
+.. code-block:: bash
+
+    $ iptables -A INPUT -p tcp -m conntrack --ctstate NEW -m limit --limit 60/s --limit-burst 20 -j ACCEPT
+    $ iptables -A INPUT -p tcp -m conntrack --ctstate NEW -j DROP
+
+
+Demais Links Citados
+--------------------
+
+- `Fail2Ban`_ - Detectar/Bloquear força bruta;
+- `Port Knocking`_;
+- `Serviços`_;
+- `SQL Injection o Que Como Detectar e Como Evitar`_;
+- `Bobby Tables`_;
+- `Desenvolvimento Seguro Identificando Possveis Vulnerabilidades de Paginas Web Com SQLMap`_;
+- `AIDE`_;
+
+
+Músicas do Episódio
+-------------------
+
+- `East of Tunesia`_ - Kevin MacLeod (`Creative Commons Attribution`_);
+- `Orange`_ - Topher Mohr and Alex Elena (Royalty Free);
+- `Black Box`_ - Silent Partner (Royalty Free);
+- TRG Banks, Album '`Instrumental`_' (Royalty Free):
+    - David Hemmings;
+    - Cigar;
+    - Keith in 1987;
+    - Horse Ride 2;
+    - Packed Lunch;
+
+- Monplaisir, album '`Free To Use`_' (Royalty Free):
+    - Free To Use 2;
+    - Free To Use 3;
+    - Free To Use 5;
+    - Free To Use 6;
+
+- Monplaisir, album '`Fifty Seconds of Rain`_' (Royalty Free):
+    - This is Not a Rock Song;
+    - Narcissus smells like headache;
+
+- TRG Banks, Album '`This Train Doesn't Stop at Rugby`_' (Royalty Free):
+    - This Train Doesn't Stop at Rugby
+    - Goodbye Earth
+    - Above the Earth
+    - First Stop
+    - Through the Gravitational Field
+
+
+.. Links Gerais
+.. _Hack 'n' Cast: /pt/category/hack-n-cast
+.. _E-mail: mailto: hackncast@gmail.com
+.. _Twitter: http://twitter.com/hackncast
+.. _Facebook: http://facebook.com/hackncast
+.. _Feed: http://feeds.feedburner.com/hack-n-cast
+.. _Podflix: http://podflix.com.br/hackncast/
+.. _iTunes: https://itunes.apple.com/br/podcast/hack-n-cast/id884916846?l=en
+.. _Pocket Casts: http://pcasts.in/hackncast
+.. _Google Groups: https://groups.google.com/forum/?hl=pt-BR#!forum/hackncast
+
+.. _Fail2Ban: http://www.fail2ban.org/wiki/index.php/Main_Page
+.. _Port Knocking: http://www.portknocking.org/
+.. _Serviços: https://en.wikipedia.org/wiki/Daemon_(computing)#Terminology
+.. _SQL Injection o Que Como Detectar e Como Evitar: http://pt.slideshare.net/fabiobeneditto/sql-injection-o-que-como-detectar-e-como-evitar-por-fbio-beneditto 
+.. _Bobby Tables: https://www.xkcd.com/327/
+.. _Desenvolvimento Seguro Identificando Possveis Vulnerabilidades de Paginas Web Com SQLMap: http://pt.slideshare.net/fabiobeneditto/desenvolvimento-seguro-identificando-possveis-vulnerabilidades-de-paginas-web-com-sqlmap
+.. _AIDE: http://aide.sourceforge.net/
+
+.. _Creative Commons Attribution: https://creativecommons.org/licenses/by/4.0/
+.. _East of Tunesia: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100246
+.. _Orange: https://www.youtube.com/watch?v=aISaTiTHgUA
+.. _Black Box: https://www.youtube.com/watch?v=ZVYAbIG5f7A
+.. _Instrumental: http://freemusicarchive.org/music/TRG_Banks/Instrumentals_1914/
+.. _Free To Use: http://freemusicarchive.org/music/Monplaisir/Free_To_Use/
+.. _Fifty seconds of rain: http://freemusicarchive.org/music/Monplaisir/Fifty_seconds_of_rain/
+.. _This train doesn't stop at Rugby: http://freemusicarchive.org/music/TRG_Banks/This_train_doesnt_stop_at_Rugby/
