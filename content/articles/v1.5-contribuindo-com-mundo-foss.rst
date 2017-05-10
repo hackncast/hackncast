@@ -31,6 +31,7 @@ Para não perder nenhum episódio siga-nos nas redes sociais (`Twitter`_ e `Face
 
 * `Artigo do Ouvinte William Oliveira`_ sobre esse assunto;
 
+
 Músicas Utilizadas no Episódio
 ------------------------------
 
@@ -39,6 +40,10 @@ Músicas Utilizadas no Episódio
 - Phloat - Topher Mohr and Alex Elena (uso livre);
 - Bent and Broken de Kevin MacLeod está licenciada sob uma licença Creative Commons Attribution;
 - Tremsz - Gunnar Olsen (uso livre);
+
+.. class:: panel-body bg-info
+
+    Edição por Daniel Capua.
 
 .. Links Gerais
 .. _Hack 'n' Cast: /pt/category/hack-n-cast

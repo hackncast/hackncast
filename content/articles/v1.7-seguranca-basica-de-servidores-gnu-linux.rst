@@ -209,6 +209,10 @@ Músicas do Episódio
     - First Stop
     - Through the Gravitational Field
 
+.. class:: panel-body bg-info
+
+    Edição por Daniel Capua.
+
 
 .. Links Gerais
 .. _Hack 'n' Cast: /pt/category/hack-n-cast

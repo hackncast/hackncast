@@ -25,6 +25,11 @@ Links Citados no Episódio
 - `Hash Generator`_;
 - `Collision Attack`_;
 
+.. class:: panel-body bg-info
+
+    Edição por Daniel Capua.
+
+
 .. Links Gerais
 .. _Hack 'n' Cast: /pt/category/hack-n-cast
 .. _E-mail: mailto: hackncast@gmail.com
