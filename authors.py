@@ -7,7 +7,7 @@ MAGNUN = {
     'bio': 'Engenheiro de Telecomunicações, atualmente trabalhando como Analista de Infra-estrutura GNU/Linux. É criador, desenvolvedor e autor do blog <a href="http://mindbending.org/">Mind Bending</a> e do Hack \'n\' Cast. Apaixonado por Rock \'n\' Roll, Mangás, GNU/Linux, programação (C e Python) e muito mais...',
     'class': 'Hacker',
     'links': [
-        ("Twitter", "fa-twitter", "https://twitter.com/mind_bend"),
+        ("Twitter", "fa-twitter", "https://twitter.com/magnunleno"),
         ("GitHub", "fa-github", "https://github.com/magnunleno"),
         ]
     }
