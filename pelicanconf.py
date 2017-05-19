@@ -91,6 +91,7 @@ TAG_CLOUD_STEPS = 10
 TAG_CLOUD_MAX_ITEMS = None
 
 # Podcast Feed
+PODCAST_FEED_SITE_URL = 'http://hackncast.org'
 PODCAST_FEED_PATH = u'feeds/podcast.rss'
 PODCAST_FEED_TITLE = "Hack 'n' Cast"
 PODCAST_FEED_EXPLICIT = u'No'

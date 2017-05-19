@@ -192,7 +192,7 @@ class iTunesWriter(Writer):
                  context['SITENAME'])
         feed = PodcastFeed(
             title=title,
-            link=("{0}/".format(self.site_url)),
+            link=("{0}/".format(self.settings.get('PODCAST_FEED_SITE_URL', self.site_url))),
             feed_url=None,
             description=description)
         feed.set_settings(self.settings)
