@@ -233,9 +233,12 @@ class iTunesWriter(Writer):
                 item.title
             )
         )
-        items['description'] += "<![CDATA[{}]]>".format(
-            unicode(Markup(item.summary)).replace("<html><body>", "").replace("</body></html>", "")
-            )
+        description = unicode(Markup(item.summary)).replace("<html><body>", "")
+        description = description.replace("</body></html>", "")
+        description += 'Leia o restante do show notes no <a href="{}">site</a>.'.format(
+            item.settings['SITEURL'] + '/' + item.url
+        )
+        items['description'] += "<![CDATA[{}]]>".format(description)
 
         # Date the article was last modified.
         #  ex: <pubDate>Fri, 13 Jun 2014 04:59:00 -0300</pubDate>
