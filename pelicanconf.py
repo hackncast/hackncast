@@ -141,7 +141,7 @@ DISQUS_NO_ID = True
 # SEO Settings
 TWITTER = "@hackncast"
 GLOBAL_KEYWORDS = ['podcast', "hack", "cast", "gnu", "linux", "programação", "python", "tecnologia", "nerd"]
-OPEN_GRAPH_IMAGE = "/images/logos/HNC.png"
+OPEN_GRAPH_IMAGE = "/images/logos/hnc-itunes.jpg"
 SITEDESCRIPTION = "Um podcast sobre tecnologia em geral, mas especialmente focado em Software Livre, Open Source e GNU/Linux"
 
 # Colaboradores
