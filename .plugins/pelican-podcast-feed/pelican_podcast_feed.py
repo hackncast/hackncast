@@ -228,8 +228,11 @@ class iTunesWriter(Writer):
             items['itunes:summary'] = Markup(item.summary).striptags()
 
         items['description'] = "<![CDATA[{}]]>".format(
-            '<img src="{}" title="{}" alt="{}" />'.format(item.image_wide, item.title, item.title)
+            '<img src="{}{}" title="{}" alt="{}" />'.format(
+                item.settings['SITEURL'], item.image_wide, item.title,
+                item.title
             )
+        )
         items['description'] += "<![CDATA[{}]]>".format(
             unicode(Markup(item.summary)).replace("<html><body>", "").replace("</body></html>", "")
             )
