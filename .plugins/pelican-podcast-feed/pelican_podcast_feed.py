@@ -208,6 +208,10 @@ class iTunesWriter(Writer):
         :param item: An article (pelican's Article object).
 
         """
+        siteurl = self.settings.get('PODCAST_FEED_SITE_URL', item.settings['SITEURL'])
+        if siteurl.startswith('//'):
+            siteurl = 'http:' + siteurl
+
         # Local copy of iTunes attributes to add to the feed.
         items = DEFAULT_ITEM_ELEMENTS.copy()
 
@@ -229,14 +233,14 @@ class iTunesWriter(Writer):
 
         items['description'] = "<![CDATA[{}]]>".format(
             '<img src="{}{}" title="{}" alt="{}" />'.format(
-                item.settings['SITEURL'], item.image_wide, item.title,
+                siteurl, item.image_wide, item.title,
                 item.title
             )
         )
         description = unicode(Markup(item.summary)).replace("<html><body>", "")
         description = description.replace("</body></html>", "")
         description += 'Leia o restante do show notes no <a href="{}">site</a>.'.format(
-            item.settings['SITEURL'] + '/' + item.url
+            siteurl + '/' + item.url
         )
         items['description'] += "<![CDATA[{}]]>".format(description)
 
