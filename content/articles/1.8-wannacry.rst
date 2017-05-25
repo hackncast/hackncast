@@ -1,0 +1,90 @@
+v1.8 - WannaCry
+###############
+:date: 2017-05-25 00:36
+:authors: Ricardo, Jorge Flávio, Samuel Heimdall, Magnun, Everton Melo
+:category: Segurança
+:tags: podcast, segurança, hack 'n' cast, hansomware, ataque, virus, malware, trojan
+:image: /images/v1.x/covers/v1.8-cover-sqr.jpg
+:image_wide: /images/v1.x/covers/v1.8-cover-wide.jpg
+:length: 35082240
+:duration: 48:32
+:podcast: HNC.v1.8-WannaCry
+:description: Come on and cry, cry baby, cry baby, cry baby. Oh honey, welcome back home.
+
+Neste episódio, orignalmente uma Live feita no `Canal do Hack 'n' Cast`_, tivemos o kernel da podcast discutindo a repercussão do hansomware WannaCry, que afetou centenas de países na última semana.
+
+Para não perder nenhum episódio siga-nos nas redes sociais (`Twitter`_ e `Facebook`_) ou inscreva-se (`Feed`_, `Podflix`_, `iTunes`_ e `Pocket Casts`_). Você quer colaborar com o Hack 'n' Cast? Sugira um tema, nos ajude a produzir uma pauta ou participe conosco! Basta entrar em contato por `E-mail`_, `Facebook`_ ou `Twitter`_. E agora temos a nossa lista de discussão no `Google Groups`_!
+
+.. more
+
+Links Citados
+-------------
+
+- `Conta do Twitter com estatisticas atualizadas do hansomware`_;
+- `Episódio do podcast Segurança Legal sobre hansomware`_;
+- `Wanna Cry Ransomware Update 5/21/2017 FIX`_;
+- `Site para identificação de malware e busca de soluções`_;
+- `Outro Site para identificação de malware e busca de soluções`_;
+- `Episódio do Hack 'n' Cast sobre BitCoin - Parte 1`_;
+- `Episódio do Hack 'n' Cast sobre BitCoin - Parte 2`_;
+ 
+
+Músicas do Episódio
+-------------------
+
+- `Cullah - A Cry At Sea`_;
+- `Nangdo - Cry`_;
+- `Kraus - Cry into Pillow`_;
+- `Cloudjumper - Nowhere to Cry`_;
+- `The Basic Income Earth Network - Dont cry Baby dont cry`_;
+- `Monarques - I Wont Cry`_;
+- `Rocco Granata - Cry of Love`_;
+- `The Family Simpson - Far Off Cry`_;
+- `ROZKOL - Their Cries Echo`_;
+- `Artofescapism - Our Giants Alone`_;
+- `Assimilation - Sunshine`_.
+
+**EXTRA**: Participação especial nas vozes do selo babaca: Marcos Capua
+
+
+.. class:: panel-body bg-info
+
+    Edição por `Daniel Capua`_.
+
+
+.. Links Gerais
+.. _Canal do Hack 'n' Cast: https://www.youtube.com/channel/UCwOEGtz0PrNvKW72horfIKw
+.. _Hack 'n' Cast: /pt/category/hack-n-cast
+.. _E-mail: mailto: hackncast@gmail.com
+.. _Twitter: http://twitter.com/hackncast
+.. _Facebook: http://facebook.com/hackncast
+.. _Feed: http://feeds.feedburner.com/hack-n-cast
+.. _Podflix: http://podflix.com.br/hackncast/
+.. _iTunes: https://itunes.apple.com/br/podcast/hack-n-cast/id884916846?l=en
+.. _Pocket Casts: http://pcasts.in/hackncast
+.. _Google Groups: https://groups.google.com/forum/?hl=pt-BR#!forum/hackncast
+
+.. Links
+.. _Conta do Twitter com estatisticas atualizadas do hansomware: https://twitter.com/actual_ransom
+.. _Episódio do podcast Segurança Legal sobre hansomware: http://www.segurancalegal.com/2016/10/episodio-110-ransomware/
+.. _Site para identificação de malware e busca de soluções: https://id-ransomware.malwarehunterteam.com/
+.. _Outro Site para identificação de malware e busca de soluções: https://virustotal.com/
+.. _Episódio do Hack 'n' Cast sobre BitCoin - Parte 1: https://hackncast.org/v017-introducao-ao-bitcoin
+.. _Episódio do Hack 'n' Cast sobre BitCoin - Parte 2: - https://hackncast.org/v020-bitcoin-mineracao-e-carteiras
+.. _Wanna Cry Ransomware Update 5/21/2017 FIX: https://answers.microsoft.com/en-us/windows/forum/windows_10-security/wanna-cry-ransomware/5afdb045-8f36-4f55-a992-53398d21ed07
+
+.. Edição
+.. _Daniel Capua: http://www.danielcapua.com.br/
+
+.. Músicas
+.. _Cullah - A Cry At Sea: http://freemusicarchive.org/music/MC_Cullah/Cullahmity/02_-_A_Cry_At_Sea
+.. _Nangdo - Cry: http://freemusicarchive.org/music/Nangdo/Chrome/14_Cry
+.. _Kraus - Cry into Pillow: http://freemusicarchive.org/music/Kraus/Workers_in_Kontrol/6_cry_into_pillow
+.. _Cloudjumper - Nowhere to Cry: http://freemusicarchive.org/music/Cloudjumper/Far_Sky_EP/Cloudjumper_-_Far_Sky_EP_-_04_Nowhere_to_Cry
+.. _Rocco Granata - Cry of Love: http://freemusicarchive.org/music/Rocco_Granata/Works_1733/Rocco_Granata_-_08_-_Cry_of_Love
+.. _The Family Simpson - Far Off Cry: http://freemusicarchive.org/music/The_Family_Simpson/Citizen_Awake/The_Family_Simpson_-_Far_Off_Cry
+.. _ROZKOL - Their Cries Echo: http://freemusicarchive.org/music/ROZKOL/Hail/ROZKOL_-_Hail_-_11_Their_Cries_Echo<Paste>
+.. _Artofescapism - Our Giants Alone: http://freemusicarchive.org/music/Artofescapism/Modern_Experimental__Progressive_Electronic/Our_Giants_Alone
+.. _Assimilation - Sunshine: http://freemusicarchive.org/music/Assimilation/Prototype/Assimilation_-_Prototype_-_03_Sunshine
+.. _Monarques - I Wont Cry: http://freemusicarchive.org/music/Monarques/Lets_Make_Love_Come_True_1909/I_Wont_Cry
+.. _The Basic Income Earth Network - Dont cry Baby dont cry: https://freemusicarchive.org/music/The_Basic_Income_Earth_Network/The_Art_Of_Boredom_2/The_Basic_Income_Earth_Network__The_Art_Of_Boredom_2__08
