@@ -61,7 +61,7 @@ DIEGO_BOOT = {
     'class': 'JavaScripter',
         }
 ATILA_CAMURCA = {
-    'image': 'http://www.gravatar.com/avatar/6886b7faab75ca8eaeef97cb32303e6c?s=172',
+    'image': 'https://www.gravatar.com/avatar/6886b7faab75ca8eaeef97cb32303e6c?s=172',
     'description': 'Desenvolvedor Java, Ruby, PHP, Python, Javascript. Ajudou a fundar a Fidias Software junto com Alberto e Shara.',
     'class': 'JavaScripter',
     'links': [
@@ -73,7 +73,7 @@ REINALDO_BISPO = {
     'class': 'Archer',
         }
 OG = {
-    'image': 'http://avatars.io/twitter/ogmaciel?size=large',
+    'image': 'https://avatars.io/twitter/ogmaciel?size=large',
     'class': 'Podcaster',
         }
 RAFAEL_ROSA = {
@@ -81,7 +81,7 @@ RAFAEL_ROSA = {
         }
 
 JORGE_FLAVIO = {
-    'image': 'http://avatars.io/twitter/jfcostta?size=large',
+    'image': 'https://avatars.io/twitter/jfcostta?size=large',
     'description': 'Formado em Eng. Elétrica (UFRN), com Esp. em Desenv. de Sistemas Web (FARN), e Mestrado em Eng. da Computação pela UFCG.',
     'class': 'Dev Ops',
     'race': 'Calango Stealth',
@@ -91,17 +91,17 @@ JORGE_FLAVIO = {
     }
 
 ANDRE_DELAI = {
-    'image': 'http://avatars.io/gravatar/a9b1b15e2d4bd53e48c616a9f76de27b?size=large',
+    'image': 'https://avatars.io/gravatar/a9b1b15e2d4bd53e48c616a9f76de27b?size=large',
     'class': 'Hardware Hacker',
         }
 
 DIEGO_SUEIRO = {
-    'image': 'http://avatars.io/gravatar/7c9c173d30e3d5d025bcb539f8413bcf?size=large',
+    'image': 'https://avatars.io/gravatar/7c9c173d30e3d5d025bcb539f8413bcf?size=large',
     'class': 'Embarcados Hacker',
         }
 
 PEDRO_HENRIQUE = {
-    'image': 'http://avatars.io/gravatar/ce8694a83da7c39e9246e4cd9684b3b4?size=large',
+    'image': 'https://avatars.io/gravatar/ce8694a83da7c39e9246e4cd9684b3b4?size=large',
     'class': 'Hacker Mirin',
         }
 
