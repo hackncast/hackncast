@@ -1,0 +1,60 @@
+v1.9 - Live - Últimas notícias do Bitcoin
+#########################################
+:date: 2017-12-19 22:00
+:authors: Ricardo, Samuel Heimdall, Magnun, Everton Melo, Eduardo Elias
+:category: Bitcoin
+:tags: podcast, Bitcoin, hack 'n' cast, economia
+:image: /images/v1.x/covers/v1.9-cover-sqr.jpg
+:image_wide: /images/v1.x/covers/v1.9-cover-wide.jpg
+:length: 60363888
+:duration: 1:02:43
+:podcast: HNC.v1.9-live-ultimas-noticias-bitcoin
+:description: Come on and cry, cry baby, cry baby, cry baby. Oh honey, welcome back home.
+
+Neste episódio, orignalmente uma Live feita no `Canal do Hack 'n' Cast`_, falamos sobre as últimas notícias do Bitcoin.
+
+Para não perder nenhum episódio siga-nos nas redes sociais (`Twitter`_ e `Facebook`_) ou inscreva-se (`Feed`_, `Podflix`_, `iTunes`_ e `Pocket Casts`_). Você quer colaborar com o Hack 'n' Cast? Sugira um tema, nos ajude a produzir uma pauta ou participe conosco! Basta entrar em contato por `E-mail`_, `Facebook`_ ou `Twitter`_. E agora temos a nossa lista de discussão no `Google Groups`_!
+
+.. more
+
+Links Citados
+-------------
+
+- `Episódio do Hack 'n' Cast sobre BitCoin - Parte 1`_;
+- `Episódio do Hack 'n' Cast sobre BitCoin - Parte 2`_;
+
+
+Músicas do Episódio
+-------------------
+
+- `Bitter Pill`_.
+- `ES Shame (Instrumental_Version) - Sebastian Forslund`_
+
+
+.. class:: panel-body bg-info
+
+    Edição por `Eduardo Elias`_.
+
+
+.. Links Gerais
+.. _Canal do Hack 'n' Cast: https://www.youtube.com/channel/UCwOEGtz0PrNvKW72horfIKw
+.. _Hack 'n' Cast: /pt/category/hack-n-cast
+.. _E-mail: mailto: hackncast@gmail.com
+.. _Twitter: http://twitter.com/hackncast
+.. _Facebook: http://facebook.com/hackncast
+.. _Feed: http://feeds.feedburner.com/hack-n-cast
+.. _Podflix: http://podflix.com.br/hackncast/
+.. _iTunes: https://itunes.apple.com/br/podcast/hack-n-cast/id884916846?l=en
+.. _Pocket Casts: http://pcasts.in/hackncast
+.. _Google Groups: https://groups.google.com/forum/?hl=pt-BR#!forum/hackncast
+
+.. Links
+.. _Episódio do Hack 'n' Cast sobre BitCoin - Parte 1: https://hackncast.org/v017-introducao-ao-bitcoin
+.. _Episódio do Hack 'n' Cast sobre BitCoin - Parte 2: - https://hackncast.org/v020-bitcoin-mineracao-e-carteiras
+
+.. Edição
+.. _Eduardo Elias: https://papobitcoin.com
+
+.. Músicas
+.. _Bitter Pill: http://freemusicarchive.org/music/Still_Pluto/Bitter_Pill/Still_Pluto_-_Bitter_Pill_feat_Vosmoy
+.. _ES Shame (Instrumental_Version) - Sebastian Forslund: https://www.youtube.com/watch?v=x0QWGTmUVi4
