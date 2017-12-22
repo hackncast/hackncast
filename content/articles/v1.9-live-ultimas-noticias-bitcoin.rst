@@ -1,6 +1,6 @@
 v1.9 - Últimos Bafões do Bitcoin
 ################################
-:date: 2017-12-19 22:00
+:date: 2017-12-22 01:01
 :authors: Ricardo, Samuel Heimdall, Everton Melo, Eduardo Elias
 :category: Bitcoin
 :tags: podcast, Bitcoin, hack 'n' cast, economia, notícias
