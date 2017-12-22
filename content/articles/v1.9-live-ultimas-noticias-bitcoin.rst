@@ -1,15 +1,15 @@
-v1.9 - Live - Últimas notícias do Bitcoin
-#########################################
+v1.9 - Últimos Bafões do Bitcoin
+################################
 :date: 2017-12-19 22:00
-:authors: Ricardo, Samuel Heimdall, Magnun, Everton Melo, Eduardo Elias
+:authors: Ricardo, Samuel Heimdall, Everton Melo, Eduardo Elias
 :category: Bitcoin
-:tags: podcast, Bitcoin, hack 'n' cast, economia
+:tags: podcast, Bitcoin, hack 'n' cast, economia, notícias
 :image: /images/v1.x/covers/v1.9-cover-sqr.jpg
 :image_wide: /images/v1.x/covers/v1.9-cover-wide.jpg
 :length: 60363888
 :duration: 1:02:43
-:podcast: HNC.v1.9-live-ultimas-noticias-bitcoin
-:description: Come on and cry, cry baby, cry baby, cry baby. Oh honey, welcome back home.
+:podcast: HNC.v1.9-Ultimos-Bafoes-Do-Bitcoin
+:description: Nesse episódio vamos descobrir se bitcoin é uma bolha ou não... brincadeira, não vamos não.
 
 Neste episódio, orignalmente uma Live feita no `Canal do Hack 'n' Cast`_, falamos sobre as últimas notícias do Bitcoin.
 
