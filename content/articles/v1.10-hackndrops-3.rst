@@ -1,0 +1,90 @@
+v1.10 - Hack 'n' Drops #003
+###########################
+:date: 2017-12-30 17:38
+:authors: Ricardo, Jorge Flávio, Magnun, Gilson Filho
+:category: Notícias
+:tags: podcast, segurança, hack 'n' cast, hansomware, ataque, virus, malware, trojan
+:image: /images/v1.x/covers/v1.10-cover-sqr.jpg
+:image_wide: /images/v1.x/covers/v1.10-cover-wide.jpg
+:length: 68493312
+:duration: 59:53
+:podcast: HNC.v1.10-hackndrops-003
+:description: Ninguém existe de propósito. Ninguém pertence a lugar nenhum. Todo mundo vai morrer... Bora ouvir um podcast.
+
+Não, vocês não estão loucos... Os integrantes do Hack 'n' Cast da Terra C-137 nos enviou este episódio para ser publicado aqui. Porém, devido ao lapso temporal entre as dimensões, ele chegou um pouco atrasado. :D
+
+Para não perder nenhum episódio siga-nos nas redes sociais (`Twitter`_ e `Facebook`_) ou inscreva-se (`Feed`_, `Podflix`_, `iTunes`_ e `Pocket Casts`_). Você quer colaborar com o Hack 'n' Cast? Sugira um tema, nos ajude a produzir uma pauta ou participe conosco! Basta entrar em contato por `E-mail`_, `Facebook`_ ou `Twitter`_!
+
+.. more
+
+Notícias deste Episódio
+-----------------------
+
+* `Melhor Jogador de Street Fighter Não é Humano`_;
+* `Google Lança Sites Minhas Atividades`_;
+* `Anonymous Não Para Na Anatel`_;
+* `Marinha dos Estados Unidos Pode Morrer em 600 Milhões`_;
+* `10 Habitos Que Apenas Programadores Sabem`_;
+* `Birl é a Linguagem De Programação Mais 13 Já Inventada`_;
+* `Pixar Oferece Curso Em Português`_;
+* `Como Conseguir Uma Conta Spotfy Premium de Graça`_;
+* `Senso 2010 Nomes no Brasil`_;
+* `O que o Github Tem a Nos Dizer Sobre Estereotipos Entre Programadores`_;
+* `Nasa Abriu Suas Apis Para o Mundo Todo`_;
+* `Como Fazer Um Diskete de 118 Gbytes`_;
+
+
+Adendos
+-------
+
+* `Bot Para Chegar no Ultimo Nível de Pokemon GO`_;
+* `AlphaGO`_;
+* `Ferramentas Cad pra GNU/Linux`_ (licenças livres e pagas);
+
+* `Beyond Pod`_;
+* `PocketCast`_;
+* `AntennaPod`_ (100% openSource);
+
+Músicas do Episódio
+-------------------
+
+.. class:: panel-body bg-info
+
+    Edição por `Daniel Capua`_.
+
+
+.. Links Gerais
+.. _Canal do Hack 'n' Cast: https://www.youtube.com/channel/UCwOEGtz0PrNvKW72horfIKw
+.. _Hack 'n' Cast: /pt/category/hack-n-cast
+.. _E-mail: mailto: hackncast@gmail.com
+.. _Twitter: http://twitter.com/hackncast
+.. _Facebook: http://facebook.com/hackncast
+.. _Feed: http://feeds.feedburner.com/hack-n-cast
+.. _Podflix: http://podflix.com.br/hackncast/
+.. _iTunes: https://itunes.apple.com/br/podcast/hack-n-cast/id884916846?l=en
+.. _Pocket Casts: http://pcasts.in/hackncast
+
+.. Notícias
+.. _Melhor Jogador de Street Fighter Não é Humano: https://www.tecmundo.com.br/jogos/105803-olha-zoeira-melhor-jogador-ranking-street-fighter-v-nao-humano.htm
+.. _Google Lança Sites Minhas Atividades: https://www.tecmundo.com.br/google/66082-o-google-sabe-voce.htm
+.. _Anonymous Não Para Na Anatel: https://olhardigital.com.br/fique_seguro/noticia/alem-da-anatel-anonymous-hackeia-tambem-o-ministerio-publico-do-ms/59936
+.. _Marinha dos Estados Unidos Pode Morrer em 600 Milhões: http://meiobit.com/348339/marinha-eua-vs-bitmanagement-processo-por-instalacao-indevida-de-software-em-mais-de-meio-milhao-de-computadores-sem-licenca-processo-pede-indenizacao-de-600-milhoes-de-dolares/
+.. _10 Habitos Que Apenas Programadores Sabem: http://blog.liveedu.tv/habitos-coisas-programadores/
+.. _Birl é a Linguagem De Programação Mais 13 Já Inventada: https://tecnoblog.net/198973/birl-linguagem-programacao-bambam/
+.. _Pixar Oferece Curso Em Português: https://canaldoensino.com.br/blog/pixar-oferece-curso-gratuito-de-animacao-em-portugues
+.. _Como Conseguir Uma Conta Spotfy Premium de Graça: http://meiobit.com/333700/compre-um-tesla-na-europa-e-consiga-uma-conta-spotify-premium-de-graca/
+.. _Senso 2010 Nomes no Brasil: http://censo2010.ibge.gov.br/nomes/#/search
+.. _O que o Github Tem a Nos Dizer Sobre Estereotipos Entre Programadores: https://tecnoblog.net/198814/github-estereotipos-programadores/ 
+.. _Nasa Abriu Suas Apis Para o Mundo Todo: http://suporteninja.com/quatro-aspectos-positivos-da-abertura-das-apis-da-nasa/
+.. _Como Fazer Um Diskete de 118 Gbytes: http://www.popularmechanics.com/technology/gadgets/a19616/modified-floppy-disk-and-drive-uses-sd-cards/
+
+.. Extras
+.. _Bot Para Chegar no Ultimo Nível de Pokemon GO: https://www.theverge.com/2016/7/27/12299886/pokemon-go-bot-cheat-max-level-40
+.. _AlphaGO: http://link.estadao.com.br/noticias/cultura-digital,apos-vencer-campeao-de-go-computador-do-google-vai-se-aposentar,70001817671
+.. _Ferramentas Cad pra GNU/Linux: http://alternativeto.net/software/autocad/?platform=linux
+.. _Beyond Pod: https://play.google.com/store/apps/details?id=mobi.beyondpod
+.. _PocketCast: https://play.pocketcasts.com/
+.. _AntennaPod: http://antennapod.org/
+
+.. Edição
+.. _Daniel Capua: http://www.danielcapua.com.br/
