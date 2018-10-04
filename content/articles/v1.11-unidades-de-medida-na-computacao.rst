@@ -1,0 +1,52 @@
+v1.11 - Unidades de Medida na Computação
+########################################
+:date: 2018-10-04 01:14
+:authors: Ricardo, Thales Arquimago, Everton Melo, Samuel Heimdall, Jorge Flávio
+:category: Hardware
+:tags: podcast, tecnologia, hack 'n' cast, unidade de medida, matemática, hardware, humor
+:image: /images/v1.x/covers/v1.11-cover-sqr.jpg
+:image_wide: /images/v1.x/covers/v1.11-cover-wide.jpg
+:length: 50302976
+:duration: 79:51
+:podcast: HNC.v1.11-unidades-de-medida-na-computacao
+:description: Kibi-bytes, Kilo-bytes ou Kilo-bits? E seu HD de 1TB, por que ele só reconhece com 931GB?
+
+Oh da pôtrona... Quero dizer, sejam bem vindos a mais um episódio do Hack 'n' Cast! Juntem-se a trupe deste emérito podcast e vamos entender um pouco sobre todas esses nomes, siglas e símbolos que nos da computação estamos cansados de usar mas que nem sepre sabemos seu real significado.
+
+Para não perder nenhum episódio siga-nos nas redes sociais (`Twitter`_ e `Facebook`_) ou inscreva-se (`Feed`_, `Podflix`_, `iTunes`_ e `Pocket Casts`_). Você quer colaborar com o Hack 'n' Cast? Sugira um tema, nos ajude a produzir uma pauta ou participe conosco! Basta entrar em contato por `E-mail`_, `Facebook`_ ou `Twitter`_!
+
+.. more
+
+Notícias deste Episódio
+-----------------------
+
+* `Melô do Ricardão`_;
+* `Pinto (Unidade de Medida)`_;
+* `Cent`_;
+* `Googol`_;
+* `Palavra (Computação)`_;
+
+
+.. class:: panel-body bg-info
+
+    Edição por `Daniel Capua`_.
+
+
+.. Links Gerais
+.. _Canal do Hack 'n' Cast: https://www.youtube.com/channel/UCwOEGtz0PrNvKW72horfIKw
+.. _Hack 'n' Cast: /pt/category/hack-n-cast
+.. _E-mail: mailto: hackncast@gmail.com
+.. _Twitter: http://twitter.com/hackncast
+.. _Facebook: http://facebook.com/hackncast
+.. _Feed: http://feeds.feedburner.com/hack-n-cast
+.. _Podflix: http://podflix.com.br/hackncast/
+.. _iTunes: https://itunes.apple.com/br/podcast/hack-n-cast/id884916846?l=en
+.. _Pocket Casts: http://pcasts.in/hackncast
+.. _Daniel Capua: http://www.danielcapua.com.br/
+
+.. Links
+.. _Melô do Ricardão: https://www.youtube.com/watch?v=ANvVJSMeK3Q
+.. _Pinto (Unidade de Medida): https://pt.wikipedia.org/wiki/Pinto_%28medida%29
+.. _Cent: https://en.wikipedia.org/wiki/Cent_%28music%29
+.. _Googol: http://www.wolframalpha.com/input/?i=googol
+.. _Palavra (Computação): https://pt.wikipedia.org/wiki/Palavra_%28ci%C3%AAncia_da_computa%C3%A7%C3%A3o%29
