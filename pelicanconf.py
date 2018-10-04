@@ -96,7 +96,7 @@ PODCAST_FEED_PATH = u'feeds/podcast.rss'
 PODCAST_FEED_TITLE = "Hack 'n' Cast"
 PODCAST_FEED_EXPLICIT = u'No'
 PODCAST_FEED_LANGUAGE = u'pt-br'
-PODCAST_FEED_AUTHOR = u'Magnun, Ricardo, Jorge, Gilson, Samuel e Everton'
+PODCAST_FEED_AUTHOR = u'Magnun, Ricardo, Jorge, Samuel, Everton e Thales'
 PODCAST_FEED_COPYRIGHT = u'© 2011-{0} {1}'.format(datetime.now().year, PODCAST_FEED_AUTHOR)
 PODCAST_FEED_SUBTITLE = 'Um podcast para old school hackers'
 PODCAST_FEED_SUMMARY = 'Um podcast sobre tecnologias, software livre, open source e outros temas nerds.'
@@ -146,7 +146,14 @@ OPEN_GRAPH_IMAGE = "/images/logos/hnc-itunes.jpg"
 SITEDESCRIPTION = "Um podcast sobre tecnologia em geral, mas especialmente focado em Software Livre, Open Source e GNU/Linux"
 
 # Colaboradores
-MAIN_AUTHORS = ['Magnun', 'Bruno', 'Ricardo', 'Gilson', 'Davi']
+MAIN_AUTHORS = [
+    'Magnun',
+    'Ricardo',
+    'Thales Arquimago',
+    'Everton Melo',
+    'Samuel Heimdall',
+    'Jorge Flávio',
+]
 
 # Nav Bar
 INSCREVA_SE = [

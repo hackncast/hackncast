@@ -124,6 +124,32 @@ BRYAN_MORENO = {
         ]
     }
 
+EVERTON_MELO = {
+    'image': 'https://castalio.info/images/everton-melo.jpeg',
+    'class': 'Cripto Hacker',
+    'race': 'Entidade',
+    'links': []
+    }
+
+SAMUEL_HEIMDALL = {
+    'image': 'https://avatars3.githubusercontent.com/u/4109685?s=460&v=4',
+    'class': 'Guardião do Portal de Java',
+    'race': 'Habitante de Valhalla',
+    'links': [
+        ("Github", "fa-github", "https://github.com/SamuelKlein"),
+        ]
+    }
+
+THALES = {
+    'image': 'https://avatars2.githubusercontent.com/u/7172178?s=460&v=4',
+    'class': 'Arquimago',
+    'race': 'Humano',
+    'links': [
+        ("Github", "fa-github", "https://github.com/arquimago"),
+        ("Twitter", "fa-titter", "https://twitter.com/arquimago"),
+        ]
+    }
+
 SITEAUTHORS = {
     'Magnun': MAGNUN,
     'Bruno': BRUNO,
@@ -144,4 +170,7 @@ SITEAUTHORS = {
     'Pedro Henrique': PEDRO_HENRIQUE,
     'Eduardo Elias': EDUARDO_ELIAS,
     'Bryan Moreno': BRYAN_MORENO,
+    'Everton Melo': EVERTON_MELO,
+    'Samuel Heimdall': SAMUEL_HEIMDALL,
+    'Thales Arquimago': THALES,
     }
