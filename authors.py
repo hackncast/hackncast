@@ -150,6 +150,14 @@ THALES = {
         ]
     }
 
+EDUARDO_KLOSOWSKI = {
+    'image': 'https://avatars1.githubusercontent.com/u/4060984?s=460&v=4',
+    'race': 'Pinguim',
+    'links': [
+        ('Github', 'fa-github', 'https://github.com/eduardoklosowski'),
+        ]
+    }
+
 SITEAUTHORS = {
     'Magnun': MAGNUN,
     'Bruno': BRUNO,
@@ -173,4 +181,5 @@ SITEAUTHORS = {
     'Everton Melo': EVERTON_MELO,
     'Samuel Heimdall': SAMUEL_HEIMDALL,
     'Thales Arquimago': THALES,
+    'Eduardo Klosowski': EDUARDO_KLOSOWSKI,
     }
