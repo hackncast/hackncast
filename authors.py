@@ -158,6 +158,17 @@ EDUARDO_KLOSOWSKI = {
         ]
     }
 
+ARIADNE = {
+    'image': 'https://lh3.googleusercontent.com/a-/AAuE7mD95r4cxB8GbqZBl1a1tmsZEWj23nfAev2b6H1xFmg=s120-p-rw-no-il',
+    'bio': 'Analista de Sistemas, nerd, evangelizadora FOSS, Linux++, especialista Joomla! e feminista.',
+    'description': 'Empresária, Desenvolvedora PHP + Joomla! + JS, entusiasta de Software Livre e apaixonada por números e máquinas.',
+    'race': 'Human',
+    'class': 'Witch',
+    'links': [
+        ("Twitter", "fa-twitter", "https://twitter.com/ariadnepinheiro"),
+    ]
+}
+
 SITEAUTHORS = {
     'Magnun': MAGNUN,
     'Bruno': BRUNO,
@@ -182,4 +193,5 @@ SITEAUTHORS = {
     'Samuel Heimdall': SAMUEL_HEIMDALL,
     'Thales Arquimago': THALES,
     'Eduardo Klosowski': EDUARDO_KLOSOWSKI,
+    'Ariadne Pinheiro': ARIADNE
     }
