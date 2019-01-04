@@ -168,6 +168,16 @@ ARIADNE = {
         ("Twitter", "fa-twitter", "https://twitter.com/ariadnepinheiro"),
     ]
 }
+FABIO_BENEDITTO = {
+    'image': 'https://avatars1.githubusercontent.com/u/3729537', 
+    'race': 'Humano', 
+    'class': 'Strange', 
+    'description': 'Desenvolvedor PHP + JS, entusiasta de F/OSS, e leitor de verdades na Internet', 
+    'links': [
+        ("Github", "fa-github", "https://github.com/fabiobeneditto"),
+        ("Twitter", "fa-titter", "https://twitter.com/fabiobeneditto"),
+    ]
+}
 
 SITEAUTHORS = {
     'Magnun': MAGNUN,
@@ -193,5 +203,6 @@ SITEAUTHORS = {
     'Samuel Heimdall': SAMUEL_HEIMDALL,
     'Thales Arquimago': THALES,
     'Eduardo Klosowski': EDUARDO_KLOSOWSKI,
-    'Ariadne Pinheiro': ARIADNE
+    'Ariadne Pinheiro': ARIADNE, 
+    'Fabio Beneditto': FABIO_BENEDITTO 
     }
