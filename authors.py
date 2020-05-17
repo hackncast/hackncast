@@ -150,6 +150,35 @@ THALES = {
         ]
     }
 
+EDUARDO_KLOSOWSKI = {
+    'image': 'https://avatars1.githubusercontent.com/u/4060984?s=460&v=4',
+    'race': 'Pinguim',
+    'links': [
+        ('Github', 'fa-github', 'https://github.com/eduardoklosowski'),
+        ]
+    }
+
+ARIADNE = {
+    'image': 'https://lh3.googleusercontent.com/a-/AAuE7mD95r4cxB8GbqZBl1a1tmsZEWj23nfAev2b6H1xFmg=s120-p-rw-no-il',
+    'bio': 'Analista de Sistemas, nerd, evangelizadora FOSS, Linux++, especialista Joomla! e feminista.',
+    'description': 'Empresária, Desenvolvedora PHP + Joomla! + JS, entusiasta de Software Livre e apaixonada por números e máquinas.',
+    'race': 'Human',
+    'class': 'Witch',
+    'links': [
+        ("Twitter", "fa-twitter", "https://twitter.com/ariadnepinheiro"),
+    ]
+}
+FABIO_BENEDITTO = {
+    'image': 'https://avatars1.githubusercontent.com/u/3729537', 
+    'race': 'Humano', 
+    'class': 'Strange', 
+    'description': 'Desenvolvedor PHP + JS, entusiasta de F/OSS, e leitor de verdades na Internet', 
+    'links': [
+        ("Github", "fa-github", "https://github.com/fabiobeneditto"),
+        ("Twitter", "fa-titter", "https://twitter.com/fabiobeneditto"),
+    ]
+}
+
 SITEAUTHORS = {
     'Magnun': MAGNUN,
     'Bruno': BRUNO,
@@ -173,4 +202,7 @@ SITEAUTHORS = {
     'Everton Melo': EVERTON_MELO,
     'Samuel Heimdall': SAMUEL_HEIMDALL,
     'Thales Arquimago': THALES,
+    'Eduardo Klosowski': EDUARDO_KLOSOWSKI,
+    'Ariadne Pinheiro': ARIADNE, 
+    'Fabio Beneditto': FABIO_BENEDITTO 
     }
