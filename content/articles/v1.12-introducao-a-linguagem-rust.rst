@@ -1,0 +1,53 @@
+v1.12 - Introducao à Linguagem Rust
+###################################
+:date: 2020-05-17 00:07
+:authors: Ricardo, Magnun, Lord Kumamon, Elias
+:category: Programação
+:tags: podcast, tecnologia, hack 'n' cast, linguagen, programação, rust
+:image: /images/v1.x/covers/v1.12-cover-sqr.jpg
+:image_wide: /images/v1.x/covers/v1.12-cover-wide.jpg
+:length: 66940928
+:duration: 63:26
+:podcast: HNC.v1.12-Introducao-a-Linguagem-Rust
+:description: Rust, uma linguagem de progrmação que tenta oferecer mais garantias ao programador sem delegar a este muitas responsabilidades.
+
+Sejam bem vindos a mais um episódio do Hack 'n' Cast! Juntem-se à nos nessa viagem no tempo para idos de 2017 quando nos juntamos ao Elias e ao Lord Kumamon para falarmos sobre essa linguagem RUSTica.
+
+Para não perder nenhum episódio siga-nos nas redes sociais (`Twitter`_ e `Facebook`_) ou inscreva-se (`Feed`_, `Podflix`_, `iTunes`_ e `Pocket Casts`_). Você quer colaborar com o Hack 'n' Cast? Sugira um tema, nos ajude a produzir uma pauta ou participe conosco! Basta entrar em contato por `E-mail`_, `Facebook`_ ou `Twitter`_!
+
+.. more
+
+Links Citados
+-------------
+
+* `Criador do Rust trabalha na Apple`_;
+* `Rust Error Handling`_;
+* `StackOverflow Survey 2016`_;
+* `Match7 - Pattern Matching for C++`_;
+* `Structured bindings`_;
+* `Official Rust Lang Book`_;
+
+
+.. class:: panel-body bg-info
+
+    Edição por `Daniel Capua`_.
+
+.. Links Gerais
+.. _Canal do Hack 'n' Cast: https://www.youtube.com/channel/UCwOEGtz0PrNvKW72horfIKw
+.. _Hack 'n' Cast: /pt/category/hack-n-cast
+.. _E-mail: mailto: hackncast@gmail.com
+.. _Twitter: http://twitter.com/hackncast
+.. _Facebook: http://facebook.com/hackncast
+.. _Feed: http://feeds.feedburner.com/hack-n-cast
+.. _Podflix: http://podflix.com.br/hackncast/
+.. _iTunes: https://itunes.apple.com/br/podcast/hack-n-cast/id884916846?l=en
+.. _Pocket Casts: http://pcasts.in/hackncast
+.. _Daniel Capua: http://www.danielcapua.com.br/
+
+.. Links
+.. _Criador do Rust trabalha na Apple: https://www.reddit.com/r/hackernews/comments/5ral52/rust_creator_graydon_hoare_is_now_at_apple/
+.. _Rust Error Handling: https://blog.burntsushi.net/rust-error-handling/
+.. _StackOverflow Survey 2016: https://insights.stackoverflow.com/survey/2016
+.. _Match7 - Pattern Matching for C++: https://github.com/solodon4/Mach7
+.. _Structured bindings: http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2016/p0217r2.html
+.. _Official Rust Lang Book: https://doc.rust-lang.org/book/
